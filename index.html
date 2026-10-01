@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>tokenfeed — AI news for devs</title>
+  <meta name="description" content="Live AI news for developers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Perplexity, OpenCode and more.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-row">
+      <a href="#" class="logo" data-source="all">tokenfeed<span class="cursor">_</span></a>
+      <div class="status">
+        <span class="dot" id="dot"></span>
+        <span id="status-text">connecting…</span>
+      </div>
+      <button class="theme-btn" id="theme-btn" aria-label="Toggle theme">◐</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="intro">
+      <h1>AI news, the moment it hits.</h1>
+      <p>Pulled live from Hacker News every 60 seconds. No algorithm, no newsletter — just newest first.</p>
+    </section>
+
+    <nav class="sources" id="sources" aria-label="Filter by source"></nav>
+
+    <div class="toolbar">
+      <input type="search" id="search" placeholder="filter headlines…  (press / )" autocomplete="off">
+      <select id="sort" aria-label="Sort">
+        <option value="new">newest</option>
+        <option value="top">most points</option>
+      </select>
+      <button id="refresh" class="btn">refresh</button>
+    </div>
+
+    <ol class="feed" id="feed"></ol>
+    <p class="empty" id="empty" hidden>Nothing matches. Try another source or clear the filter.</p>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Built with plain HTML, CSS &amp; JS. Data via the <a href="https://hn.algolia.com/api" target="_blank" rel="noopener">HN Algolia API</a>.</p>
+    <p class="keys"><kbd>/</kbd> search &nbsp; <kbd>r</kbd> refresh &nbsp; <kbd>1</kbd>–<kbd>9</kbd> switch source</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
