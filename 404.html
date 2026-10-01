@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CatNews! · Lost?</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="https://catnews.space/catnews.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://catnews.space/style.css">
+  <style>
+    body { min-height: 100vh; display: grid; place-items: center; text-align: center; padding: 24px 16px; }
+    .lost > * { animation: rise .7s var(--ease) both; }
+    .lost > *:nth-child(2) { animation-delay: .1s; }
+    .lost > *:nth-child(3) { animation-delay: .2s; }
+    .lost > *:nth-child(4) { animation-delay: .3s; }
+    .lost > *:nth-child(5) { animation-delay: .4s; }
+
+    .lost-cat {
+      width: 190px;
+      margin: 0 auto 8px;
+      mix-blend-mode: multiply;
+      animation: rise .7s var(--ease) both, search 3.5s 1s ease-in-out infinite !important;
+    }
+    /* the cat looks left… then right… */
+    @keyframes search {
+      0%, 100% { transform: rotate(0) translateX(0); }
+      25% { transform: rotate(-6deg) translateX(-10px); }
+      60% { transform: rotate(6deg) translateX(10px); }
+    }
+
+    .code {
+      font: 600 13px var(--mono);
+      color: var(--accent);
+      letter-spacing: .1em;
+      margin: 0 0 6px;
+    }
+    h1 {
+      font-size: clamp(30px, 7vw, 48px);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 12px;
+    }
+    .q { display: inline-block; color: var(--accent); animation: tilt 2s ease-in-out infinite; }
+    @keyframes tilt { 50% { transform: rotate(14deg) translateY(-3px); } }
+    .lost p.sub { color: var(--muted); max-width: 40ch; margin: 0 auto 24px; }
+    .path { font: 13px var(--mono); background: var(--soft); border: 1px solid var(--line); padding: 2px 8px; border-radius: 6px; color: var(--text); }
+
+    .home {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font: 600 15px var(--sans);
+      text-decoration: none;
+      color: #fff;
+      background: var(--text);
+      padding: 12px 20px;
+      border-radius: 12px;
+      transition: background .2s, transform .2s var(--ease);
+    }
+    .home:hover { background: var(--accent); transform: translateY(-2px); }
+    .count { display: block; margin-top: 14px; font: 12px var(--mono); color: var(--faint); }
+  </style>
+</head>
+<body>
+  <main class="lost">
+    <img class="lost-cat" src="https://catnews.space/catnews.jpg" alt="The CatNews cat at its computer">
+    <p class="code">404 · /meow</p>
+    <h1>Looks like you're lost!<br>Meow<span class="q">..?</span></h1>
+    <p class="sub">The cat searched every tab and couldn't find <span class="path" id="path">this page</span>.</p>
+    <div>
+      <a class="home" href="https://catnews.space">← Take me back to the news</a>
+      <span class="count" id="count"></span>
+    </div>
+  </main>
+
+  <script>
+    // show the route they tried, then make the address bar read /meow
+    const tried = location.pathname;
+    if (tried && tried !== "/meow") {
+      document.getElementById("path").textContent = tried;
+      history.replaceState(null, "", "/meow");
+    }
+
+    // walk them home automatically after a few seconds
+    let n = 10;
+    const count = document.getElementById("count");
+    const tick = () => {
+      count.textContent = `heading home in ${n}s…`;
+      if (n-- === 0) location.href = "https://catnews.space";
+      else setTimeout(tick, 1000);
+    };
+    tick();
+  </script>
+</body>
+</html>
