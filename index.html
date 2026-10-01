@@ -3,28 +3,36 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>tokenfeed — AI news for devs</title>
+  <title>CatNews!</title>
   <meta name="description" content="Live AI news for developers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Perplexity, OpenCode and more.">
+  <link rel="icon" href="catnews.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="paw-trail" aria-hidden="true"></div>
+
   <header class="top">
     <div class="wrap top-row">
-      <a href="#" class="logo" data-source="all">tokenfeed<span class="cursor">_</span></a>
+      <a href="#" class="logo" data-source="all">
+        <img src="catnews.jpg" alt="" width="40" height="40">
+        <span>CatNews<span class="cursor">_</span></span>
+      </a>
       <div class="status">
         <span class="dot" id="dot"></span>
         <span id="status-text">connecting…</span>
       </div>
-      <button class="theme-btn" id="theme-btn" aria-label="Toggle theme">◐</button>
     </div>
   </header>
 
   <main class="wrap">
     <section class="intro">
-      <h1>AI news, the moment it hits.</h1>
-      <p>Pulled live from Hacker News every 60 seconds. No algorithm, no newsletter — just newest first.</p>
+      <img class="hero-cat" src="catnews.jpg" alt="A cat typing on a computer next to a gaming PC">
+      <div>
+        <h1>AI news, the moment it hits <span class="mew">:3</span></h1>
+        <p>Pulled live from Hacker News every 60 seconds. No algorithm, no newsletter — just newest first, fetched by a very dedicated cat.</p>
+      </div>
     </section>
 
     <nav class="sources" id="sources" aria-label="Filter by source"></nav>
@@ -35,11 +43,11 @@
         <option value="new">newest</option>
         <option value="top">most points</option>
       </select>
-      <button id="refresh" class="btn">refresh</button>
+      <button id="refresh" class="btn"><span class="paw-icon"></span>refresh</button>
     </div>
 
     <ol class="feed" id="feed"></ol>
-    <p class="empty" id="empty" hidden>Nothing matches. Try another source or clear the filter.</p>
+    <p class="empty" id="empty" hidden>Nothing here… the cat looked everywhere. Try another source or clear the filter.</p>
   </main>
 
   <footer class="wrap foot">
