@@ -1,10 +1,7 @@
-// tokenfeed — pulls live stories from the HN Algolia API (CORS-friendly, no key needed)
-
 const API = "https://hn.algolia.com/api/v1/search_by_date";
 const REFRESH_MS = 60 * 1000;
 const WINDOW_DAYS = 14;
 
-// each source = a label + the search terms that count as a match
 const SOURCES = [
   { id: "claude",     label: "Claude",     terms: ["claude", "anthropic"] },
   { id: "openai",     label: "OpenAI",     terms: ["openai", "chatgpt", "gpt-5", "gpt-4", "sora", "codex"] },
@@ -19,7 +16,7 @@ const SOURCES = [
 ];
 
 const state = {
-  stories: new Map(), // objectID -> story
+  stories: new Map(), 
   seen: new Set(),
   active: "all",
   query: "",
@@ -30,11 +27,8 @@ const $ = (sel) => document.querySelector(sel);
 const feedEl = $("#feed");
 const emptyEl = $("#empty");
 
-/* ---------- fetching ---------- */
-
 async function fetchSource(src) {
   const since = Math.floor(Date.now() / 1000) - WINDOW_DAYS * 86400;
-  // Algolia treats space-separated words as AND, so query each term separately
   const requests = src.terms.map((term) => {
     const params = new URLSearchParams({
       query: term,
@@ -56,7 +50,6 @@ async function fetchSource(src) {
   return hits.filter((h) => h.title && matches(h.title, src.terms));
 }
 
-// make sure the term really appears in the title (Algolia also matches urls/typos)
 function matches(title, terms) {
   const t = title.toLowerCase();
   return terms.some((term) => new RegExp(`\\b${escapeRe(term)}\\b`).test(t));
@@ -68,6 +61,7 @@ function escapeRe(s) {
 
 async function loadAll() {
   setStatus("loading", "fetching…");
+  $("#refresh").classList.add("spin");
   const results = await Promise.allSettled(SOURCES.map(fetchSource));
   let ok = 0;
 
@@ -100,10 +94,9 @@ async function loadAll() {
   } else {
     setStatus("live", `live · updated ${clock()}`);
   }
+  $("#refresh").classList.remove("spin");
   render();
 }
-
-/* ---------- rendering ---------- */
 
 function renderChips() {
   const counts = { all: state.stories.size };
@@ -115,7 +108,7 @@ function renderChips() {
   $("#sources").innerHTML = all
     .map(
       (s) => `<button class="chip" data-source="${s.id}" aria-pressed="${state.active === s.id}">
-        ${s.label}<span class="count">${counts[s.id] || 0}</span></button>`
+        <span class="paw-icon"></span>${s.label}<span class="count">${counts[s.id] || 0}</span></button>`
     )
     .join("");
 }
@@ -137,12 +130,13 @@ function render() {
   const firstLoad = state.seen.size === 0;
 
   feedEl.innerHTML = list
-    .map((s) => {
+    .map((s, i) => {
       const isFresh = !firstLoad && !state.seen.has(s.id);
       const hn = `https://news.ycombinator.com/item?id=${s.id}`;
       const tags = [...s.tags].map((t) => SOURCES.find((x) => x.id === t).label).join(", ");
       const recent = Date.now() - s.time < 3600 * 1000;
-      return `<li class="item${isFresh ? " fresh" : ""}">
+      const isNew = !state.seen.has(s.id) || state.justSwitched;
+      return `<li class="item${isNew ? " enter" : ""}${isFresh ? " fresh" : ""}" style="--i:${Math.min(i, 20)}">
         <span class="time${recent ? " new" : ""}" title="${new Date(s.time).toLocaleString()}">${ago(s.time)}</span>
         <div>
           <a class="title" href="${esc(s.url || hn)}" target="_blank" rel="noopener">${esc(s.title)}</a>
@@ -158,6 +152,7 @@ function render() {
     .join("");
 
   list.forEach((s) => state.seen.add(s.id));
+  state.justSwitched = false;
 }
 
 function renderSkeleton() {
@@ -165,8 +160,6 @@ function renderSkeleton() {
     `<li class="item skeleton"><span class="bar"></span><div><div class="bar" style="width:80%"></div><div class="bar" style="width:40%"></div></div></li>`
   ).join("");
 }
-
-/* ---------- helpers ---------- */
 
 function ago(ms) {
   const s = Math.floor((Date.now() - ms) / 1000);
@@ -195,25 +188,34 @@ function setStatus(kind, text) {
 
 function setSource(id) {
   state.active = id;
+  state.justSwitched = true;
   render();
 }
 
-/* ---------- theme ---------- */
-
-function initTheme() {
-  let saved = null;
-  try { saved = localStorage.getItem("theme"); } catch {}
-  const dark = saved ? saved === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
-  document.documentElement.dataset.theme = dark ? "dark" : "light";
+function initPawTrail() {
+  const trail = $(".paw-trail");
+  const steps = 14;
+  for (let i = 0; i < steps; i++) {
+    const p = document.createElement("span");
+    p.className = "paw";
+    const side = i % 2 ? 14 : -14;
+    p.style.left = `calc(${4 + i * 6.5}% + ${side}px)`;
+    p.style.top = `${92 - i * 6.2}%`;
+    p.style.setProperty("--r", "35deg");
+    p.style.animationDelay = `${i * 0.35}s`;
+    trail.appendChild(p);
+  }
 }
 
-$("#theme-btn").addEventListener("click", () => {
-  const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
-  document.documentElement.dataset.theme = next;
-  try { localStorage.setItem("theme", next); } catch {}
+document.addEventListener("pointerdown", (e) => {
+  const p = document.createElement("span");
+  p.className = "paw click-paw";
+  p.style.left = e.clientX + "px";
+  p.style.top = e.clientY + "px";
+  p.style.setProperty("--r", `${Math.round(Math.random() * 50 - 25)}deg`);
+  document.body.appendChild(p);
+  p.addEventListener("animationend", () => p.remove());
 });
-
-/* ---------- events ---------- */
 
 document.addEventListener("click", (e) => {
   const btn = e.target.closest("[data-source]");
@@ -245,12 +247,9 @@ document.addEventListener("keydown", (e) => {
   else if (/^[1-9]$/.test(e.key)) setSource(SOURCES[+e.key - 1].id);
 });
 
-/* ---------- go ---------- */
-
-initTheme();
+initPawTrail();
 renderChips();
 renderSkeleton();
 loadAll();
 setInterval(loadAll, REFRESH_MS);
-// keep the "5m ago" labels fresh between fetches
 setInterval(() => document.querySelectorAll(".time").length && render(), 30 * 1000);
