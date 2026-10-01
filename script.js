@@ -6,7 +6,7 @@ const WINDOW_DAYS = 14;
 
 // newsletter: paste your Buttondown embed URL here, e.g.
 // "https://buttondown.com/api/emails/embed-subscribe/catnews"
-const SUBSCRIBE_URL = "";
+const SUBSCRIBE_URL = "https://buttondown.com/api/emails/embed-subscribe/catnews";
 
 // SOURCES lives in sources.js (shared with build-rss.js)
 const BY_ID = Object.fromEntries(SOURCES.map((s) => [s.id, s]));
