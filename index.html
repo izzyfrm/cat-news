@@ -5,23 +5,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CatNews!</title>
   <meta name="description" content="Live AI news for developers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Perplexity, OpenCode and more.">
-  <link rel="icon" href="catnews.jpg">
+  <link rel="icon" href="logo.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <link rel="alternate" type="application/rss+xml" title="CatNews" href="https://catnews.space/rss.xml">
 </head>
 <body class="loading">
+  <canvas id="space" aria-hidden="true"></canvas>
   <!-- first-load splash -->
   <div class="splash" id="splash" aria-hidden="true">
-    <img src="catnews.jpg" alt="">
+    <img src="logo.jpg" alt="">
     <span class="splash-name">CatNews<span class="cursor">_</span></span>
   </div>
 
   <header class="top" id="top">
     <div class="wrap top-row">
       <a href="#" class="logo" data-source="all">
-        <img src="catnews.jpg" alt="" width="36" height="36">
+        <img src="logo.jpg" alt="" width="36" height="36">
         <span>CatNews</span>
       </a>
       <nav class="top-links">
@@ -38,10 +39,13 @@
     <section class="intro reveal">
       <div>
         <p class="eyebrow">live ai news for developers</p>
-        <h1>The moment it ships,<br>it's here<span class="mew">:3</span></h1>
+        <h1>The moment it ships,<br>it's here<span class="mew">:O</span></h1>
         <p class="lede">Pulled from Hacker News every 60 seconds. No algorithm, no newsletter — just newest first.</p>
       </div>
-      <img class="hero-cat" src="catnews.jpg" alt="A cat typing on a computer next to a gaming PC">
+      <div class="astro" aria-hidden="true">
+        <div class="orbit"><div class="moon-path"><span class="moon"></span></div></div>
+        <div class="helmet"><img src="logo.jpg" alt=""></div>
+      </div>
     </section>
 
     <div class="rail reveal" id="rail">
@@ -56,7 +60,7 @@
       <div class="rail-track" id="rail-track" aria-hidden="true">
         <span class="rail-fill" id="rail-fill"></span>
         <span class="rail-cat" id="rail-cat">
-          <svg viewBox="0 0 32 28" width="26" height="23"><path class="ears" d="M5 13 6 2l8 6M27 13 26 2l-8 6" fill="#fff" stroke="#16161a" stroke-width="2" stroke-linejoin="round"/><ellipse cx="16" cy="16" rx="13" ry="10" fill="#fff" stroke="#16161a" stroke-width="2"/><circle cx="11" cy="15" r="1.4" fill="#16161a"/><circle cx="21" cy="15" r="1.4" fill="#16161a"/><path d="M13.5 19q1.25 1.4 2.5 0 1.25 1.4 2.5 0" fill="none" stroke="#16161a" stroke-width="1.4" stroke-linecap="round"/><ellipse cx="8" cy="19" rx="2" ry="1.2" fill="#f5a3bd"/><ellipse cx="24" cy="19" rx="2" ry="1.2" fill="#f5a3bd"/></svg>
+          <svg viewBox="0 0 32 28" width="26" height="23"><path class="ears" d="M5 13 6 2l8 6M27 13 26 2l-8 6" fill="#f6b26b" stroke="#16161a" stroke-width="2" stroke-linejoin="round"/><ellipse cx="16" cy="16" rx="13" ry="10" fill="#fff" stroke="#16161a" stroke-width="2"/><circle cx="10.5" cy="14" r="2.3" fill="#16161a"/><circle cx="21.5" cy="14" r="2.3" fill="#16161a"/><circle cx="11.2" cy="13.2" r=".8" fill="#fff"/><circle cx="22.2" cy="13.2" r=".8" fill="#fff"/><ellipse cx="16" cy="20" rx="1.8" ry="2.2" fill="#c2185b" stroke="#16161a" stroke-width="1.2"/><ellipse cx="8" cy="19" rx="2" ry="1.2" fill="#f5a3bd"/><ellipse cx="24" cy="19" rx="2" ry="1.2" fill="#f5a3bd"/></svg>
         </span>
       </div>
     </div>
@@ -78,7 +82,7 @@
 
     <div id="lead"></div>
     <ol class="feed" id="feed"></ol>
-    <p class="empty" id="empty" hidden>Nothing here — the cat looked everywhere. Try another source or clear the filter.</p>
+    <p class="empty" id="empty" hidden>Nothing here — the cat searched the whole galaxy. Try another source or clear the filter.</p>
   </main>
 
   <section class="wrap">
@@ -101,6 +105,7 @@
     <p class="keys"><kbd>/</kbd> search <kbd>r</kbd> refresh <kbd>0</kbd>–<kbd>9</kbd> source</p>
   </footer>
 
+  <script src="space.js"></script>
   <script src="sources.js"></script>
   <script src="script.js"></script>
 </body>
