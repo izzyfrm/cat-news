@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /meow
+
+Sitemap: https://catnews.space/sitemap.xml
