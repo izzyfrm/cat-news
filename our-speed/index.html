@@ -124,7 +124,7 @@
     </section>
 
     <section>
-      <h2 class="section-title">Source health · checked every 5 min · last new story <span id="last-check">—</span></h2>
+      <h2 class="section-title">Source health · checked every minute · last new story <span id="last-check">—</span></h2>
       <div class="health" id="health"></div>
     </section>
 
@@ -132,7 +132,7 @@
       <h2 class="section-title">How we measure</h2>
       <div class="method">
         <div class="panel"><b>Published</b><span>The source's own timestamp: GitHub release time, Hugging Face upload time, or the date in the blog's feed or sitemap.</span></div>
-        <div class="panel"><b>Caught</b><span>When our newsroom first saw it. It checks every source every 5 minutes. Old stories found on our first look are never counted.</span></div>
+        <div class="panel"><b>Caught</b><span>When our newsroom first saw it. It checks every source every minute. Old stories found on our first look are never counted.</span></div>
         <div class="panel"><b>Hacker News</b><span>The earliest HN post with the exact same link. If nobody has posted it yet, it shows as "not on HN yet".</span></div>
       </div>
     </section>
@@ -157,8 +157,10 @@
       return s < 60 ? "just now" : s < 3600 ? `${Math.floor(s / 60)}m ago` : s < 86400 ? `${Math.floor(s / 3600)}h ago` : `${Math.floor(s / 86400)}d ago`;
     }
 
-    fetch(`/news.json?t=${Date.now()}`, { cache: "no-store" })
-      .then((r) => r.json())
+    // live from the Cloudflare newsroom, falling back to the copy in the repo
+    fetch("https://catnews-newsroom.itsizzydudee.workers.dev/news.json", { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : Promise.reject()))
+      .catch(() => fetch(`/news.json?t=${Date.now()}`, { cache: "no-store" }).then((r) => r.json()))
       .then(render)
       .catch(() => { $("#numbers").innerHTML = `<div class="panel empty-state">Couldn't load the newsroom data right now.</div>`; });
 

@@ -24,11 +24,13 @@ Every story records when it was published and when we caught it, and we check wh
 ## How it works
 
 ```
-GitHub Action (every 5 min)
-  └─ build-news.js  → news.json   first-party stories + catch times
-  └─ build-rss.js   → rss.xml     big stories, for RSS readers & email
+Cloudflare Worker (every minute)
+  └─ newsroom.js    → checks every official source, times each new story
+  └─ GET /news.json → what the site reads
+GitHub Action (every 15 min)
+  └─ news.json backup in the repo + build-rss.js → rss.xml
 Browser
-  └─ script.js      → reads news.json + live Hacker News, merges them
+  └─ script.js      → reads the newsroom + live Hacker News, merges them
 ```
 
 No framework, no build step, no dependencies. Plain HTML, CSS and JavaScript.
@@ -38,7 +40,9 @@ No framework, no build step, no dependencies. Plain HTML, CSS and JavaScript.
 | `index.html` · `style.css` · `script.js` | the news page |
 | `our-speed/index.html` | the speed benchmark |
 | `sources.js` | the list of sources, shared by the site and the builders |
-| `build-news.js` | the newsroom: checks every official source |
+| `newsroom.js` | the newsroom engine: checks every official source |
+| `worker/` | runs the newsroom on Cloudflare every minute |
+| `build-news.js` | runs the same newsroom locally |
 | `build-rss.js` | builds the RSS feed |
 | `space.js` | the animated starfield |
 

@@ -1,11 +1,11 @@
-# The CatNews newsroom: checks every official source, rebuilds news.json + rss.xml,
-# and commits only when something actually changed.
-# GitHub's cron can't go below 5 minutes (and runs a few minutes late under load).
-name: Newsroom
+# The newsroom itself runs every minute on Cloudflare (worker/).
+# This job keeps a copy of its news.json in the repo (the site's fallback)
+# and rebuilds rss.xml from it, committing only when something changed.
+name: Newsroom backup + RSS
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,7 +24,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node build-news.js
+      - name: Copy news from the Cloudflare newsroom
+        run: |
+          curl -sf --max-time 30 https://catnews-newsroom.itsizzydudee.workers.dev/news.json -o /tmp/news.json \
+            && node -e 'const d=require("/tmp/news.json"); if(!d.items?.length) process.exit(1)' \
+            && node -e 'const fs=require("fs"); const a=require("/tmp/news.json"); const b=fs.existsSync("news.json")?require("./news.json"):{}; if(JSON.stringify(a.items)!==JSON.stringify(b.items)) fs.writeFileSync("news.json", JSON.stringify(a))' \
+            || node build-news.js
       - run: node build-rss.js
       - name: Commit if changed
         run: |

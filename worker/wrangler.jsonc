@@ -1,0 +1,14 @@
+{
+  "name": "catnews-newsroom",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "observability": { "enabled": true },
+  "triggers": {
+    // every minute
+    "crons": ["* * * * *"]
+  },
+  "durable_objects": {
+    "bindings": [{ "name": "NEWSROOM", "class_name": "Newsroom" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Newsroom"] }]
+}

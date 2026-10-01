@@ -9,6 +9,19 @@ const WINDOW_DAYS = 14;
 // "https://buttondown.com/api/emails/embed-subscribe/catnews"
 const SUBSCRIBE_URL = "";
 
+// the newsroom runs every minute on Cloudflare (worker/); the repo copy is the fallback
+const NEWSROOM_URL = "https://catnews-newsroom.itsizzydudee.workers.dev/news.json";
+
+async function fetchNewsroom() {
+  for (const url of [NEWSROOM_URL, `news.json?t=${Date.now()}`]) {
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (res.ok) return await res.json();
+    } catch {}
+  }
+  throw new Error("newsroom unreachable");
+}
+
 // SOURCES lives in sources.js (shared with the builders)
 const BY_ID = Object.fromEntries(SOURCES.map((s) => [s.id, s]));
 const KIND_LABEL = { release: "Release", model: "New model", post: "Official post" };
@@ -32,9 +45,7 @@ const emptyEl = $("#empty");
 /* ---------- loading ---------- */
 
 async function loadOfficial() {
-  const res = await fetch(`news.json?t=${Date.now()}`, { cache: "no-store" });
-  if (!res.ok) throw new Error(res.status);
-  const data = await res.json();
+  const data = await fetchNewsroom();
   state.newsroom = data;
   for (const i of data.items) {
     const id = `o:${i.id}`;
@@ -159,7 +170,7 @@ function renderStats() {
   $("#stats").innerHTML = [
     `<span><b>${week}</b> first-party stories this week</span>`,
     `<span><b>${n.watched.length}</b> official sources watched</span>`,
-    `<span>checked every <b>5 min</b></span>`,
+    `<span>checked every <b>minute</b></span>`,
     median != null ? `<a href="/our-speed/">median catch time ${duration(median)} →</a>` : `<a href="/our-speed/">our speed →</a>`,
   ].join("");
 }

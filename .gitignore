@@ -1,2 +1,5 @@
 .claude/
 launch-posts.md
+.wrangler/
+node_modules/
+.dev.vars
