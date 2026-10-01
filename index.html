@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <link rel="alternate" type="application/rss+xml" title="CatNews" href="https://catnews.space/rss.xml">
 </head>
 <body class="loading">
   <!-- first-load splash -->
@@ -24,7 +25,7 @@
         <span>CatNews</span>
       </a>
       <nav class="top-links">
-        <a href="info.html">info</a>
+        <a href="https://info.catnews.space">info</a>
       </nav>
       <div class="status">
         <span class="dot" id="dot"></span>
@@ -43,7 +44,22 @@
       <img class="hero-cat" src="catnews.jpg" alt="A cat typing on a computer next to a gaming PC">
     </section>
 
-    <nav class="sources reveal" id="sources" aria-label="Filter by source"></nav>
+    <div class="rail reveal" id="rail">
+      <button class="rail-arrow left" id="rail-left" aria-label="Scroll sources left">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="m15 6-6 6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <nav class="sources" id="sources" aria-label="Filter by source"></nav>
+      <button class="rail-arrow right" id="rail-right" aria-label="Scroll sources right">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="m9 6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <!-- custom scrollbar: a little cat walks along the track -->
+      <div class="rail-track" id="rail-track" aria-hidden="true">
+        <span class="rail-fill" id="rail-fill"></span>
+        <span class="rail-cat" id="rail-cat">
+          <svg viewBox="0 0 32 28" width="26" height="23"><path class="ears" d="M5 13 6 2l8 6M27 13 26 2l-8 6" fill="#fff" stroke="#16161a" stroke-width="2" stroke-linejoin="round"/><ellipse cx="16" cy="16" rx="13" ry="10" fill="#fff" stroke="#16161a" stroke-width="2"/><circle cx="11" cy="15" r="1.4" fill="#16161a"/><circle cx="21" cy="15" r="1.4" fill="#16161a"/><path d="M13.5 19q1.25 1.4 2.5 0 1.25 1.4 2.5 0" fill="none" stroke="#16161a" stroke-width="1.4" stroke-linecap="round"/><ellipse cx="8" cy="19" rx="2" ry="1.2" fill="#f5a3bd"/><ellipse cx="24" cy="19" rx="2" ry="1.2" fill="#f5a3bd"/></svg>
+        </span>
+      </div>
+    </div>
 
     <div class="toolbar reveal">
       <label class="search">
@@ -65,11 +81,27 @@
     <p class="empty" id="empty" hidden>Nothing here — the cat looked everywhere. Try another source or clear the filter.</p>
   </main>
 
+  <section class="wrap">
+    <form class="subscribe" id="subscribe">
+      <div class="sub-copy">
+        <p class="eyebrow">subscribe to updates</p>
+        <h2>Get the newest AI news in your inbox, ASAP.</h2>
+        <p>One email the moment something big drops. No spam — the cat promises.</p>
+      </div>
+      <div class="sub-field">
+        <input type="email" id="sub-email" name="email" placeholder="you@email.com" required autocomplete="email" aria-label="Email address">
+        <button type="submit">Subscribe</button>
+      </div>
+      <p class="sub-msg" id="sub-msg" role="status"></p>
+    </form>
+  </section>
+
   <footer class="wrap foot">
-    <p>Made by <a href="info.html">Isaiah Boyd</a> · plain HTML, CSS &amp; JS · data via <a href="https://hn.algolia.com/api" target="_blank" rel="noopener">HN Algolia</a></p>
+    <p>Made by <a href="https://info.catnews.space">Isaiah Boyd</a> · plain HTML, CSS &amp; JS · data via <a href="https://hn.algolia.com/api" target="_blank" rel="noopener">HN Algolia</a> · <a href="rss.xml">RSS</a></p>
     <p class="keys"><kbd>/</kbd> search <kbd>r</kbd> refresh <kbd>0</kbd>–<kbd>9</kbd> source</p>
   </footer>
 
+  <script src="sources.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
