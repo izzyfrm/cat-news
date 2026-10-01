@@ -393,7 +393,7 @@ $("#subscribe").addEventListener("submit", async (e) => {
   try {
     // Buttondown's embed endpoint doesn't send CORS headers, so we can't read the reply
     await fetch(SUBSCRIBE_URL, { method: "POST", mode: "no-cors", body: new URLSearchParams({ email }) });
-    msg.textContent = "You're in! Check your inbox to confirm :3";
+    msg.textContent = "You're in! Check your inbox to confirm :O";
     msg.className = "sub-msg ok";
     input.value = "";
   } catch {
