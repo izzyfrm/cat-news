@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CatNews! · Info</title>
+  <meta name="description" content="About CatNews — live AI news for developers, made by Isaiah Boyd.">
+  <link rel="icon" href="catnews.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .info { max-width: 620px; padding-top: 48px; padding-bottom: 64px; }
+    .info > * { animation: rise .7s var(--ease) both; }
+    .info > *:nth-child(2) { animation-delay: .08s; }
+    .info > *:nth-child(3) { animation-delay: .16s; }
+    .info > *:nth-child(4) { animation-delay: .24s; }
+    .info > *:nth-child(5) { animation-delay: .32s; }
+
+    .info h1 { font-size: clamp(30px, 6vw, 42px); letter-spacing: -0.03em; line-height: 1.1; margin: 0 0 14px; }
+    .info h2 { font: 500 12px var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--accent); margin: 40px 0 14px; }
+    .info p { color: var(--muted); margin: 0 0 12px; }
+
+    .card {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      padding: 20px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background:
+        radial-gradient(120% 140% at 100% 0%, #eaf4fd 0%, transparent 50%),
+        radial-gradient(120% 140% at 0% 100%, var(--accent-soft) 0%, transparent 50%),
+        #fff;
+    }
+    .pfp {
+      width: 76px;
+      height: 76px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #fff;
+      box-shadow: 0 0 0 1px var(--line), 0 8px 20px -8px rgba(22, 22, 26, .25);
+      transition: transform .4s var(--ease);
+    }
+    .card:hover .pfp { transform: rotate(-6deg) scale(1.05); }
+    .card-name { font-weight: 600; font-size: 19px; margin: 0; color: var(--text); }
+    .card-role { font: 13px var(--mono); color: var(--muted); margin: 2px 0 12px; }
+    .links { display: flex; flex-wrap: wrap; gap: 8px; }
+    .links a {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font: 500 13px var(--sans);
+      text-decoration: none;
+      padding: 6px 12px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      transition: transform .2s var(--ease), border-color .2s;
+    }
+    .links a:hover { transform: translateY(-1px); border-color: #d5d4d0; }
+
+    .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; }
+    .fact { padding: 14px 16px; border: 1px solid var(--line); border-radius: 14px; }
+    .fact b { display: block; font-size: 15px; }
+    .fact span { font-size: 13px; color: var(--muted); }
+
+    .back { font: 14px var(--mono); color: var(--muted); text-decoration: none; }
+    .back:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-row">
+      <a href="index.html" class="logo">
+        <img src="catnews.jpg" alt="" width="36" height="36">
+        <span>CatNews</span>
+      </a>
+      <a href="index.html" class="back">← back to news</a>
+    </div>
+  </header>
+
+  <main class="wrap info">
+    <section>
+      <p class="eyebrow">info</p>
+      <h1>A tiny, fast AI news feed<span class="mew">:3</span></h1>
+      <p>CatNews watches Hacker News for anything about Claude, ChatGPT, Gemini, DeepSeek, Grok, Kimi, Perplexity, OpenCode and friends, and shows it the moment it's posted. Newest first, no account, no tracking.</p>
+    </section>
+
+    <section>
+      <h2>Made by</h2>
+      <div class="card">
+        <img class="pfp" src="https://github.com/izzyfrm.png" alt="Isaiah Boyd">
+        <div>
+          <p class="card-name">Isaiah Boyd</p>
+          <p class="card-role">student developer</p>
+          <div class="links">
+            <a href="https://izzyy.me" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 12h18M12 3c2.5 2.7 2.5 15.3 0 18M12 3c-2.5 2.7-2.5 15.3 0 18" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+              izzyy.me
+            </a>
+            <a href="https://github.com/izzyfrm" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="currentColor" d="M12 .5a11.5 11.5 0 0 0-3.6 22.4c.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.2 1.2a11 11 0 0 1 5.8 0c2.2-1.5 3.2-1.2 3.2-1.2.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A11.5 11.5 0 0 0 12 .5Z"/></svg>
+              izzyfrm
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>How it works</h2>
+      <div class="facts">
+        <div class="fact"><b>Every 60 seconds</b><span>the feed re-checks for new stories</span></div>
+        <div class="fact"><b>10 sources</b><span>matched by keywords in each headline</span></div>
+        <div class="fact"><b>3 files</b><span>plain HTML, CSS &amp; JS — no framework</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Credits</h2>
+      <p>Stories come from the free <a href="https://hn.algolia.com/api" target="_blank" rel="noopener">HN Algolia API</a>. Company logos are each site's own favicon. The cat is ours.</p>
+    </section>
+
+    <section>
+      <p><a href="index.html" class="back">← back to the news</a></p>
+    </section>
+  </main>
+</body>
+</html>
