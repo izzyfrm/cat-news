@@ -1,23 +1,27 @@
-// CatNews — pulls live stories from the HN Algolia API (CORS-friendly, no key needed)
+// CatNews — merges our own first-party newsroom (news.json, built by build-news.js)
+// with live community stories from Hacker News.
 
-const API = "https://hn.algolia.com/api/v1/search_by_date";
+const HN_API = "https://hn.algolia.com/api/v1/search_by_date";
 const REFRESH_MS = 60 * 1000;
 const WINDOW_DAYS = 14;
 
 // newsletter: paste your Buttondown embed URL here, e.g.
 // "https://buttondown.com/api/emails/embed-subscribe/catnews"
-const SUBSCRIBE_URL = "https://buttondown.com/api/emails/embed-subscribe/catnews";
+const SUBSCRIBE_URL = "";
 
-// SOURCES lives in sources.js (shared with build-rss.js)
+// SOURCES lives in sources.js (shared with the builders)
 const BY_ID = Object.fromEntries(SOURCES.map((s) => [s.id, s]));
+const KIND_LABEL = { release: "Release", model: "New model", post: "Official post" };
 
 const state = {
-  stories: new Map(), // objectID -> story
+  stories: new Map(), // id -> story
   seen: new Set(),
+  newsroom: null,     // last news.json
   active: "all",
   query: "",
-  sort: "new",
-  replay: true, // replay the entry animation on the next render
+  feed: "latest",
+  replay: true,
+  ready: false,       // true after the first full load, so only later arrivals get "new"
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -25,157 +29,229 @@ const feedEl = $("#feed");
 const leadEl = $("#lead");
 const emptyEl = $("#empty");
 
-/* ---------- fetching ---------- */
+/* ---------- loading ---------- */
 
-async function fetchSource(src) {
-  const since = Math.floor(Date.now() / 1000) - WINDOW_DAYS * 86400;
-  // Algolia treats space-separated words as AND, so query each term separately
-  const requests = src.terms.map((term) => {
-    const params = new URLSearchParams({
-      query: term,
-      tags: "story",
-      numericFilters: `created_at_i>${since}`,
-      hitsPerPage: "30",
+async function loadOfficial() {
+  const res = await fetch(`news.json?t=${Date.now()}`, { cache: "no-store" });
+  if (!res.ok) throw new Error(res.status);
+  const data = await res.json();
+  state.newsroom = data;
+  for (const i of data.items) {
+    const id = `o:${i.id}`;
+    const existing = state.stories.get(id);
+    state.stories.set(id, {
+      id,
+      official: true,
+      title: i.title,
+      url: i.url,
+      summary: i.summary,
+      kind: i.kind,
+      from: i.from,
+      time: i.publishedAt,
+      tags: new Set([i.source]),
+      lagMs: i.lagMs,
+      lagIsUpperBound: i.lagIsUpperBound,
+      points: existing?.points,
+      comments: existing?.comments,
+      hnId: existing?.hnId || i.hn?.id,
     });
-    return fetch(`${API}?${params}`).then((r) => {
-      if (!r.ok) throw new Error(r.status);
-      return r.json();
-    });
-  });
-
-  const results = await Promise.allSettled(requests);
-  const hits = [];
-  for (const res of results) {
-    if (res.status === "fulfilled") hits.push(...res.value.hits);
   }
-  return hits.filter((h) => h.title && matches(h.title, src.terms));
 }
 
-// make sure the term really appears in the title (Algolia also matches urls/typos)
+async function fetchCommunity(src) {
+  const since = Math.floor(Date.now() / 1000) - WINDOW_DAYS * 86400;
+  const results = await Promise.allSettled(
+    src.terms.map((term) => {
+      const params = new URLSearchParams({ query: term, tags: "story", numericFilters: `created_at_i>${since}`, hitsPerPage: "30" });
+      return fetch(`${HN_API}?${params}`).then((r) => (r.ok ? r.json() : Promise.reject(r.status)));
+    })
+  );
+  return results
+    .filter((r) => r.status === "fulfilled")
+    .flatMap((r) => r.value.hits)
+    .filter((h) => h.title && matches(h.title, src.terms));
+}
+
+// the term has to really be in the headline (Algolia also matches urls/typos)
 function matches(title, terms) {
   const t = title.toLowerCase();
-  return terms.some((term) => new RegExp(`\\b${escapeRe(term)}\\b`).test(t));
+  return terms.some((term) => new RegExp(`\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(t));
 }
 
-function escapeRe(s) {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-
-async function loadAll() {
-  setStatus("loading", "fetching…");
-  $("#refresh").classList.add("spin");
-  const results = await Promise.allSettled(SOURCES.map(fetchSource));
+async function loadCommunity() {
+  const results = await Promise.allSettled(SOURCES.map(fetchCommunity));
+  const officialByUrl = new Map([...state.stories.values()].filter((s) => s.official).map((s) => [normUrl(s.url), s]));
   let ok = 0;
 
   results.forEach((res, i) => {
     if (res.status !== "fulfilled") return;
     ok++;
     for (const hit of res.value) {
-      const existing = state.stories.get(hit.objectID);
-      if (existing) {
-        existing.points = hit.points || 0;
-        existing.comments = hit.num_comments || 0;
-        existing.tags.add(SOURCES[i].id);
+      // same link as one of our official stories? attach the discussion to it instead
+      const twin = hit.url && officialByUrl.get(normUrl(hit.url));
+      if (twin) {
+        twin.points = hit.points || 0;
+        twin.comments = hit.num_comments || 0;
+        twin.hnId = hit.objectID;
+        continue;
+      }
+      const id = `hn:${hit.objectID}`;
+      const s = state.stories.get(id);
+      if (s) {
+        s.points = hit.points || 0;
+        s.comments = hit.num_comments || 0;
+        s.tags.add(SOURCES[i].id);
       } else {
-        state.stories.set(hit.objectID, {
-          id: hit.objectID,
+        state.stories.set(id, {
+          id,
+          official: false,
           title: hit.title,
           url: hit.url,
-          author: hit.author,
+          time: hit.created_at_i * 1000,
           points: hit.points || 0,
           comments: hit.num_comments || 0,
-          time: hit.created_at_i * 1000,
+          hnId: hit.objectID,
           tags: new Set([SOURCES[i].id]),
         });
       }
     }
   });
+  if (!ok) throw new Error("hn down");
+}
 
+async function loadAll() {
+  setStatus("loading", "checking…");
+  $("#refresh").classList.add("spin");
+  // official first (it's local and fast), so community stories can attach to it
+  const official = await loadOfficial().then(() => true, () => false);
+  if (official) render();
+  const community = await loadCommunity().then(() => true, () => false);
+
+  const ok = official || community;
   setStatus(ok ? "live" : "err", ok ? `live · ${clock()}` : "offline — retrying");
   $("#refresh").classList.remove("spin");
   render();
+  state.ready = true;
 }
 
 /* ---------- rendering ---------- */
 
-function logo(src, cls = "co") {
-  if (!src) return `<span class="${cls}"></span>`;
-  // google's favicon service; falls back to the first letter if it fails
-  return `<span class="${cls}" data-letter="${src.label[0]}"><img src="https://www.google.com/s2/favicons?domain=${src.domain}&sz=64" alt="" loading="lazy" onerror="this.parentNode.textContent=this.parentNode.dataset.letter"></span>`;
+function logo(src) {
+  if (!src) return `<span class="co"></span>`;
+  return `<span class="co" data-letter="${src.label[0]}"><img src="https://www.google.com/s2/favicons?domain=${src.domain}&sz=64" alt="" loading="lazy" onerror="this.parentNode.textContent=this.parentNode.dataset.letter"></span>`;
 }
 
 function renderChips() {
   const counts = { all: state.stories.size };
-  for (const s of state.stories.values()) {
-    for (const t of s.tags) counts[t] = (counts[t] || 0) + 1;
-  }
-
+  for (const s of state.stories.values()) for (const t of s.tags) counts[t] = (counts[t] || 0) + 1;
   const chip = (id, label, inner) =>
     `<button class="chip${id === "all" ? " all" : ""}" data-source="${id}" aria-pressed="${state.active === id}">${inner}${label}<span class="count">${counts[id] || 0}</span></button>`;
-
-  $("#sources").innerHTML =
-    chip("all", "All", "") + SOURCES.map((s) => chip(s.id, s.label, logo(s))).join("");
+  $("#sources").innerHTML = chip("all", "All", "") + SOURCES.map((s) => chip(s.id, s.label, logo(s))).join("");
   if (typeof updateRail === "function") requestAnimationFrame(updateRail);
 }
 
-function meta(s) {
-  const src = BY_ID[[...s.tags][0]];
-  const hn = `https://news.ycombinator.com/item?id=${s.id}`;
-  return `<span class="src">${[...s.tags].map((t) => BY_ID[t].label).join(", ")}</span>
-    ${s.url ? `<span>${domain(s.url)}</span>` : ""}
-    <span>${s.points} pts</span>
-    <a href="${hn}" target="_blank" rel="noopener">${s.comments} comments</a>`;
+function renderStats() {
+  const n = state.newsroom;
+  if (!n) return;
+  const week = n.items.filter((i) => Date.now() - i.publishedAt < 7 * 86400e3).length;
+  const lags = n.items.filter((i) => i.lagMs != null).map((i) => i.lagMs).sort((a, b) => a - b);
+  const median = lags.length ? lags[Math.floor(lags.length / 2)] : null;
+  $("#stats").innerHTML = [
+    `<span><b>${week}</b> first-party stories this week</span>`,
+    `<span><b>${n.watched.length}</b> official sources watched</span>`,
+    `<span>last check <b>${ago(n.lastRunAt)}</b> ago</span>`,
+    median != null ? `<a href="/our-speed/">median catch time ${duration(median)} →</a>` : `<a href="/our-speed/">our speed →</a>`,
+  ].join("");
+}
+
+function kindLabel(s) {
+  if (!s.official) return `<span class="kind">Community</span>`;
+  return `<span class="kind ${s.kind === "post" ? "official" : s.kind}">${KIND_LABEL[s.kind] || "Official"}</span>`;
+}
+
+function meta(s, { linkComments = true } = {}) {
+  const hn = s.hnId && `https://news.ycombinator.com/item?id=${s.hnId}`;
+  return [
+    `<span class="src">${[...s.tags].map((t) => BY_ID[t]?.label).join(", ")}</span>`,
+    kindLabel(s),
+    s.url ? `<span>${domain(s.url)}</span>` : "",
+    s.points != null ? `<span>${s.points} pts</span>` : "",
+    hn ? (linkComments ? `<a href="${hn}" target="_blank" rel="noopener">${s.comments ?? 0} comments</a>` : `<span>${s.comments ?? 0} comments</span>`) : "",
+  ].join("");
+}
+
+function dayLabel(ms) {
+  const d = new Date(ms);
+  const days = Math.round((new Date(new Date().toDateString()) - new Date(d.toDateString())) / 86400e3);
+  if (days === 0) return "Today";
+  if (days === 1) return "Yesterday";
+  return d.toLocaleDateString([], { weekday: "long", month: "short", day: "numeric" });
 }
 
 function render() {
   renderChips();
+  renderStats();
 
   const q = state.query.toLowerCase();
+  const dayAgo = Date.now() - 86400e3;
   let list = [...state.stories.values()].filter(
     (s) =>
       (state.active === "all" || s.tags.has(state.active)) &&
-      (!q || s.title.toLowerCase().includes(q))
+      (!q || s.title.toLowerCase().includes(q)) &&
+      (state.feed !== "official" || s.official) &&
+      (state.feed !== "trending" || (!s.official && s.time > Date.now() - 2 * 86400e3))
   );
-
-  list.sort(state.sort === "top" ? (a, b) => b.points - a.points : (a, b) => b.time - a.time);
-  list = list.slice(0, 100);
+  list.sort(state.feed === "trending" ? (a, b) => b.points - a.points : (a, b) => b.time - a.time);
+  list = list.slice(0, 120);
 
   emptyEl.hidden = list.length > 0 || state.stories.size === 0;
-  const firstLoad = state.seen.size === 0;
 
-  // lead = most discussed story from the last 24h in the current view
-  const dayAgo = Date.now() - 86400 * 1000;
-  const lead = q ? null : list.filter((s) => s.time > dayAgo).sort((a, b) => b.points - a.points)[0];
-
-  leadEl.innerHTML = lead
-    ? `<a class="lead" href="${esc(lead.url || `https://news.ycombinator.com/item?id=${lead.id}`)}" target="_blank" rel="noopener">
-        <div class="lead-label">${logo(BY_ID[[...lead.tags][0]])} top story today · ${ago(lead.time)} ago</div>
-        <span class="lead-title">${esc(lead.title)}</span>
-        <div class="meta">${meta(lead).replace(/<a [^>]*>(.*?)<\/a>/, "<span>$1</span>")}</div>
-      </a>`
-    : "";
-  if (state.replay && leadEl.firstChild) {
-    // restart the css animation
-    leadEl.firstElementChild.style.animation = "none";
-    leadEl.firstElementChild.offsetHeight;
-    leadEl.firstElementChild.style.animation = "";
+  // lead: newest official post or model from the last day, else the most discussed community story
+  let lead = null;
+  if (!q && state.feed !== "trending") {
+    lead =
+      list.find((s) => s.official && s.kind !== "release" && s.time > dayAgo) ||
+      list.filter((s) => !s.official && s.time > dayAgo).sort((a, b) => b.points - a.points)[0] ||
+      null;
   }
 
+  leadEl.innerHTML = lead
+    ? `<a class="lead" href="${esc(lead.url || `https://news.ycombinator.com/item?id=${lead.hnId}`)}" target="_blank" rel="noopener">
+        <div class="lead-label">${logo(BY_ID[[...lead.tags][0]])} ${lead.official ? `from ${esc(lead.from)}` : "most discussed today"} · ${ago(lead.time)} ago</div>
+        <span class="lead-title">${esc(lead.title)}</span>
+        ${lead.summary ? `<p class="summary">${esc(lead.summary)}</p>` : ""}
+        <div class="meta">${meta(lead, { linkComments: false })}</div>
+      </a>`
+    : "";
+
+  let lastDay = "";
+  let i = 0;
   feedEl.innerHTML = list
     .filter((s) => s !== lead)
-    .map((s, i) => {
-      const isFresh = !firstLoad && !state.seen.has(s.id);
+    .map((s) => {
+      let header = "";
+      if (state.feed !== "trending") {
+        const day = dayLabel(s.time);
+        if (day !== lastDay) header = `<li class="day">${day}</li>`;
+        lastDay = day;
+      }
+      const isFresh = state.ready && !state.seen.has(s.id);
       const enter = state.replay || !state.seen.has(s.id);
-      const hn = `https://news.ycombinator.com/item?id=${s.id}`;
-      const hot = Date.now() - s.time < 3600 * 1000;
-      return `<li class="item${enter ? " enter" : ""}${isFresh ? " fresh" : ""}" style="--i:${Math.min(i, 15)}">
+      const href = s.url || `https://news.ycombinator.com/item?id=${s.hnId}`;
+      const hot = Date.now() - s.time < 3600e3;
+      const caught = s.lagMs != null
+        ? `<span class="caught" title="Time between the source publishing and CatNews picking it up">caught in ${s.lagIsUpperBound ? "≤" : ""}${duration(s.lagMs)}</span>`
+        : "";
+      return `${header}<li class="item${enter ? " enter" : ""}${isFresh ? " fresh" : ""}" style="--i:${Math.min(i++, 15)}">
         ${logo(BY_ID[[...s.tags][0]])}
         <div>
-          <a class="title" href="${esc(s.url || hn)}" target="_blank" rel="noopener">${esc(s.title)}</a>
+          <a class="title" href="${esc(href)}" target="_blank" rel="noopener">${esc(s.title)}</a>
+          ${s.summary ? `<p class="summary">${esc(s.summary)}</p>` : ""}
           <div class="meta">${meta(s)}</div>
         </div>
         <div class="side">
           <span class="ago${hot ? " hot" : ""}" title="${new Date(s.time).toLocaleString()}">${ago(s.time)}</span>
+          ${caught}
         </div>
       </li>`;
     })
@@ -201,8 +277,19 @@ function ago(ms) {
   return `${Math.floor(s / 86400)}d`;
 }
 
+function duration(ms) {
+  const m = Math.round(ms / 60000);
+  if (m < 1) return "<1m";
+  if (m < 60) return `${m}m`;
+  return `${Math.floor(m / 60)}h ${m % 60}m`;
+}
+
 function domain(url) {
   try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return ""; }
+}
+
+function normUrl(url) {
+  return (url || "").replace(/^https?:\/\/(www\.)?/, "").replace(/[/#?]+$/, "");
 }
 
 function esc(str) {
@@ -239,10 +326,10 @@ $("#search").addEventListener("input", (e) => {
   render();
 });
 
-document.querySelectorAll("[data-sort]").forEach((b) =>
+document.querySelectorAll("[data-feed]").forEach((b) =>
   b.addEventListener("click", () => {
-    state.sort = b.dataset.sort;
-    document.querySelectorAll("[data-sort]").forEach((x) => x.setAttribute("aria-pressed", x === b));
+    state.feed = b.dataset.feed;
+    document.querySelectorAll("[data-feed]").forEach((x) => x.setAttribute("aria-pressed", x === b));
     state.replay = true;
     render();
   })
@@ -262,7 +349,6 @@ document.addEventListener("keydown", (e) => {
   else if (/^[1-9]$/.test(e.key)) setSource(SOURCES[+e.key - 1].id);
 });
 
-// border under the header only once you scroll
 addEventListener("scroll", () => $("#top").classList.toggle("scrolled", scrollY > 8), { passive: true });
 
 /* ---------- source rail: smooth wheel scroll + cat scrollbar ---------- */
@@ -306,7 +392,7 @@ function updateRail() {
 
 let lastLeft = 0;
 scroller.addEventListener("scroll", () => {
-  // cat tilts + twitches its ears in the direction it walks
+  // the cat leans the way it rolls
   const dir = scroller.scrollLeft > lastLeft ? "walk-right" : "walk-left";
   lastLeft = scroller.scrollLeft;
   cat.classList.remove("walk-left", "walk-right");

@@ -1,4 +1,5 @@
-// CatNews RSS builder — writes rss.xml with the biggest AI stories.
+// CatNews RSS builder — writes rss.xml with our first-party stories (news.json)
+// plus the biggest community stories from Hacker News.
 // Run it with:  node build-rss.js   (Node 18+, no packages needed)
 //
 // A newsletter service (Buttondown, Mailchimp, etc.) can watch rss.xml and
@@ -61,9 +62,24 @@ async function main() {
     process.exit(1);
   }
 
-  const items = [...stories.values()]
-    .sort((a, b) => b.hit.created_at_i - a.hit.created_at_i)
-    .slice(0, MAX_ITEMS)
+  // first-party items from build-news.js (releases, new models, official posts)
+  const newsFile = path.join(__dirname, "news.json");
+  const official = fs.existsSync(newsFile)
+    ? JSON.parse(fs.readFileSync(newsFile, "utf8")).items.filter((i) => Date.now() - i.publishedAt < WINDOW_HOURS * 3600e3)
+    : [];
+  const officialXml = official.map((i) => ({
+    time: i.publishedAt,
+    xml: `    <item>
+      <title>${xml(i.title)}</title>
+      <link>${xml(i.url)}</link>
+      <guid isPermaLink="false">catnews-${xml(i.id)}</guid>
+      <pubDate>${new Date(i.publishedAt).toUTCString()}</pubDate>
+      <category>${xml(i.sourceLabel)}</category>
+      <description>${xml(`<p><b>${i.sourceLabel}</b> · official ${i.kind}</p>${i.summary ? `<p>${i.summary}</p>` : ""}<p><a href="${i.url}">Read it →</a></p>`)}</description>
+    </item>`,
+  }));
+
+  const community = [...stories.values()]
     .map(({ hit, tags }) => {
       const hn = `https://news.ycombinator.com/item?id=${hit.objectID}`;
       const link = hit.url || hn;
@@ -76,7 +92,12 @@ async function main() {
 ${[...tags].map((t) => `      <category>${xml(t)}</category>`).join("\n")}
       <description>${xml(`<p><b>${labels}</b> · ${hit.points} points · <a href="${hn}">${hit.num_comments || 0} comments on Hacker News</a></p><p><a href="${link}">Read the story →</a></p>`)}</description>
     </item>`;
-    });
+    }).map((x, i) => ({ time: [...stories.values()][i].hit.created_at_i * 1000, xml: x }));
+
+  const items = [...officialXml, ...community]
+    .sort((a, b) => b.time - a.time)
+    .slice(0, MAX_ITEMS)
+    .map((i) => i.xml);
 
   const feed = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -98,8 +119,12 @@ ${items.join("\n")}
 </rss>
 `;
 
-  fs.writeFileSync(path.join(__dirname, "rss.xml"), feed);
-  console.log(`rss.xml written — ${items.length} stories (≥${MIN_POINTS} pts, last ${WINDOW_HOURS}h)`);
+  // skip the write when only lastBuildDate would change
+  const file = path.join(__dirname, "rss.xml");
+  const noDate = (s) => s.replace(/<lastBuildDate>.*<\/lastBuildDate>/, "");
+  if (fs.existsSync(file) && noDate(fs.readFileSync(file, "utf8")) === noDate(feed)) return console.log("rss.xml unchanged");
+  fs.writeFileSync(file, feed);
+  console.log(`rss.xml written — ${official.length} official + ${community.length} community (≥${MIN_POINTS} pts), last ${WINDOW_HOURS}h`);
 }
 
 main().catch((err) => {

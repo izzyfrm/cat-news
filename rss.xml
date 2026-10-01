@@ -11,8 +11,40 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 12:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:17:17 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Barclays scales Claude to upgrade operations and improve client experience </title>
+      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/barclays-scales-claude</guid>
+      <pubDate>Thu, 01 Oct 2026 09:16:50 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/barclays-scales-claude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.0.21 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.21</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.21</guid>
+      <pubDate>Wed, 30 Sep 2026 23:02:08 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.21&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.21&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing the Life Sciences Verification Program</title>
+      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/life-sciences-verification-program</guid>
+      <pubDate>Wed, 30 Sep 2026 22:54:30 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is an AI safety and research company that&apos;s working to build reliable, interpretable, and steerable AI systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/life-sciences-verification-program&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v1.18.34 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v1.18.34</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.18.34</guid>
+      <pubDate>Wed, 30 Sep 2026 22:39:45 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Send namespaced session and parent-session identity headers with model requests. · Re-sign locally compiled macOS binaries so they run reliably on macOS 27+. ( @ryangamerdev )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.18.34&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</title>
       <link>https://artificialanalysis.ai/models/gemini-4-argon</link>
@@ -35,7 +67,23 @@
       <guid isPermaLink="false">catnews-49913571</guid>
       <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1447 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;952 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1454 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;954 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon: our next era of frontier intelligence</title>
+      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
+      <pubDate>Wed, 30 Sep 2026 20:01:45 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.286 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.286</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.286</guid>
+      <pubDate>Wed, 30 Sep 2026 19:10:13 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a count such as &quot;2 of 5&quot; to the permission prompt when several permission requests stack up · Added mouse support for the &quot;N more&quot; rows of lists in fullscreen mode: click one to jump to that end of the list, with…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.286&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Says</title>
@@ -44,6 +92,70 @@
       <pubDate>Wed, 30 Sep 2026 17:32:06 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49911928&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ohhfishal.net/Posts/claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing SynthID Bio</title>
+      <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-synthid-bio/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:03:07 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Proof of concept for watermarking AI-generated proteins while preserving biological function.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-synthid-bio/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HydraFusion in VS Code and the GitHub Copilot app</title>
+      <link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
+      <pubDate>Wed, 30 Sep 2026 14:31:19 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being… The post HydraFusion in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disrupting a coordinated model-distillation campaign</title>
+      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+      <pubDate>Wed, 30 Sep 2026 10:30:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helping small businesses put AI to work</title>
+      <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/helping-small-businesses-put-ai-to-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
+      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/open-tts-leaderboard</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/open-tts-leaderboard&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini CLI Release v0.62.0 is out</title>
+      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0</link>
+      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.62.0</guid>
+      <pubDate>Tue, 29 Sep 2026 21:17:07 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;fix(a2a-server): add early return on unsupported store in tasks metadata endpoint by @jesussamuel-byte in #29334 · Changelog for v0.61.0-preview.0 by @gemini-cli-robot in #29344&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.0.20 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.20</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.20</guid>
+      <pubDate>Tue, 29 Sep 2026 21:07:54 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.20&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.20&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.285 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.285</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.285</guid>
+      <pubDate>Tue, 29 Sep 2026 19:27:30 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added CLAUDE_CODE_DISABLE_WEB_FETCH environment variable to turn off the WebFetch tool · Added claude --desktop to open the Claude desktop app on the current directory, or on a session with --continue / --resume&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.285&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI Targets $30B in New Funding at $1.4T Value</title>
@@ -62,6 +174,22 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 218 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49896975&quot;&gt;262 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>GPT-6.1 Sol in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</guid>
+      <pubDate>Tue, 29 Sep 2026 17:02:27 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/kumo-tabular</guid>
+      <pubDate>Tue, 29 Sep 2026 15:30:38 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/kumo-tabular&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
       <guid isPermaLink="false">catnews-49893876</guid>
@@ -76,6 +204,14 @@
       <pubDate>Tue, 29 Sep 2026 14:15:24 GMT</pubDate>
       <category>Muse</category>
       <description>&lt;p&gt;&lt;b&gt;Muse&lt;/b&gt; · 163 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49893709&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
+      <pubDate>Tue, 29 Sep 2026 13:07:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

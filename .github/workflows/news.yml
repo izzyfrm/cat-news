@@ -1,0 +1,39 @@
+# The CatNews newsroom: checks every official source, rebuilds news.json + rss.xml,
+# and commits only when something actually changed.
+# GitHub's cron can't go below 5 minutes (and runs a few minutes late under load).
+name: Newsroom
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsroom
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node build-news.js
+      - run: node build-rss.js
+      - name: Commit if changed
+        run: |
+          git add news.json rss.xml
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+          else
+            git config user.name "catnews-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git commit -m "newsroom: update $(date -u +%H:%M)"
+            git push
+          fi

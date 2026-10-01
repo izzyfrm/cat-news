@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CatNews! · Our speed</title>
+  <meta name="description" content="How fast CatNews catches AI news, measured on every story — and how often we beat Hacker News to it.">
+  <link rel="icon" href="/logo-mark.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    .speed { padding-bottom: 72px; }
+    .speed section { margin-top: 48px; animation: rise .6s var(--ease) both; }
+    .speed section:nth-of-type(2) { animation-delay: .06s; }
+    .speed section:nth-of-type(3) { animation-delay: .12s; }
+    .speed h1 { font-size: clamp(32px, 6vw, 48px); line-height: 1.05; letter-spacing: -0.035em; margin: 0 0 14px; }
+    .speed p { color: var(--muted); margin: 0 0 12px; max-width: 62ch; }
+    .speed a:not([class]) { color: var(--text); text-underline-offset: 3px; text-decoration-color: var(--line-strong); }
+
+    /* headline numbers */
+    .numbers { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+    .num { padding: 18px; }
+    .num b { display: block; font: 600 30px var(--mono); letter-spacing: -0.03em; color: var(--text); }
+    .num b.good { color: var(--green); }
+    .num span { font-size: 13px; color: var(--muted); }
+
+    /* race rows: source published → we caught it → HN got it */
+    .races { list-style: none; margin: 0; padding: 0; }
+    .race { padding: 14px 0; border-bottom: 1px solid var(--line); display: grid; grid-template-columns: 1fr 230px; gap: 18px; align-items: center; }
+    .race-title { font-weight: 500; text-decoration: none; }
+    .race-title:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+    .race-meta { font: 12px var(--mono); color: var(--faint); margin-top: 4px; }
+    .track { position: relative; height: 26px; }
+    .track::before { content: ""; position: absolute; left: 0; right: 0; top: 12px; height: 2px; background: var(--line); border-radius: 2px; }
+    .mark { position: absolute; top: 6px; width: 14px; height: 14px; margin-left: -7px; border-radius: 50%; border: 2px solid var(--bg); }
+    .mark.pub { background: var(--faint); left: 0; margin-left: 0; }
+    .mark.us { background: var(--green); animation: grow .6s var(--ease) both; }
+    .mark.hn { background: #ff9a4d; }
+    .bar-us { position: absolute; top: 12px; left: 0; height: 2px; background: var(--green); transform-origin: left; animation: fill .8s var(--ease) both; }
+    @keyframes fill { from { transform: scaleX(0); } }
+    @keyframes grow { from { transform: scale(0); } }
+    .track-labels { display: flex; justify-content: space-between; font: 11px var(--mono); color: var(--faint); margin-top: 2px; }
+    .lead-good { color: var(--green); }
+    .lead-bad { color: #ff9a4d; }
+
+    .legend { display: flex; gap: 18px; font: 12px var(--mono); color: var(--muted); margin-bottom: 8px; }
+    .legend i { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; vertical-align: 0; }
+
+    /* per-source health */
+    .health { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 6px; }
+    .src-row { display: flex; align-items: center; gap: 10px; padding: 10px 12px; font-size: 14px; }
+    .src-row .name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .src-row .ms { font: 12px var(--mono); color: var(--faint); }
+    .ok-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); flex-shrink: 0; }
+    .ok-dot.bad { background: #f87171; }
+
+    .empty-state { padding: 22px; color: var(--muted); }
+    .empty-state b { color: var(--text); }
+
+    .method { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+    .method div { padding: 16px; }
+    .method b { display: block; margin-bottom: 4px; }
+    .method span { font-size: 14px; color: var(--muted); }
+
+    @media (max-width: 640px) {
+      .numbers { grid-template-columns: 1fr 1fr; }
+      .race { grid-template-columns: 1fr; gap: 8px; }
+      .method { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <canvas id="space" aria-hidden="true"></canvas>
+
+  <header class="top">
+    <div class="wrap top-row">
+      <a href="/" class="logo">
+        <img src="/logo-mark.svg" alt="" width="34" height="34">
+        <span>CatNews</span>
+      </a>
+      <nav class="top-links">
+        <a href="/">News</a>
+        <a href="/our-speed/" aria-current="page">Our speed</a>
+        <a href="https://info.catnews.space" class="hide-sm">Info</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap speed">
+    <section style="margin-top:44px">
+      <p class="eyebrow">/our-speed</p>
+      <h1>How fast is CatNews?</h1>
+      <p>Every story we pull from an official source gets two timestamps: when the company published it, and when we caught it. Then we look the same link up on Hacker News to see who got there first. No estimates — these numbers come straight from <a href="/news.json">news.json</a>.</p>
+    </section>
+
+    <section>
+      <div class="numbers" id="numbers"></div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Recent races</h2>
+      <div class="legend">
+        <span><i style="background:var(--faint)"></i>published</span>
+        <span><i style="background:var(--green)"></i>CatNews</span>
+        <span><i style="background:#ff9a4d"></i>Hacker News</span>
+      </div>
+      <ol class="races" id="races"></ol>
+    </section>
+
+    <section>
+      <h2 class="section-title">Source health · last check <span id="last-check">—</span></h2>
+      <div class="health" id="health"></div>
+    </section>
+
+    <section>
+      <h2 class="section-title">How we measure</h2>
+      <div class="method">
+        <div class="panel"><b>Published</b><span>The source's own timestamp: GitHub release time, Hugging Face upload time, or the date in the blog's feed or sitemap.</span></div>
+        <div class="panel"><b>Caught</b><span>When our newsroom first saw it. It checks every source every 5 minutes. Old stories found on our first look are never counted.</span></div>
+        <div class="panel"><b>Hacker News</b><span>The earliest HN post with the exact same link. If nobody has posted it yet, it shows as "not on HN yet".</span></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="/space.js"></script>
+  <script src="/sources.js"></script>
+  <script>
+    const $ = (s) => document.querySelector(s);
+    const label = Object.fromEntries(SOURCES.map((s) => [s.id, s]));
+    const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+
+    function dur(ms) {
+      const neg = ms < 0;
+      let m = Math.round(Math.abs(ms) / 60000);
+      const out = m < 1 ? "<1m" : m < 60 ? `${m}m` : m < 1440 ? `${Math.floor(m / 60)}h ${m % 60}m` : `${Math.floor(m / 1440)}d ${Math.floor((m % 1440) / 60)}h`;
+      return neg ? `-${out}` : out;
+    }
+    const median = (arr) => { const a = [...arr].sort((x, y) => x - y); return a.length ? a[Math.floor(a.length / 2)] : null; };
+    function ago(ms) {
+      const s = Math.floor((Date.now() - ms) / 1000);
+      return s < 60 ? "just now" : s < 3600 ? `${Math.floor(s / 60)}m ago` : s < 86400 ? `${Math.floor(s / 3600)}h ago` : `${Math.floor(s / 86400)}d ago`;
+    }
+
+    fetch(`/news.json?t=${Date.now()}`, { cache: "no-store" })
+      .then((r) => r.json())
+      .then(render)
+      .catch(() => { $("#numbers").innerHTML = `<div class="panel empty-state">Couldn't load the newsroom data right now.</div>`; });
+
+    function render(data) {
+      const caught = data.items.filter((i) => i.lagMs != null);
+      const exact = caught.filter((i) => !i.lagIsUpperBound);
+      const raced = caught.filter((i) => i.hn);
+      const beat = raced.filter((i) => i.hn.at > i.seenAt);
+      const leads = raced.map((i) => i.hn.at - i.seenAt);
+
+      const med = median(exact.map((i) => i.lagMs));
+      const fastest = exact.length ? Math.min(...exact.map((i) => i.lagMs)) : null;
+
+      $("#numbers").innerHTML = [
+        [med != null ? dur(med) : "—", "median time to catch a story", true],
+        [fastest != null ? dur(fastest) : "—", "fastest catch", true],
+        [caught.length, "stories caught live"],
+        [raced.length ? `${beat.length}/${raced.length}` : "—", raced.length ? `beat Hacker News (median lead ${dur(median(leads))})` : "races vs Hacker News so far"],
+      ].map(([n, l, good]) => `<div class="panel num"><b class="${good && n !== "—" ? "good" : ""}">${n}</b><span>${l}</span></div>`).join("");
+
+      // races: newest first
+      const rows = caught.sort((a, b) => b.seenAt - a.seenAt).slice(0, 40);
+      if (!rows.length) {
+        $("#races").innerHTML = `<li class="panel empty-state">The clock started on <b>${new Date(data.items.reduce((m, i) => Math.min(m, i.seenAt), Date.now())).toLocaleDateString([], { month: "short", day: "numeric" })}</b>. The first race shows up here as soon as a source publishes something new and we catch it — usually within the hour.</li>`;
+      } else {
+        $("#races").innerHTML = rows.map((i) => {
+          const pub = i.seenAt - i.lagMs;
+          const hnDelta = i.hn ? i.hn.at - pub : null;
+          const span = Math.max(i.lagMs, hnDelta ?? 0, 60000) * 1.08;
+          const us = (i.lagMs / span) * 100;
+          const hnPos = hnDelta != null ? Math.max(0, Math.min(100, (hnDelta / span) * 100)) : null;
+          const lead = i.hn
+            ? (i.hn.at > i.seenAt ? `<span class="lead-good">${dur(i.hn.at - i.seenAt)} before HN</span>` : `<span class="lead-bad">HN was ${dur(i.seenAt - i.hn.at)} faster</span>`)
+            : "not on HN yet";
+          return `<li class="race">
+            <div>
+              <a class="race-title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+              <div class="race-meta">${esc(label[i.source]?.label || i.source)} · caught in ${i.lagIsUpperBound ? "≤" : ""}${dur(i.lagMs)} · ${lead}</div>
+            </div>
+            <div>
+              <div class="track">
+                <span class="bar-us" style="width:${us}%"></span>
+                <span class="mark pub" title="published"></span>
+                <span class="mark us" style="left:${us}%" title="CatNews: +${dur(i.lagMs)}"></span>
+                ${hnPos != null ? `<span class="mark hn" style="left:${hnPos}%" title="Hacker News: +${dur(hnDelta)}"></span>` : ""}
+              </div>
+              <div class="track-labels"><span>0</span><span>+${dur(span)}</span></div>
+            </div>
+          </li>`;
+        }).join("");
+      }
+
+      $("#last-check").textContent = ago(data.lastRunAt);
+      const nameFor = (w) => w.replace(/^(\w+):/, "").replace(/^https?:\/\/(www\.)?/, "").replace(/\/(sitemap[^/]*|rss|feed)(\.xml)?\/?$/, "").replace(/\/$/, "");
+      const typeFor = (w) => ({ github: "releases", hf: "Hugging Face", rss: "feed", sitemap: "sitemap" })[w.split(":")[0]];
+      $("#health").innerHTML = data.sources.map((s) =>
+        `<div class="panel src-row"><span class="ok-dot${s.ok ? "" : " bad"}"></span><span class="name" title="${esc(s.watch)}">${esc(nameFor(s.watch))} <span class="ms">${typeFor(s.watch)}</span></span><span class="ms">${s.ok ? `${s.ms}ms` : "down"}</span></div>`
+      ).join("");
+    }
+  </script>
+</body>
+</html>

@@ -4,165 +4,50 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CatNews! · Info</title>
-  <meta name="description" content="About CatNews — live AI news for developers, made by Isaiah Boyd.">
-  <link rel="icon" href="https://catnews.space/logo.jpg">
+  <meta name="description" content="About CatNews — AI news for developers, straight from the source. Made by Isaiah Boyd.">
+  <link rel="icon" href="https://catnews.space/logo-mark.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://catnews.space/style.css">
   <style>
     .info { max-width: 760px; padding-bottom: 72px; }
-    .info > section { margin-top: 56px; }
-
-    /* sections fade up as they scroll into view */
-    .in { opacity: 0; transform: translateY(18px); transition: opacity .7s var(--ease), transform .7s var(--ease); }
+    .info > section { margin-top: 52px; }
+    .in { opacity: 0; transform: translateY(14px); transition: opacity .6s var(--ease), transform .6s var(--ease); }
     .in.shown { opacity: 1; transform: none; }
-
-    .info h2 {
-      font: 500 12px var(--mono);
-      text-transform: uppercase;
-      letter-spacing: .1em;
-      color: var(--accent);
-      margin: 0 0 16px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-    .info h2::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--line-strong), transparent); }
     .info p { color: var(--muted); margin: 0 0 12px; }
     .info a:not([class]) { color: var(--text); text-decoration-color: var(--line-strong); text-underline-offset: 3px; }
     .info a:not([class]):hover { text-decoration-color: var(--accent); }
 
-    .panel {
-      border: 1px solid var(--line);
-      border-radius: 18px;
-      background: var(--panel);
-      backdrop-filter: blur(8px);
-    }
+    .info-hero { margin-top: 0 !important; }
 
-    /* ---------- hero ---------- */
-    .info-hero { margin-top: 0 !important; padding-top: 48px; }
-    .info-hero h1 { font-size: clamp(32px, 6.5vw, 50px); line-height: 1.05; letter-spacing: -0.035em; margin: 0 0 16px; }
-    .info-hero h1 em {
-      font-style: normal;
-      background: linear-gradient(90deg, var(--accent), var(--violet), var(--blue));
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-    }
-    .info-hero .lede { font-size: 17px; max-width: 50ch; }
-
-    /* ---------- creator card ---------- */
-    .creator {
-      display: grid;
-      grid-template-columns: auto 1fr;
-      gap: 24px;
-      align-items: center;
-      padding: 26px;
-      background:
-        radial-gradient(120% 140% at 100% 0%, rgba(143, 184, 255, .13) 0%, transparent 50%),
-        radial-gradient(120% 140% at 0% 100%, var(--accent-soft) 0%, transparent 50%),
-        var(--panel);
-    }
-    .pfp-wrap { position: relative; width: 112px; height: 112px; }
-    .pfp {
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      object-fit: cover;
-      box-shadow: 0 0 0 5px rgba(255, 255, 255, .05), 0 0 0 6px rgba(255, 255, 255, .15), 0 0 60px -10px var(--accent);
-    }
-    /* a spinning gradient ring around the profile picture */
-    .pfp-wrap::before {
-      content: "";
-      position: absolute;
-      inset: -10px;
-      border-radius: 50%;
-      background: conic-gradient(from 0deg, transparent 0 70%, var(--accent), var(--violet), transparent);
-      -webkit-mask: radial-gradient(closest-side, transparent calc(100% - 2px), #000 calc(100% - 1px));
-      mask: radial-gradient(closest-side, transparent calc(100% - 2px), #000 calc(100% - 1px));
-      animation: spin 4s linear infinite;
-    }
-    .creator-name { font-size: 24px; font-weight: 700; letter-spacing: -0.02em; margin: 0; color: var(--text) !important; }
-    .creator-role { font: 13px var(--mono); margin: 2px 0 14px !important; }
-    .gh-stats { display: flex; gap: 18px; margin: 0 0 16px; font: 12px var(--mono); color: var(--faint); }
+    .creator { display: grid; grid-template-columns: auto 1fr; gap: 22px; align-items: center; padding: 24px; }
+    .pfp { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; border: 2px solid var(--line-strong); transition: transform .4s var(--ease); }
+    .creator:hover .pfp { transform: rotate(-5deg); }
+    .creator-name { font-size: 22px; font-weight: 700; letter-spacing: -0.02em; margin: 0 !important; color: var(--text) !important; }
+    .creator-role { font: 13px var(--mono); margin: 2px 0 12px !important; }
+    .gh-stats { display: flex; gap: 18px; margin: 0 0 14px !important; font: 12px var(--mono); color: var(--faint) !important; }
     .gh-stats b { color: var(--text); font-weight: 600; margin-right: 4px; }
     .links { display: flex; flex-wrap: wrap; gap: 8px; }
-    .link-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      font: 500 14px var(--sans);
-      text-decoration: none;
-      padding: 8px 14px;
-      border: 1px solid var(--line-strong);
-      border-radius: 10px;
-      background: rgba(255, 255, 255, .03);
-      transition: transform .2s var(--ease), border-color .2s, box-shadow .2s;
-    }
-    .link-btn:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: 0 0 22px -6px var(--accent); }
-    .link-btn.primary { background: var(--text); color: var(--bg); border-color: var(--text); }
 
-    /* ---------- pipeline ---------- */
-    .pipeline {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      gap: 0;
-      padding: 8px;
-    }
-    .step { padding: 18px; position: relative; }
-    .step + .step { border-left: 1px dashed var(--line-strong); }
-    .step-num { font: 600 11px var(--mono); color: var(--faint); letter-spacing: .1em; }
+    .steps { display: grid; grid-template-columns: repeat(3, 1fr); }
+    .step { padding: 18px; }
+    .step + .step { border-left: 1px solid var(--line); }
+    .step-num { font: 600 12px var(--mono); color: var(--accent); }
     .step b { display: block; font-size: 16px; margin: 6px 0 4px; }
-    .step span { font-size: 13.5px; color: var(--muted); }
-    /* a tiny comet runs along the pipeline */
-    .pipeline { position: relative; overflow: hidden; }
-    .pipeline::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: -20%;
-      width: 20%;
-      height: 1px;
-      background: linear-gradient(90deg, transparent, var(--accent));
-      box-shadow: 0 0 8px var(--accent);
-      animation: comet 4s linear infinite;
-    }
-    @keyframes comet { to { left: 100%; } }
+    .step span { font-size: 14px; color: var(--muted); }
 
-    /* ---------- sources grid ---------- */
-    .src-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
-    .src {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 10px 12px;
-      font-size: 14px;
-      font-weight: 500;
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      background: var(--panel);
-      transition: border-color .2s, transform .2s var(--ease);
-    }
-    .src:hover { border-color: var(--line-strong); transform: translateY(-2px); }
-    .src .co { width: 24px; height: 24px; border-radius: 7px; background: #fff; }
+    .src-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 6px; }
+    .src { display: flex; align-items: center; gap: 10px; padding: 10px 12px; font-size: 14px; font-weight: 500; }
+    .src .co { width: 22px; height: 22px; border-radius: 6px; }
     .src .co img { padding: 3px; }
 
-    /* ---------- specs ---------- */
-    .specs { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; }
-    .spec { padding: 16px; }
-    .spec b { display: block; font: 600 22px var(--mono); color: var(--text); letter-spacing: -0.02em; }
-    .spec span { font-size: 13px; color: var(--muted); }
+    .back-row { display: flex; justify-content: center; gap: 10px; margin-top: 56px; }
 
-    .back-row { display: flex; justify-content: center; margin-top: 56px; }
-
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    @media (max-width: 600px) {
-      .creator { grid-template-columns: 1fr; justify-items: start; padding: 22px; }
-      .pfp-wrap { width: 88px; height: 88px; }
-      .pipeline { grid-template-columns: 1fr; }
-      .step + .step { border-left: 0; border-top: 1px dashed var(--line-strong); }
-      .info-hero .astro { display: none; }
+    @media (max-width: 640px) {
+      .creator { grid-template-columns: 1fr; justify-items: start; padding: 20px; }
+      .pfp { width: 80px; height: 80px; }
+      .steps { grid-template-columns: 1fr; }
+      .step + .step { border-left: 0; border-top: 1px solid var(--line); }
     }
   </style>
 </head>
@@ -172,42 +57,41 @@
   <header class="top">
     <div class="wrap top-row">
       <a href="https://catnews.space" class="logo">
-        <img src="https://catnews.space/logo.jpg" alt="" width="36" height="36">
+        <img src="https://catnews.space/logo-mark.svg" alt="" width="34" height="34">
         <span>CatNews</span>
       </a>
-      <nav class="top-links"><a href="https://catnews.space">← news</a></nav>
+      <nav class="top-links">
+        <a href="https://catnews.space">News</a>
+        <a href="https://catnews.space/our-speed/">Our speed</a>
+        <a href="https://info.catnews.space" aria-current="page" class="hide-sm">Info</a>
+      </nav>
     </div>
   </header>
 
   <main class="wrap info">
     <section class="intro info-hero in">
       <div>
-        <p class="eyebrow">info · mission log</p>
-        <h1>A tiny, fast <em>AI news</em> feed<span class="mew">:O</span></h1>
-        <p class="lede">CatNews watches Hacker News for anything about Claude, ChatGPT, Gemini, DeepSeek, Grok, Kimi, Perplexity, OpenCode and friends — and shows it the moment it's posted. Newest first. No account, no tracking.</p>
+        <p class="eyebrow">About</p>
+        <h1>AI news, straight from the source<span class="mew">:O</span></h1>
+        <p class="lede">CatNews checks the AI labs themselves — their GitHub releases, Hugging Face uploads, blogs and sitemaps — and writes up anything new within minutes. Hacker News discussion is shown alongside so you can see what people think.</p>
       </div>
-      <div class="astro" aria-hidden="true">
-        <div class="orbit"><div class="moon-path"><span class="moon"></span></div></div>
-        <div class="helmet"><img src="https://catnews.space/logo.jpg" alt=""></div>
-      </div>
+      <img class="badge" src="https://catnews.space/logo.svg" alt="CatNews logo">
     </section>
 
     <section class="in">
-      <h2>Made by</h2>
+      <h2 class="section-title">Made by</h2>
       <div class="panel creator">
-        <div class="pfp-wrap">
-          <img class="pfp" src="https://github.com/izzyfrm.png" alt="Isaiah Boyd">
-        </div>
+        <img class="pfp" src="https://github.com/izzyfrm.png" alt="Isaiah Boyd">
         <div>
           <p class="creator-name">Isaiah Boyd</p>
-          <p class="creator-role">student developer · builds things for fun</p>
+          <p class="creator-role">student developer</p>
           <p class="gh-stats" id="gh-stats" hidden></p>
           <div class="links">
-            <a class="link-btn primary" href="https://izzyy.me" target="_blank" rel="noopener">
+            <a class="btn primary" href="https://izzyy.me" target="_blank" rel="noopener">
               <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 12h18M12 3c2.5 2.7 2.5 15.3 0 18M12 3c-2.5 2.7-2.5 15.3 0 18" fill="none" stroke="currentColor" stroke-width="2"/></svg>
               izzyy.me
             </a>
-            <a class="link-btn" href="https://github.com/izzyfrm" target="_blank" rel="noopener">
+            <a class="btn" href="https://github.com/izzyfrm" target="_blank" rel="noopener">
               <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path fill="currentColor" d="M12 .5a11.5 11.5 0 0 0-3.6 22.4c.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.2 1.2a11 11 0 0 1 5.8 0c2.2-1.5 3.2-1.2 3.2-1.2.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A11.5 11.5 0 0 0 12 .5Z"/></svg>
               izzyfrm
             </a>
@@ -217,50 +101,39 @@
     </section>
 
     <section class="in">
-      <h2>How it works</h2>
-      <div class="panel pipeline">
-        <div class="step"><span class="step-num">01</span><b>Scan</b><span>Every 60 seconds, CatNews asks Hacker News for the newest stories.</span></div>
-        <div class="step"><span class="step-num">02</span><b>Filter</b><span>Only headlines that actually name one of the sources below get through.</span></div>
-        <div class="step"><span class="step-num">03</span><b>Deliver</b><span>New stories land at the top — and the big ones go out by email &amp; RSS.</span></div>
+      <h2 class="section-title">How it works</h2>
+      <div class="panel steps">
+        <div class="step"><span class="step-num">01</span><b>Watch</b><span>Every 5 minutes, our newsroom checks each lab's releases, model uploads, blog feed and sitemap.</span></div>
+        <div class="step"><span class="step-num">02</span><b>Write</b><span>Anything new becomes a story with our own headline and a short summary from the source.</span></div>
+        <div class="step"><span class="step-num">03</span><b>Time it</b><span>We log when it was published and when we caught it. See the numbers on <a href="https://catnews.space/our-speed/">/our-speed</a>.</span></div>
       </div>
     </section>
 
     <section class="in">
-      <h2>Tracking</h2>
+      <h2 class="section-title">Sources</h2>
       <div class="src-grid" id="src-grid"></div>
     </section>
 
     <section class="in">
-      <h2>Specs</h2>
-      <div class="specs">
-        <div class="panel spec"><b>60s</b><span>refresh interval</span></div>
-        <div class="panel spec"><b>0</b><span>frameworks, trackers or cookies</span></div>
-        <div class="panel spec"><b>~47kb</b><span>of hand-written HTML, CSS &amp; JS</span></div>
-        <div class="panel spec"><b>RSS</b><span><a href="https://catnews.space/rss.xml">catnews.space/rss.xml</a></span></div>
-      </div>
-    </section>
-
-    <section class="in">
-      <h2>Credits</h2>
-      <p>Stories come from the free <a href="https://hn.algolia.com/api" target="_blank" rel="noopener">HN Algolia API</a>. Company logos are each site's own favicon. The stars are drawn live on a canvas. The shocked cat is ours.</p>
+      <h2 class="section-title">Credits</h2>
+      <p>First-party news comes straight from each company's GitHub, Hugging Face, blog feeds and sitemaps. Community stories come from the free <a href="https://hn.algolia.com/api" target="_blank" rel="noopener">HN Algolia API</a>. Logos are each site's own favicon. The stars are drawn live on a canvas; the shocked cat is ours.</p>
+      <p>Get everything as <a href="https://catnews.space/rss.xml">RSS</a>, or the raw data as <a href="https://catnews.space/news.json">JSON</a>.</p>
     </section>
 
     <div class="back-row in">
-      <a class="link-btn" href="https://catnews.space">← Back to the news</a>
+      <a class="btn" href="https://catnews.space">← Back to the news</a>
     </div>
   </main>
 
   <script src="https://catnews.space/space.js"></script>
   <script src="https://catnews.space/sources.js"></script>
   <script>
-    // sources grid, from the same list the news page uses
     if (typeof SOURCES !== "undefined") {
       document.getElementById("src-grid").innerHTML = SOURCES.map((s) =>
-        `<div class="src"><span class="co"><img src="https://www.google.com/s2/favicons?domain=${s.domain}&sz=64" alt="" loading="lazy"></span>${s.label}</div>`
+        `<div class="panel src"><span class="co"><img src="https://www.google.com/s2/favicons?domain=${s.domain}&sz=64" alt="" loading="lazy"></span>${s.label}</div>`
       ).join("");
     }
 
-    // live GitHub numbers (public API, no key; quietly skipped if rate-limited)
     fetch("https://api.github.com/users/izzyfrm")
       .then((r) => (r.ok ? r.json() : Promise.reject()))
       .then((u) => {
@@ -270,14 +143,10 @@
       })
       .catch(() => {});
 
-    // reveal sections as they scroll in
     const io = new IntersectionObserver((entries) => {
       for (const e of entries) if (e.isIntersecting) { e.target.classList.add("shown"); io.unobserve(e.target); }
     }, { threshold: 0.15 });
-    document.querySelectorAll(".in").forEach((el, i) => {
-      el.style.transitionDelay = `${Math.min(i, 2) * 0.08}s`;
-      io.observe(el);
-    });
+    document.querySelectorAll(".in").forEach((el) => io.observe(el));
   </script>
 </body>
 </html>
