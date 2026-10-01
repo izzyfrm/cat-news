@@ -87,7 +87,7 @@ ${[...tags].map((t) => `      <category>${xml(t)}</category>`).join("\n")}
     <description>The biggest AI news for developers — Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Perplexity, OpenCode and more.</description>
     <language>en</language>
     <image>
-      <url>${SITE}/catnews.jpg</url>
+      <url>${SITE}/logo.jpg</url>
       <title>CatNews</title>
       <link>${SITE}</link>
     </image>
