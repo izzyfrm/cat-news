@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CatNews</title>
+    <link>https://catnews.space</link>
+    <atom:link href="https://catnews.space/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>The biggest AI news for developers — Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Perplexity, OpenCode and more.</description>
+    <language>en</language>
+    <image>
+      <url>https://catnews.space/catnews.jpg</url>
+      <title>CatNews</title>
+      <link>https://catnews.space</link>
+    </image>
+    <lastBuildDate>Thu, 01 Oct 2026 05:14:59 GMT</lastBuildDate>
+    <ttl>10</ttl>
+    <item>
+      <title>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</title>
+      <link>https://artificialanalysis.ai/models/gemini-4-argon</link>
+      <guid isPermaLink="false">catnews-49914236</guid>
+      <pubDate>Wed, 30 Sep 2026 20:50:28 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 98 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914236&quot;&gt;50 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/gemini-4-argon&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s IPO Prospectus Is a Fucking Doozy</title>
+      <link>https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus</link>
+      <guid isPermaLink="false">catnews-49914149</guid>
+      <pubDate>Wed, 30 Sep 2026 20:44:19 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 55 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914149&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
+      <guid isPermaLink="false">catnews-49913571</guid>
+      <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1165 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;769 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Says</title>
+      <link>https://ohhfishal.net/Posts/claude</link>
+      <guid isPermaLink="false">catnews-49911928</guid>
+      <pubDate>Wed, 30 Sep 2026 17:32:06 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 68 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49911928&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ohhfishal.net/Posts/claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI Targets $30B in New Funding at $1.4T Value</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value</link>
+      <guid isPermaLink="false">catnews-49897336</guid>
+      <pubDate>Tue, 29 Sep 2026 17:44:21 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49897336&quot;&gt;15 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Pro 500</title>
+      <link>https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers</link>
+      <guid isPermaLink="false">catnews-49896975</guid>
+      <pubDate>Tue, 29 Sep 2026 17:26:27 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 218 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49896975&quot;&gt;260 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude partial outage</title>
+      <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
+      <guid isPermaLink="false">catnews-49893876</guid>
+      <pubDate>Tue, 29 Sep 2026 14:25:41 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 171 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49893876&quot;&gt;148 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/incidents/4xvtc2gnq73l&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unsurprisingly, Meta&apos;s new Muse AI agent blatantly ignores users permissions</title>
+      <link>https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions</link>
+      <guid isPermaLink="false">catnews-49893709</guid>
+      <pubDate>Tue, 29 Sep 2026 14:15:24 GMT</pubDate>
+      <category>Muse</category>
+      <description>&lt;p&gt;&lt;b&gt;Muse&lt;/b&gt; · 163 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49893709&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI: Tomorrow we are re-opening the Pro $200 subscription</title>
+      <link>https://twitter.com/thsottiaux/status/2104823812042940713</link>
+      <guid isPermaLink="false">catnews-49889306</guid>
+      <pubDate>Tue, 29 Sep 2026 07:07:53 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 76 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49889306&quot;&gt;92 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/thsottiaux/status/2104823812042940713&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
