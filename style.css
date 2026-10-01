@@ -82,7 +82,7 @@ body:not(.loading) .splash { opacity: 0; visibility: hidden; }
 }
 body.loading .reveal { opacity: 0; transform: translateY(16px); }
 body.loading .top { opacity: 0; transform: translateY(-100%); }
-.sources.reveal { transition-delay: .08s; }
+.rail.reveal { transition-delay: .08s; }
 .toolbar.reveal { transition-delay: .16s; }
 
 /* ---------- header ---------- */
@@ -196,8 +196,8 @@ body.loading .top { opacity: 0; transform: translateY(-100%); }
   gap: 6px;
   overflow-x: auto;
   scrollbar-width: none;
-  padding: 2px 0 14px;
-  margin-bottom: 4px;
+  padding: 2px 0;
+  scroll-behavior: auto; /* we animate scrolling ourselves */
 }
 .sources::-webkit-scrollbar { display: none; }
 
@@ -235,6 +235,105 @@ body.loading .top { opacity: 0; transform: translateY(-100%); }
   overflow: hidden;
 }
 .co img { width: 100%; height: 100%; object-fit: contain; }
+
+/* ---------- source rail + cat scrollbar ---------- */
+.rail {
+  position: relative;
+  margin-bottom: 14px;
+}
+
+/* soft fade at whichever edge has more chips */
+.rail::before,
+.rail::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  height: 36px;
+  width: 64px;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity .25s;
+}
+.rail::before { left: 0; background: linear-gradient(90deg, #fff 30%, transparent); }
+.rail::after { right: 0; background: linear-gradient(-90deg, #fff 30%, transparent); }
+.rail.can-left::before,
+.rail.can-right::after { opacity: 1; }
+
+.rail-arrow {
+  position: absolute;
+  top: 3px;
+  z-index: 2;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--text);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px -4px rgba(22, 22, 26, .2);
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(.7);
+  transition: opacity .25s, transform .3s var(--ease), border-color .2s;
+}
+.rail-arrow.left { left: -4px; }
+.rail-arrow.right { right: -4px; }
+.rail-arrow:hover { border-color: var(--accent); }
+.rail-arrow:active { transform: scale(.9); }
+.rail.can-left .rail-arrow.left,
+.rail.can-right .rail-arrow.right { opacity: 1; pointer-events: auto; transform: scale(1); }
+
+.rail-track {
+  position: relative;
+  height: 4px;
+  margin: 18px 13px 4px;
+  border-radius: 4px;
+  background: var(--soft);
+  opacity: 0;
+  transition: opacity .3s;
+  cursor: pointer;
+}
+.rail.scrollable .rail-track { opacity: 1; }
+.rail-fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 0;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent-soft), var(--accent));
+}
+.rail-cat {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin: -14px 0 0 -13px;
+  cursor: grab;
+  touch-action: none;
+  filter: drop-shadow(0 2px 3px rgba(22, 22, 26, .15));
+  transition: scale .25s var(--ease);
+}
+.rail-cat svg { display: block; transition: transform .3s var(--ease); }
+.rail-cat:hover { scale: 1.15; }
+.rail-cat.dragging { cursor: grabbing; scale: 1.2; }
+/* head tilts in the direction it's moving, ears twitch while it walks */
+.rail-cat.walk-right svg { transform: rotate(8deg); }
+.rail-cat.walk-left svg { transform: rotate(-8deg); }
+.rail-cat.walk-right .ears,
+.rail-cat.walk-left .ears { animation: twitch .3s ease-in-out infinite alternate; transform-origin: 16px 14px; }
+@keyframes twitch { to { transform: scaleY(.85); } }
+
+/* ---------- page scrollbar ---------- */
+html { scrollbar-color: #f2b8cb transparent; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: #f2c4d3;
+  border: 3px solid #fff;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--accent); }
 
 /* ---------- toolbar ---------- */
 .toolbar {
@@ -455,6 +554,76 @@ body.loading .top { opacity: 0; transform: translateY(-100%); }
 
 .empty { color: var(--muted); text-align: center; padding: 48px 0; }
 
+/* ---------- subscribe ---------- */
+.subscribe {
+  margin-top: 48px;
+  padding: 28px;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background:
+    radial-gradient(120% 140% at 100% 0%, #eaf4fd 0%, transparent 55%),
+    radial-gradient(120% 140% at 0% 100%, var(--accent-soft) 0%, transparent 55%),
+    #fff;
+  display: grid;
+  grid-template-columns: 1fr minmax(260px, 340px);
+  gap: 16px 28px;
+  align-items: end;
+}
+.subscribe h2 {
+  font-size: clamp(20px, 3.4vw, 24px);
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin: 0 0 6px;
+}
+.sub-copy p:last-child { margin: 0; color: var(--muted); font-size: 14px; }
+
+.sub-field {
+  display: flex;
+  padding: 4px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  transition: border-color .2s, box-shadow .2s;
+}
+.sub-field:focus-within { border-color: var(--accent); box-shadow: 0 0 0 4px var(--accent-soft); }
+.sub-field input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: none;
+  font: 14px var(--sans);
+  padding: 0 10px;
+}
+.sub-field button {
+  font: 600 14px var(--sans);
+  color: #fff;
+  background: var(--text);
+  border: 0;
+  border-radius: 9px;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: background .2s, transform .15s;
+}
+.sub-field button:hover { background: var(--accent); }
+.sub-field button:active { transform: scale(.96); }
+.sub-field button:disabled { opacity: .6; cursor: wait; }
+
+.sub-msg {
+  grid-column: 1 / -1;
+  margin: 0;
+  min-height: 1.5em;
+  font: 13px var(--mono);
+  color: var(--muted);
+}
+.sub-msg.ok { color: #2a9d48; animation: rise .4s var(--ease) both; }
+.sub-msg.bad { color: #d6336c; }
+.subscribe.shake .sub-field { animation: shake .35s; }
+@keyframes shake {
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
 /* ---------- footer ---------- */
 .foot {
   padding: 40px 16px 56px;
@@ -480,6 +649,7 @@ body.loading .top { opacity: 0; transform: translateY(-100%); }
   .side a { margin: 0; }
   .item + .item::before { left: 58px; }
   .keys { display: none; }
+  .subscribe { grid-template-columns: 1fr; padding: 22px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
