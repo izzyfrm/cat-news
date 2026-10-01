@@ -58,4 +58,4 @@ Then open http://localhost:5500. Node 18+ is needed for the builders; nothing to
 
 ## Made by
 
-[Isaiah Boyd](https://izzyy.me) · [@izzyfrm](https://github.com/izzyfrm). More at [info.catnews.space](https://info.catnews.space).
+[Isaiah Boyd](https://izzyy.me) · [@izzyfrm](https://github.com/izzyfrm). More at [info.catnews.space](https://catnews.space/info).
