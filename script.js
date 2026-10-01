@@ -159,7 +159,7 @@ function renderStats() {
   $("#stats").innerHTML = [
     `<span><b>${week}</b> first-party stories this week</span>`,
     `<span><b>${n.watched.length}</b> official sources watched</span>`,
-    `<span>last check <b>${ago(n.lastRunAt)}</b> ago</span>`,
+    `<span>checked every <b>5 min</b></span>`,
     median != null ? `<a href="/our-speed/">median catch time ${duration(median)} →</a>` : `<a href="/our-speed/">our speed →</a>`,
   ].join("");
 }
