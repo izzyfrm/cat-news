@@ -1,0 +1,38 @@
+# Rebuilds rss.xml every 10 minutes and commits it if anything changed.
+name: Build RSS
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node build-rss.js
+      - name: Commit if changed
+        run: |
+          # lastBuildDate changes every run, so ignore it when deciding
+          if git diff -U0 rss.xml | grep '^[+-] ' | grep -vq 'lastBuildDate'; then
+            git config user.name "catnews-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add rss.xml
+            git commit -m "Update rss.xml"
+            git push
+          elif [ -z "$(git ls-files rss.xml)" ]; then
+            git config user.name "catnews-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add rss.xml
+            git commit -m "Add rss.xml"
+            git push
+          else
+            echo "No new stories."
+          fi
