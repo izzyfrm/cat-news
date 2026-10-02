@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 01:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:01:52 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v2.0.22 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.22</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.22</guid>
+      <pubDate>Fri, 02 Oct 2026 04:22:58 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.22&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.22&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+      <pubDate>Fri, 02 Oct 2026 04:01:31 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ServiceNow-AI/autosynthdata&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek Harness</title>
+      <link>https://www.deepseek.com/en/harness/</link>
+      <guid isPermaLink="false">catnews-49929489</guid>
+      <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
+      <category>DeepSeek</category>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 166 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;64 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Codex CLI 0.160.0 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.160.0</link>
@@ -92,7 +116,7 @@
       <pubDate>Thu, 01 Oct 2026 13:00:55 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 200 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 202 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barclays scales Claude to upgrade operations and improve client experience </title>
@@ -148,7 +172,7 @@
       <guid isPermaLink="false">catnews-49914149</guid>
       <pubDate>Wed, 30 Sep 2026 20:44:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 69 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914149&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 69 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914149&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Argon</title>
@@ -156,7 +180,7 @@
       <guid isPermaLink="false">catnews-49913571</guid>
       <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1639 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1125 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1653 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1134 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -180,7 +204,7 @@
       <guid isPermaLink="false">catnews-49911928</guid>
       <pubDate>Wed, 30 Sep 2026 17:32:06 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 78 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49911928&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ohhfishal.net/Posts/claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 78 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49911928&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ohhfishal.net/Posts/claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing SynthID Bio</title>
