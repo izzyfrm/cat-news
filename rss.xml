@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 07:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:53:26 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode v2.0.22 is out</title>
@@ -30,12 +30,12 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ServiceNow-AI/autosynthdata&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>DeepSeek Harness</title>
+      <title>DeepSeek Harness Desktop for macOS and Windows</title>
       <link>https://www.deepseek.com/en/harness/</link>
       <guid isPermaLink="false">catnews-49929489</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 166 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;64 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 306 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.0 is out</title>
@@ -116,7 +116,7 @@
       <pubDate>Thu, 01 Oct 2026 13:00:55 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 202 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 204 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;154 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barclays scales Claude to upgrade operations and improve client experience </title>
@@ -180,7 +180,7 @@
       <guid isPermaLink="false">catnews-49913571</guid>
       <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1653 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1134 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1664 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -221,22 +221,6 @@
       <pubDate>Wed, 30 Sep 2026 14:31:19 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being… The post HydraFusion in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Disrupting a coordinated model-distillation campaign</title>
-      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
-      <pubDate>Wed, 30 Sep 2026 10:30:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Helping small businesses put AI to work</title>
-      <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
-      <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/helping-small-businesses-put-ai-to-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
