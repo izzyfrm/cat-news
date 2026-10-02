@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 19:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:59:24 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.288 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.288</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.288</guid>
+      <pubDate>Fri, 02 Oct 2026 20:19:57 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added $.ui.selection() for mods: returns the text you last selected in fullscreen mode and, when the selection lies within one transcript row, that row · Added a built-in gh api to cloud sessions whose image has no…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.288&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Copilot code review: API support and new default effort level</title>
+      <link>https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</guid>
+      <pubDate>Fri, 02 Oct 2026 19:13:50 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default… The post Copilot code review: API support and new…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Selected models in GitHub Copilot deprecated</title>
       <link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
@@ -51,7 +67,7 @@
       <guid isPermaLink="false">catnews-49932606</guid>
       <pubDate>Fri, 02 Oct 2026 12:12:38 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49932606&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49932606&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.22 is out</title>
@@ -75,7 +91,7 @@
       <guid isPermaLink="false">catnews-49929489</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 378 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;200 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 379 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;205 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chatham scales its capital markets expertise with OpenAI</title>
@@ -91,7 +107,7 @@
       <guid isPermaLink="false">catnews-49927747</guid>
       <pubDate>Thu, 01 Oct 2026 22:22:21 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 174 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;200 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.0 is out</title>
@@ -172,7 +188,7 @@
       <pubDate>Thu, 01 Oct 2026 13:00:55 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 206 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 207 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barclays scales Claude to upgrade operations and improve client experience </title>
@@ -197,62 +213,6 @@
       <pubDate>Wed, 30 Sep 2026 23:02:08 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.21&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.21&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing the Life Sciences Verification Program</title>
-      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/life-sciences-verification-program</guid>
-      <pubDate>Wed, 30 Sep 2026 22:54:30 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is an AI safety and research company that&apos;s working to build reliable, interpretable, and steerable AI systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/life-sciences-verification-program&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v1.18.34 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v1.18.34</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.18.34</guid>
-      <pubDate>Wed, 30 Sep 2026 22:39:45 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Send namespaced session and parent-session identity headers with model requests. · Re-sign locally compiled macOS binaries so they run reliably on macOS 27+. ( @ryangamerdev )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.18.34&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</title>
-      <link>https://artificialanalysis.ai/models/gemini-4-argon</link>
-      <guid isPermaLink="false">catnews-49914236</guid>
-      <pubDate>Wed, 30 Sep 2026 20:50:28 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 111 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914236&quot;&gt;61 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/gemini-4-argon&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s IPO Prospectus Is a Fucking Doozy</title>
-      <link>https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus</link>
-      <guid isPermaLink="false">catnews-49914149</guid>
-      <pubDate>Wed, 30 Sep 2026 20:44:19 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 69 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914149&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
-      <guid isPermaLink="false">catnews-49913571</guid>
-      <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1682 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1165 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: our next era of frontier intelligence</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
-      <pubDate>Wed, 30 Sep 2026 20:01:45 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.286 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.286</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.286</guid>
-      <pubDate>Wed, 30 Sep 2026 19:10:13 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a count such as &quot;2 of 5&quot; to the permission prompt when several permission requests stack up · Added mouse support for the &quot;N more&quot; rows of lists in fullscreen mode: click one to jump to that end of the list, with…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.286&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
