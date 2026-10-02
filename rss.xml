@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 18:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:04:24 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Codex CLI 0.160.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.160.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.160.0</guid>
+      <pubDate>Thu, 01 Oct 2026 20:21:40 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Browse older tasks in the agent command center with a keyboard-accessible “Show more” action. ( #49106 ) · Select transcript text and paste with middle-click in fullscreen mode on supported local Linux X11 terminals. (…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.160.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot can now interact with desktop apps with computer use</title>
+      <link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</guid>
+      <pubDate>Thu, 01 Oct 2026 19:11:26 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot in VS Code, September 2026 releases</title>
+      <link>https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</guid>
+      <pubDate>Thu, 01 Oct 2026 19:09:10 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.287 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.287</link>
@@ -38,6 +62,14 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-eternal-complement&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Dynamic workflows in Copilot CLI and the Copilot app</title>
+      <link>https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</guid>
+      <pubDate>Thu, 01 Oct 2026 16:30:10 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and… The post Dynamic workflows in Copilot CLI…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>How Albertsons Companies is reimagining retail from the inside out</title>
       <link>https://openai.com/index/albertsons-reimagining-retail</link>
       <guid isPermaLink="false">catnews-openai:https://openai.com/index/albertsons-reimagining-retail</guid>
@@ -60,7 +92,7 @@
       <pubDate>Thu, 01 Oct 2026 13:00:55 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 167 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;107 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 200 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barclays scales Claude to upgrade operations and improve client experience </title>
@@ -69,6 +101,14 @@
       <pubDate>Thu, 01 Oct 2026 09:16:50 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/barclays-scales-claude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
+      <link>https://openai.com/index/the-den-family-social</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-den-family-social</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-den-family-social&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.21 is out</title>
@@ -100,7 +140,7 @@
       <guid isPermaLink="false">catnews-49914236</guid>
       <pubDate>Wed, 30 Sep 2026 20:50:28 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 109 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914236&quot;&gt;61 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/gemini-4-argon&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 111 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914236&quot;&gt;61 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/gemini-4-argon&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s IPO Prospectus Is a Fucking Doozy</title>
@@ -108,7 +148,7 @@
       <guid isPermaLink="false">catnews-49914149</guid>
       <pubDate>Wed, 30 Sep 2026 20:44:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 68 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914149&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 69 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49914149&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Argon</title>
@@ -116,7 +156,7 @@
       <guid isPermaLink="false">catnews-49913571</guid>
       <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1606 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1071 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1639 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1125 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -140,7 +180,7 @@
       <guid isPermaLink="false">catnews-49911928</guid>
       <pubDate>Wed, 30 Sep 2026 17:32:06 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 76 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49911928&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ohhfishal.net/Posts/claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 78 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49911928&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ohhfishal.net/Posts/claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing SynthID Bio</title>
@@ -173,38 +213,6 @@
       <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/helping-small-businesses-put-ai-to-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
-      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/open-tts-leaderboard</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/open-tts-leaderboard&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini CLI Release v0.62.0 is out</title>
-      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0</link>
-      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.62.0</guid>
-      <pubDate>Tue, 29 Sep 2026 21:17:07 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;fix(a2a-server): add early return on unsupported store in tasks metadata endpoint by @jesussamuel-byte in #29334 · Changelog for v0.61.0-preview.0 by @gemini-cli-robot in #29344&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.0.20 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.20</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.20</guid>
-      <pubDate>Tue, 29 Sep 2026 21:07:54 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.20&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.20&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.285 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.285</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.285</guid>
-      <pubDate>Tue, 29 Sep 2026 19:27:30 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added CLAUDE_CODE_DISABLE_WEB_FETCH environment variable to turn off the WebFetch tool · Added claude --desktop to open the Claude desktop app on the current directory, or on a session with --continue / --resume&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.285&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
