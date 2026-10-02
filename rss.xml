@@ -11,8 +11,48 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 13:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:04:40 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Selected models in GitHub Copilot deprecated</title>
+      <link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
+      <pubDate>Fri, 02 Oct 2026 18:24:19 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model… The post Selected…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A model guide for the GPT-6 family</title>
+      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/practical-guide-building-gpt-6</guid>
+      <pubDate>Fri, 02 Oct 2026 16:15:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/practical-guide-building-gpt-6&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
+      <link>https://huggingface.co/blog/allenai/astabrief</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/astabrief</guid>
+      <pubDate>Fri, 02 Oct 2026 15:19:50 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/astabrief&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The latest AI news we announced in September 2026</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</guid>
+      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Here are Google’s latest AI updates from September 2026&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude</title>
+      <link>https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/</link>
+      <guid isPermaLink="false">catnews-49932606</guid>
+      <pubDate>Fri, 02 Oct 2026 12:12:38 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49932606&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v2.0.22 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.22</link>
@@ -35,7 +75,23 @@
       <guid isPermaLink="false">catnews-49929489</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 306 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 378 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;200 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chatham scales its capital markets expertise with OpenAI</title>
+      <link>https://openai.com/index/chatham-financial</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatham-financial</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatham-financial&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sites in ChatGPT</title>
+      <link>https://chatgpt.com/features/sites/</link>
+      <guid isPermaLink="false">catnews-49927747</guid>
+      <pubDate>Thu, 01 Oct 2026 22:22:21 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.0 is out</title>
@@ -116,7 +172,7 @@
       <pubDate>Thu, 01 Oct 2026 13:00:55 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 204 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;154 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 206 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barclays scales Claude to upgrade operations and improve client experience </title>
@@ -180,7 +236,7 @@
       <guid isPermaLink="false">catnews-49913571</guid>
       <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1664 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1682 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49913571&quot;&gt;1165 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -197,30 +253,6 @@
       <pubDate>Wed, 30 Sep 2026 19:10:13 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a count such as &quot;2 of 5&quot; to the permission prompt when several permission requests stack up · Added mouse support for the &quot;N more&quot; rows of lists in fullscreen mode: click one to jump to that end of the list, with…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.286&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Says</title>
-      <link>https://ohhfishal.net/Posts/claude</link>
-      <guid isPermaLink="false">catnews-49911928</guid>
-      <pubDate>Wed, 30 Sep 2026 17:32:06 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 78 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49911928&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ohhfishal.net/Posts/claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing SynthID Bio</title>
-      <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-synthid-bio/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:03:07 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Proof of concept for watermarking AI-generated proteins while preserving biological function.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-synthid-bio/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HydraFusion in VS Code and the GitHub Copilot app</title>
-      <link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
-      <pubDate>Wed, 30 Sep 2026 14:31:19 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being… The post HydraFusion in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
