@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 22:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:52:22 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Claude Code v2.1.288 is out</title>
@@ -91,7 +91,7 @@
       <guid isPermaLink="false">catnews-49929489</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 379 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;205 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 383 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;207 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chatham scales its capital markets expertise with OpenAI</title>
@@ -107,7 +107,7 @@
       <guid isPermaLink="false">catnews-49927747</guid>
       <pubDate>Thu, 01 Oct 2026 22:22:21 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 174 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;200 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 211 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;218 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.0 is out</title>
@@ -197,22 +197,6 @@
       <pubDate>Thu, 01 Oct 2026 09:16:50 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/barclays-scales-claude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-      <link>https://openai.com/index/the-den-family-social</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-den-family-social</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-den-family-social&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.0.21 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.21</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.21</guid>
-      <pubDate>Wed, 30 Sep 2026 23:02:08 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.21&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.21&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
