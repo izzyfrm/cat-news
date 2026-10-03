@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 07:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 13:10:58 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Claude Code v2.1.288 is out</title>
@@ -67,7 +67,7 @@
       <guid isPermaLink="false">catnews-49932606</guid>
       <pubDate>Fri, 02 Oct 2026 12:12:38 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49932606&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49932606&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.22 is out</title>
@@ -91,7 +91,7 @@
       <guid isPermaLink="false">catnews-49929489</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 387 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;209 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 391 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;211 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chatham scales its capital markets expertise with OpenAI</title>
@@ -107,7 +107,7 @@
       <guid isPermaLink="false">catnews-49927747</guid>
       <pubDate>Thu, 01 Oct 2026 22:22:21 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 260 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;248 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 300 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;279 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.0 is out</title>
@@ -180,23 +180,6 @@
       <pubDate>Thu, 01 Oct 2026 15:01:43 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/olmocore3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FTC is investigating OpenAI, Anthropic and other AI companies over product risks</title>
-      <link>https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</link>
-      <guid isPermaLink="false">catnews-49921050</guid>
-      <pubDate>Thu, 01 Oct 2026 13:00:55 GMT</pubDate>
-      <category>Claude</category>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 210 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49921050&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Barclays scales Claude to upgrade operations and improve client experience </title>
-      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/barclays-scales-claude</guid>
-      <pubDate>Thu, 01 Oct 2026 09:16:50 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/barclays-scales-claude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
