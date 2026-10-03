@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 13:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:18:28 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>I Quit OpenAI Because Its Culture Is Broken</title>
+      <link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/</link>
+      <guid isPermaLink="false">catnews-49944227</guid>
+      <pubDate>Sat, 03 Oct 2026 13:46:34 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 81 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;128 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini ending free use of Flash and Pro models</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/</link>
+      <guid isPermaLink="false">catnews-49942592</guid>
+      <pubDate>Sat, 03 Oct 2026 09:13:19 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 51 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942592&quot;&gt;45 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>U.S. may have overthrown Venezuela due to chat with Grok</title>
+      <link>https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/</link>
+      <guid isPermaLink="false">catnews-49942437</guid>
+      <pubDate>Sat, 03 Oct 2026 08:40:38 GMT</pubDate>
+      <category>Grok</category>
+      <description>&lt;p&gt;&lt;b&gt;Grok&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942437&quot;&gt;8 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.288 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.288</link>
@@ -91,7 +115,7 @@
       <guid isPermaLink="false">catnews-49929489</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 391 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;211 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 396 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;212 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chatham scales its capital markets expertise with OpenAI</title>
@@ -107,7 +131,7 @@
       <guid isPermaLink="false">catnews-49927747</guid>
       <pubDate>Thu, 01 Oct 2026 22:22:21 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 300 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;279 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 329 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49927747&quot;&gt;314 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/features/sites/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.0 is out</title>
@@ -140,46 +164,6 @@
       <pubDate>Thu, 01 Oct 2026 18:00:22 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added Claude Mods: plugins may now modify deeper behavior · Added You should know, an opt-in plugin where a side agent watches your back and flags things you or Claude might miss. Turn it on with /plugin enable…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.287&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI v0.160.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.160.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@v0.160.0</guid>
-      <pubDate>Thu, 01 Oct 2026 17:13:38 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.160.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The eternal complement</title>
-      <link>https://openai.com/index/the-eternal-complement</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-eternal-complement</guid>
-      <pubDate>Thu, 01 Oct 2026 17:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-eternal-complement&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dynamic workflows in Copilot CLI and the Copilot app</title>
-      <link>https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</guid>
-      <pubDate>Thu, 01 Oct 2026 16:30:10 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and… The post Dynamic workflows in Copilot CLI…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Albertsons Companies is reimagining retail from the inside out</title>
-      <link>https://openai.com/index/albertsons-reimagining-retail</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/albertsons-reimagining-retail</guid>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/albertsons-reimagining-retail&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
-      <link>https://huggingface.co/blog/allenai/olmocore3</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/olmocore3</guid>
-      <pubDate>Thu, 01 Oct 2026 15:01:43 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/olmocore3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
