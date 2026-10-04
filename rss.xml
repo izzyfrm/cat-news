@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 14:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:24:23 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Google released a new model: DiarizationLM-Gemma-4-E4B-v1</title>
+      <link>https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1</link>
+      <guid isPermaLink="false">catnews-gemini:hf:google/DiarizationLM-Gemma-4-E4B-v1</guid>
+      <pubDate>Sun, 04 Oct 2026 13:06:04 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · image text to text · APACHE-2.0 license&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</title>
       <link>https://github.com/Niko1221/Strata</link>
       <guid isPermaLink="false">catnews-49953495</guid>
       <pubDate>Sun, 04 Oct 2026 12:51:53 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 136 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;51 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 362 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;195 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Religious scholars met with Anthropic</title>
@@ -27,7 +35,7 @@
       <guid isPermaLink="false">catnews-49950052</guid>
       <pubDate>Sun, 04 Oct 2026 02:34:22 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 126 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;271 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 144 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;362 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.289 is out</title>
@@ -51,7 +59,7 @@
       <guid isPermaLink="false">catnews-49948332</guid>
       <pubDate>Sat, 03 Oct 2026 22:18:13 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 265 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49948332&quot;&gt;3 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 267 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49948332&quot;&gt;3 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic tried to persuade Pope that AI could be conscious being</title>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">catnews-49947050</guid>
       <pubDate>Sat, 03 Oct 2026 19:33:10 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 56 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49947050&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49947050&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting the most out of Opus 5.5 in Claude and Claude Code</title>
@@ -67,7 +75,7 @@
       <guid isPermaLink="false">catnews-49946567</guid>
       <pubDate>Sat, 03 Oct 2026 18:29:30 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 223 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 229 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I quit OpenAI because its culture is broken</title>
@@ -75,7 +83,7 @@
       <guid isPermaLink="false">catnews-49944227</guid>
       <pubDate>Sat, 03 Oct 2026 13:46:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 330 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;559 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 410 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;673 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini ending free use of Flash and Pro models</title>
@@ -83,7 +91,7 @@
       <guid isPermaLink="false">catnews-49942592</guid>
       <pubDate>Sat, 03 Oct 2026 09:13:19 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 59 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942592&quot;&gt;50 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 59 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942592&quot;&gt;51 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>U.S. may have overthrown Venezuela due to chat with Grok</title>
@@ -108,38 +116,6 @@
       <pubDate>Fri, 02 Oct 2026 19:13:50 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default… The post Copilot code review: API support and new…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Selected models in GitHub Copilot deprecated</title>
-      <link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
-      <pubDate>Fri, 02 Oct 2026 18:24:19 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model… The post Selected…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A model guide for the GPT-6 family</title>
-      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/practical-guide-building-gpt-6</guid>
-      <pubDate>Fri, 02 Oct 2026 16:15:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/practical-guide-building-gpt-6&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-      <link>https://huggingface.co/blog/allenai/astabrief</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/astabrief</guid>
-      <pubDate>Fri, 02 Oct 2026 15:19:50 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/astabrief&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The latest AI news we announced in September 2026</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
-      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</guid>
-      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Here are Google’s latest AI updates from September 2026&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
