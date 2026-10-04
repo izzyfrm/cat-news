@@ -11,8 +11,16 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 23:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:41:34 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.289 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.289</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.289</guid>
+      <pubDate>Sat, 03 Oct 2026 23:07:17 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod&apos;s approval on managed machines · Fixed the terminal freezing on short code blocks with many unclosed tags or…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.289&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Agent Said It Was Done. The Database Disagreed.</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
@@ -22,12 +30,20 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/microsoft/thinkingbox&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI safety leader quits, warning AI company&apos;s culture is &apos;broken&apos;</title>
+      <link>https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</link>
+      <guid isPermaLink="false">catnews-49948332</guid>
+      <pubDate>Sat, 03 Oct 2026 22:18:13 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 180 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49948332&quot;&gt;128 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic tried to persuade Pope that AI could be conscious being</title>
       <link>https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</link>
       <guid isPermaLink="false">catnews-49947050</guid>
       <pubDate>Sat, 03 Oct 2026 19:33:10 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 41 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49947050&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49947050&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting the most out of Opus 5.5 in Claude and Claude Code</title>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-49946567</guid>
       <pubDate>Sat, 03 Oct 2026 18:29:30 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 128 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 169 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;123 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Quit OpenAI Because Its Culture Is Broken</title>
@@ -43,7 +59,7 @@
       <guid isPermaLink="false">catnews-49944227</guid>
       <pubDate>Sat, 03 Oct 2026 13:46:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 104 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;150 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 111 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;156 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini ending free use of Flash and Pro models</title>
@@ -139,15 +155,7 @@
       <guid isPermaLink="false">catnews-49929489</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:20 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 405 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;216 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chatham scales its capital markets expertise with OpenAI</title>
-      <link>https://openai.com/index/chatham-financial</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatham-financial</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatham-financial&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 406 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49929489&quot;&gt;216 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.deepseek.com/en/harness/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
