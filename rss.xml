@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 08:50:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 14:42:32 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</title>
+      <link>https://github.com/Niko1221/Strata</link>
+      <guid isPermaLink="false">catnews-49953495</guid>
+      <pubDate>Sun, 04 Oct 2026 12:51:53 GMT</pubDate>
+      <category>Qwen</category>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 136 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;51 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Religious scholars met with Anthropic</title>
       <link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
       <guid isPermaLink="false">catnews-49950052</guid>
       <pubDate>Sun, 04 Oct 2026 02:34:22 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;120 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 126 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;271 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.289 is out</title>
@@ -43,7 +51,7 @@
       <guid isPermaLink="false">catnews-49948332</guid>
       <pubDate>Sat, 03 Oct 2026 22:18:13 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 262 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49948332&quot;&gt;3 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 265 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49948332&quot;&gt;3 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic tried to persuade Pope that AI could be conscious being</title>
@@ -51,7 +59,7 @@
       <guid isPermaLink="false">catnews-49947050</guid>
       <pubDate>Sat, 03 Oct 2026 19:33:10 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49947050&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 56 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49947050&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting the most out of Opus 5.5 in Claude and Claude Code</title>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">catnews-49946567</guid>
       <pubDate>Sat, 03 Oct 2026 18:29:30 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 212 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;149 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 223 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I quit OpenAI because its culture is broken</title>
@@ -67,7 +75,7 @@
       <guid isPermaLink="false">catnews-49944227</guid>
       <pubDate>Sat, 03 Oct 2026 13:46:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 209 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;474 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 330 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;559 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini ending free use of Flash and Pro models</title>
@@ -75,7 +83,7 @@
       <guid isPermaLink="false">catnews-49942592</guid>
       <pubDate>Sat, 03 Oct 2026 09:13:19 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942592&quot;&gt;50 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 59 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942592&quot;&gt;50 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>U.S. may have overthrown Venezuela due to chat with Grok</title>
@@ -132,14 +140,6 @@
       <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Here are Google’s latest AI updates from September 2026&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude</title>
-      <link>https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/</link>
-      <guid isPermaLink="false">catnews-49932606</guid>
-      <pubDate>Fri, 02 Oct 2026 12:12:38 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49932606&quot;&gt;74 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
