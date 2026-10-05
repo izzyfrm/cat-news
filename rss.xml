@@ -11,8 +11,16 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 00:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:16:27 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v2.0.23 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.23</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.23</guid>
+      <pubDate>Mon, 05 Oct 2026 05:24:37 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.23&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.23&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google released a new model: DiarizationLM-Gemma-4-E4B-v1</title>
       <link>https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1</link>
@@ -27,7 +35,7 @@
       <guid isPermaLink="false">catnews-49953495</guid>
       <pubDate>Sun, 04 Oct 2026 12:51:53 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 581 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;278 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 715 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;323 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Religious scholars met with Anthropic</title>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-49950052</guid>
       <pubDate>Sun, 04 Oct 2026 02:34:22 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 156 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;395 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 159 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;409 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.289 is out</title>
@@ -75,7 +83,7 @@
       <guid isPermaLink="false">catnews-49946567</guid>
       <pubDate>Sat, 03 Oct 2026 18:29:30 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 231 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 233 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49946567&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-the-most-out-of-opus-5-5/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I quit OpenAI because its culture is broken</title>
@@ -83,7 +91,7 @@
       <guid isPermaLink="false">catnews-49944227</guid>
       <pubDate>Sat, 03 Oct 2026 13:46:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 454 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;771 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 468 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49944227&quot;&gt;783 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini ending free use of Flash and Pro models</title>
@@ -99,7 +107,7 @@
       <guid isPermaLink="false">catnews-49942437</guid>
       <pubDate>Sat, 03 Oct 2026 08:40:38 GMT</pubDate>
       <category>Grok</category>
-      <description>&lt;p&gt;&lt;b&gt;Grok&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942437&quot;&gt;8 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Grok&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49942437&quot;&gt;8 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
