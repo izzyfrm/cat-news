@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 22:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:19:42 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.290 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.290</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.290</guid>
+      <pubDate>Mon, 05 Oct 2026 23:33:17 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added serverToolUses to the result of a mod&apos;s turn.step hook: the tool calls the API ran itself (the advisor), each with its id, name, input, start and end · Added agentId to the tool.check event of plugin hooks, so a…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.290&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT is adding real cartoonists&apos; signatures to fake New Yorker cartoons</title>
+      <link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/</link>
+      <guid isPermaLink="false">catnews-49971846</guid>
+      <pubDate>Mon, 05 Oct 2026 22:46:45 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 275 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Codex CLI 0.160.1 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.160.1</link>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-49968105</guid>
       <pubDate>Mon, 05 Oct 2026 17:53:35 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 240 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49968105&quot;&gt;174 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 258 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49968105&quot;&gt;178 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.160.1 is out</title>
@@ -43,7 +59,7 @@
       <guid isPermaLink="false">catnews-49965833</guid>
       <pubDate>Mon, 05 Oct 2026 15:06:27 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49965833&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49965833&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our approach to EU text provenance rules</title>
@@ -67,7 +83,7 @@
       <guid isPermaLink="false">catnews-49961057</guid>
       <pubDate>Mon, 05 Oct 2026 05:37:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 407 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49961057&quot;&gt;332 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 560 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49961057&quot;&gt;473 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.23 is out</title>
@@ -91,7 +107,7 @@
       <guid isPermaLink="false">catnews-49953495</guid>
       <pubDate>Sun, 04 Oct 2026 12:51:53 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 907 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;407 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 911 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;412 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Religious scholars met with Anthropic</title>
@@ -100,30 +116,6 @@
       <pubDate>Sun, 04 Oct 2026 02:34:22 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 165 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;430 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.289 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.289</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.289</guid>
-      <pubDate>Sat, 03 Oct 2026 23:07:17 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod&apos;s approval on managed machines · Fixed the terminal freezing on short code blocks with many unclosed tags or…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.289&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/microsoft/thinkingbox</guid>
-      <pubDate>Sat, 03 Oct 2026 22:46:38 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/microsoft/thinkingbox&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI safety leader quits, warning AI company&apos;s culture is &apos;broken&apos;</title>
-      <link>https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</link>
-      <guid isPermaLink="false">catnews-49948332</guid>
-      <pubDate>Sat, 03 Oct 2026 22:18:13 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 268 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49948332&quot;&gt;3 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
