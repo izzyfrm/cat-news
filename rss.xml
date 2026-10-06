@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 02:19:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:17:19 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
+      <pubDate>Tue, 06 Oct 2026 06:44:39 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/tiiuae/falcon-emirati&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.291 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.291</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.291</guid>
+      <pubDate>Tue, 06 Oct 2026 03:55:19 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission prompts · Fixed a regression in 2.1.288 where the last messages of a session could be lost when quitting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.291&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.0.24 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.24</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.24</guid>
+      <pubDate>Tue, 06 Oct 2026 03:04:12 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.24&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.24&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.290 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.290</link>
@@ -27,7 +51,15 @@
       <guid isPermaLink="false">catnews-49971846</guid>
       <pubDate>Mon, 05 Oct 2026 22:46:45 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 275 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 427 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;308 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Engineer says Claude Code has made his job &quot;soul-sucking&quot;</title>
+      <link>https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html</link>
+      <guid isPermaLink="false">catnews-49971473</guid>
+      <pubDate>Mon, 05 Oct 2026 22:01:35 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 55 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971473&quot;&gt;48 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.1 is out</title>
@@ -43,7 +75,7 @@
       <guid isPermaLink="false">catnews-49968105</guid>
       <pubDate>Mon, 05 Oct 2026 17:53:35 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 258 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49968105&quot;&gt;178 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 278 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49968105&quot;&gt;183 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.160.1 is out</title>
@@ -59,7 +91,7 @@
       <guid isPermaLink="false">catnews-49965833</guid>
       <pubDate>Mon, 05 Oct 2026 15:06:27 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49965833&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 51 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49965833&quot;&gt;79 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our approach to EU text provenance rules</title>
@@ -83,7 +115,7 @@
       <guid isPermaLink="false">catnews-49961057</guid>
       <pubDate>Mon, 05 Oct 2026 05:37:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 560 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49961057&quot;&gt;473 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 723 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49961057&quot;&gt;561 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.23 is out</title>
@@ -107,15 +139,7 @@
       <guid isPermaLink="false">catnews-49953495</guid>
       <pubDate>Sun, 04 Oct 2026 12:51:53 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 911 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;412 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Religious scholars met with Anthropic</title>
-      <link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
-      <guid isPermaLink="false">catnews-49950052</guid>
-      <pubDate>Sun, 04 Oct 2026 02:34:22 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 165 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49950052&quot;&gt;430 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 916 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49953495&quot;&gt;417 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Niko1221/Strata&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
