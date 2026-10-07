@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 06:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:58:41 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Introducing Falcon ASR</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/tiiuae/falcon-asr&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
+      <pubDate>Wed, 07 Oct 2026 12:45:31 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Playground: Create and play custom games</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Playground is a new experimental gaming platform that lets you create, play, and share custom games.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Update your IDE to restore agent activity in Copilot usage metrics</title>
       <link>https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</link>
@@ -27,7 +51,7 @@
       <guid isPermaLink="false">catnews-49985740</guid>
       <pubDate>Tue, 06 Oct 2026 23:37:02 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49985740&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math/tree/main/preprints&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 41 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49985740&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math/tree/main/preprints&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.161.0 is out</title>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-49984976</guid>
       <pubDate>Tue, 06 Oct 2026 22:22:48 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 42 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49984976&quot;&gt;0 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 43 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49984976&quot;&gt;0 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.63.0 is out</title>
@@ -91,7 +115,7 @@
       <guid isPermaLink="false">catnews-49981905</guid>
       <pubDate>Tue, 06 Oct 2026 18:00:34 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 168 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 238 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;137 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
@@ -107,7 +131,7 @@
       <guid isPermaLink="false">catnews-49978116</guid>
       <pubDate>Tue, 06 Oct 2026 13:25:50 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 518 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49978116&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 520 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49978116&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing Mistral Large 4 | Mistral</title>
@@ -123,7 +147,7 @@
       <guid isPermaLink="false">catnews-49977979</guid>
       <pubDate>Tue, 06 Oct 2026 13:15:49 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1705 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;1005 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1915 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;1153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4</title>
@@ -164,7 +188,7 @@
       <pubDate>Tue, 06 Oct 2026 07:29:50 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 79 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49975345&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 80 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49975345&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
@@ -212,7 +236,7 @@
       <guid isPermaLink="false">catnews-49971846</guid>
       <pubDate>Mon, 05 Oct 2026 22:46:45 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 546 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;408 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 550 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;413 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Engineer says Claude Code has made his job &quot;soul-sucking&quot;</title>
@@ -220,7 +244,7 @@
       <guid isPermaLink="false">catnews-49971473</guid>
       <pubDate>Mon, 05 Oct 2026 22:01:35 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 61 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971473&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 61 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971473&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.1 is out</title>
@@ -229,30 +253,6 @@
       <pubDate>Mon, 05 Oct 2026 18:29:37 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Preserve SYSTEMROOT , TEMP , and TMP when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor&apos;s startup environment. · #51121 :…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.160.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI &quot;rogue&quot; agent activities found on Wikimedia projects</title>
-      <link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</link>
-      <guid isPermaLink="false">catnews-49968105</guid>
-      <pubDate>Mon, 05 Oct 2026 17:53:35 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 299 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49968105&quot;&gt;194 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI v0.160.1 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.160.1</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@v0.160.1</guid>
-      <pubDate>Mon, 05 Oct 2026 17:16:59 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.160.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>People are asking ChatGPT to help them decide how to vote in the midterms</title>
-      <link>https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</link>
-      <guid isPermaLink="false">catnews-49965833</guid>
-      <pubDate>Mon, 05 Oct 2026 15:06:27 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 54 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49965833&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
