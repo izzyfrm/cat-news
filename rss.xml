@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 21:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:44:38 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Update your IDE to restore agent activity in Copilot usage metrics</title>
+      <link>https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</guid>
+      <pubDate>Tue, 06 Oct 2026 23:43:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI v0.161.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.161.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.161.0</guid>
+      <pubDate>Tue, 06 Oct 2026 22:34:38 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.161.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mathematical manuscripts and supporting proof artifacts produced by OpenAI</title>
+      <link>https://github.com/openai/math</link>
+      <guid isPermaLink="false">catnews-49984976</guid>
+      <pubDate>Tue, 06 Oct 2026 22:22:48 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49984976&quot;&gt;0 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gemini CLI Release v0.63.0 is out</title>
       <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.63.0</link>
@@ -54,6 +78,14 @@
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/cyber-verification-program&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Code’s suggested message feature: I think the real customer is the model</title>
+      <link>https://www.zohaib.cc/blog/smartest-claude-code-feature</link>
+      <guid isPermaLink="false">catnews-49981905</guid>
+      <pubDate>Tue, 06 Oct 2026 18:00:34 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 81 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;45 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
       <link>https://openai.com/index/atlassian-partnership</link>
       <guid isPermaLink="false">catnews-openai:https://openai.com/index/atlassian-partnership</guid>
@@ -67,7 +99,7 @@
       <guid isPermaLink="false">catnews-49978116</guid>
       <pubDate>Tue, 06 Oct 2026 13:25:50 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 517 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49978116&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 518 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49978116&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing Mistral Large 4 | Mistral</title>
@@ -83,7 +115,7 @@
       <guid isPermaLink="false">catnews-49977979</guid>
       <pubDate>Tue, 06 Oct 2026 13:15:49 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1370 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;858 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1568 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;957 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4</title>
@@ -91,7 +123,23 @@
       <guid isPermaLink="false">catnews-49977844</guid>
       <pubDate>Tue, 06 Oct 2026 13:06:16 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 69 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977844&quot;&gt;4 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/MistralAI/status/2107456586813730854&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 70 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977844&quot;&gt;4 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/MistralAI/status/2107456586813730854&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sharing AI progress in mathematics</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/sharing-ai-progress-in-mathematics&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Jump Trading is scaling quant research with ChatGPT</title>
+      <link>https://openai.com/index/jump-trading</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/jump-trading</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/jump-trading&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advancing computer use with Ironclad</title>
@@ -108,7 +156,7 @@
       <pubDate>Tue, 06 Oct 2026 07:29:50 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 78 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49975345&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 79 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49975345&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
@@ -135,6 +183,14 @@
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.24&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.24&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Remote control for local agents</title>
+      <link>https://cursor.com/changelog/remote-control-local-agents</link>
+      <guid isPermaLink="false">catnews-cursor:https://cursor.com/changelog/remote-control-local-agents</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Cursor</category>
+      <description>&lt;p&gt;&lt;b&gt;Cursor&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See and reply to the local agents running on your computer from the Cursor iOS app.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cursor.com/changelog/remote-control-local-agents&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude Code v2.1.290 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.290</link>
       <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.290</guid>
@@ -148,7 +204,7 @@
       <guid isPermaLink="false">catnews-49971846</guid>
       <pubDate>Mon, 05 Oct 2026 22:46:45 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 534 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;392 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 539 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;402 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Engineer says Claude Code has made his job &quot;soul-sucking&quot;</title>
@@ -156,7 +212,7 @@
       <guid isPermaLink="false">catnews-49971473</guid>
       <pubDate>Mon, 05 Oct 2026 22:01:35 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 60 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971473&quot;&gt;81 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 61 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971473&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.160.1 is out</title>
@@ -172,7 +228,7 @@
       <guid isPermaLink="false">catnews-49968105</guid>
       <pubDate>Mon, 05 Oct 2026 17:53:35 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 299 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49968105&quot;&gt;191 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 299 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49968105&quot;&gt;193 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.160.1 is out</title>
@@ -188,7 +244,7 @@
       <guid isPermaLink="false">catnews-49965833</guid>
       <pubDate>Mon, 05 Oct 2026 15:06:27 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49965833&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 54 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49965833&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our approach to EU text provenance rules</title>
@@ -197,30 +253,6 @@
       <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/eu-text-provenance&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building advertising for the way people use AI</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/new-chatgpt-ads-format-and-measurement&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic reported diary entry to police, woman faces felony charge</title>
-      <link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
-      <guid isPermaLink="false">catnews-49961057</guid>
-      <pubDate>Mon, 05 Oct 2026 05:37:40 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 797 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49961057&quot;&gt;638 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.0.23 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.23</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.23</guid>
-      <pubDate>Mon, 05 Oct 2026 05:24:37 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.23&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.23&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
