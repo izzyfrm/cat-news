@@ -11,8 +11,81 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 13:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:53:36 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Meta and Microsoft Limit Employee Use of Claude AI Tools</title>
+      <link>https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</link>
+      <guid isPermaLink="false">catnews-49997161</guid>
+      <pubDate>Wed, 07 Oct 2026 18:49:40 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 56 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49997161&quot;&gt;51 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.293 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.293</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.293</guid>
+      <pubDate>Wed, 07 Oct 2026 18:10:20 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added Claude Haiku 5.5 ( claude-haiku-5-5 ), now the default Haiku model on the Anthropic API — 1M context, $0.10/$0.50 per Mtok ($0.50/$2.50 for prompts over 100K) · Added agentType to the subagentStatusLine payload,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.293&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Haiku 5.5</title>
+      <link>https://www.anthropic.com/claude-haiku-5-5</link>
+      <guid isPermaLink="false">catnews-49996437</guid>
+      <pubDate>Wed, 07 Oct 2026 18:01:32 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 338 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49996437&quot;&gt;163 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-haiku-5-5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multimodal open d1 decision models for the edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/LiquidAI/open-d1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:54:33 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/LiquidAI/open-d1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purpose-built model for leaked secret detection</title>
+      <link>https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection</guid>
+      <pubDate>Wed, 07 Oct 2026 16:13:56 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware… The post Purpose-built model…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth</title>
+      <link>https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth</link>
+      <guid isPermaLink="false">catnews-49994746</guid>
+      <pubDate>Wed, 07 Oct 2026 16:07:08 GMT</pubDate>
+      <category>Claude</category>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 81 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49994746&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI 0.161.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.161.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.161.0</guid>
+      <pubDate>Wed, 07 Oct 2026 15:58:45 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;GPT-6.1 Sol is now the default model in the bundled and Amazon Bedrock catalogs. ( #49318 , #49339 ) · Amazon Bedrock supports multi-agent V2 and Ultra reasoning on compatible models; Bedrock Mantle also accepts AWS…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.161.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Local sandboxing for GitHub Copilot now generally available</title>
+      <link>https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available</guid>
+      <pubDate>Wed, 07 Oct 2026 15:46:17 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure… The post Local sandboxing…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover local models in GitHub Copilot CLI</title>
+      <link>https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli</guid>
+      <pubDate>Wed, 07 Oct 2026 15:46:13 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introducing Falcon ASR</title>
       <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
@@ -38,6 +111,30 @@
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Playground is a new experimental gaming platform that lets you create, play, and share custom games.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Helping teens learn, plan, and shape the future of AI</title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/teens-learn-and-plan</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/teens-learn-and-plan&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
+      <link>https://openai.com/index/radisson</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/radisson</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/radisson&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 and Intelligent UI for everyone</title>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/gpt-6-for-everyone</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gpt-6-for-everyone&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Update your IDE to restore agent activity in Copilot usage metrics</title>
       <link>https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</link>
       <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</guid>
@@ -51,7 +148,7 @@
       <guid isPermaLink="false">catnews-49985740</guid>
       <pubDate>Tue, 06 Oct 2026 23:37:02 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 41 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49985740&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math/tree/main/preprints&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 42 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49985740&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math/tree/main/preprints&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.161.0 is out</title>
@@ -67,7 +164,7 @@
       <guid isPermaLink="false">catnews-49984976</guid>
       <pubDate>Tue, 06 Oct 2026 22:22:48 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 43 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49984976&quot;&gt;0 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49984976&quot;&gt;0 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.63.0 is out</title>
@@ -115,7 +212,7 @@
       <guid isPermaLink="false">catnews-49981905</guid>
       <pubDate>Tue, 06 Oct 2026 18:00:34 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 238 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;137 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 260 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;150 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
@@ -131,7 +228,7 @@
       <guid isPermaLink="false">catnews-49978116</guid>
       <pubDate>Tue, 06 Oct 2026 13:25:50 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 520 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49978116&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 521 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49978116&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing Mistral Large 4 | Mistral</title>
@@ -147,7 +244,7 @@
       <guid isPermaLink="false">catnews-49977979</guid>
       <pubDate>Tue, 06 Oct 2026 13:15:49 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1915 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;1153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1978 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;1182 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4</title>
@@ -156,103 +253,6 @@
       <pubDate>Tue, 06 Oct 2026 13:06:16 GMT</pubDate>
       <category>Mistral</category>
       <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 70 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977844&quot;&gt;4 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/MistralAI/status/2107456586813730854&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sharing AI progress in mathematics</title>
-      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/sharing-ai-progress-in-mathematics&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Jump Trading is scaling quant research with ChatGPT</title>
-      <link>https://openai.com/index/jump-trading</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/jump-trading</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/jump-trading&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advancing computer use with Ironclad</title>
-      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/advancing-computer-use-with-ironclad</guid>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-computer-use-with-ironclad&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
-      <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
-      <guid isPermaLink="false">catnews-49975345</guid>
-      <pubDate>Tue, 06 Oct 2026 07:29:50 GMT</pubDate>
-      <category>Claude</category>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 80 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49975345&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
-      <pubDate>Tue, 06 Oct 2026 06:44:39 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/tiiuae/falcon-emirati&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.291 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.291</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.291</guid>
-      <pubDate>Tue, 06 Oct 2026 03:55:19 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission prompts · Fixed a regression in 2.1.288 where the last messages of a session could be lost when quitting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.291&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.0.24 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.24</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.24</guid>
-      <pubDate>Tue, 06 Oct 2026 03:04:12 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.24&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.24&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Remote control for local agents</title>
-      <link>https://cursor.com/changelog/remote-control-local-agents</link>
-      <guid isPermaLink="false">catnews-cursor:https://cursor.com/changelog/remote-control-local-agents</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Cursor</category>
-      <description>&lt;p&gt;&lt;b&gt;Cursor&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See and reply to the local agents running on your computer from the Cursor iOS app.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cursor.com/changelog/remote-control-local-agents&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.290 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.290</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.290</guid>
-      <pubDate>Mon, 05 Oct 2026 23:33:17 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added serverToolUses to the result of a mod&apos;s turn.step hook: the tool calls the API ran itself (the advisor), each with its id, name, input, start and end · Added agentId to the tool.check event of plugin hooks, so a…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.290&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT is adding real cartoonists&apos; signatures to fake New Yorker cartoons</title>
-      <link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/</link>
-      <guid isPermaLink="false">catnews-49971846</guid>
-      <pubDate>Mon, 05 Oct 2026 22:46:45 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 550 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971846&quot;&gt;413 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Engineer says Claude Code has made his job &quot;soul-sucking&quot;</title>
-      <link>https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html</link>
-      <guid isPermaLink="false">catnews-49971473</guid>
-      <pubDate>Mon, 05 Oct 2026 22:01:35 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 61 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49971473&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.160.1 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.160.1</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.160.1</guid>
-      <pubDate>Mon, 05 Oct 2026 18:29:37 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Preserve SYSTEMROOT , TEMP , and TMP when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor&apos;s startup environment. · #51121 :…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.160.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
