@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 19:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:04:59 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
-      <title>Meta and Microsoft Limit Employee Use of Claude AI Tools</title>
+      <title>Claude Haiku 5.5 in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot</guid>
+      <pubDate>Wed, 07 Oct 2026 20:12:18 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta and Microsoft take steps to reduce employee usage of Claude AI</title>
       <link>https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</link>
       <guid isPermaLink="false">catnews-49997161</guid>
       <pubDate>Wed, 07 Oct 2026 18:49:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 56 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49997161&quot;&gt;51 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 251 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49997161&quot;&gt;246 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.293 is out</title>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-49996437</guid>
       <pubDate>Wed, 07 Oct 2026 18:01:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 338 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49996437&quot;&gt;163 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-haiku-5-5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 631 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49996437&quot;&gt;318 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-haiku-5-5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multimodal open d1 decision models for the edge</title>
@@ -60,7 +68,7 @@
       <pubDate>Wed, 07 Oct 2026 16:07:08 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 81 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49994746&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49994746&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.161.0 is out</title>
@@ -164,7 +172,7 @@
       <guid isPermaLink="false">catnews-49984976</guid>
       <pubDate>Tue, 06 Oct 2026 22:22:48 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49984976&quot;&gt;0 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49984976&quot;&gt;0 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.63.0 is out</title>
@@ -212,7 +220,7 @@
       <guid isPermaLink="false">catnews-49981905</guid>
       <pubDate>Tue, 06 Oct 2026 18:00:34 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 260 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;150 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 262 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
@@ -244,15 +252,7 @@
       <guid isPermaLink="false">catnews-49977979</guid>
       <pubDate>Tue, 06 Oct 2026 13:15:49 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1978 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;1182 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mistral Large 4</title>
-      <link>https://twitter.com/MistralAI/status/2107456586813730854</link>
-      <guid isPermaLink="false">catnews-49977844</guid>
-      <pubDate>Tue, 06 Oct 2026 13:06:16 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 70 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977844&quot;&gt;4 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/MistralAI/status/2107456586813730854&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1994 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;1189 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/\&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
