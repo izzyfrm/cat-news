@@ -11,15 +11,39 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 06:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:34:03 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
-      <title>Terence Tao Responds to the OpenAI Math Drop</title>
-      <link>https://mathstodon.xyz/@tao/117395269325940185</link>
-      <guid isPermaLink="false">catnews-50002008</guid>
-      <pubDate>Thu, 08 Oct 2026 05:14:14 GMT</pubDate>
+      <title>OpenCode v2.0.25 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.25</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.25</guid>
+      <pubDate>Thu, 08 Oct 2026 09:16:08 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.25&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.25&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI Withdraws 3 Math Papers</title>
+      <link>https://github.com/openai/math/blob/main/history.md</link>
+      <guid isPermaLink="false">catnews-50003107</guid>
+      <pubDate>Thu, 08 Oct 2026 08:08:37 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 90 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50002008&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mathstodon.xyz/@tao/117395269325940185&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 144 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50003107&quot;&gt;105 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math/blob/main/history.md&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I think I found a planet nobody knew existed. I used Claude Code to find it</title>
+      <link>https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</link>
+      <guid isPermaLink="false">catnews-50002665</guid>
+      <pubDate>Thu, 08 Oct 2026 07:07:34 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 54 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50002665&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI withdraws three mathematical results</title>
+      <link>https://twitter.com/danintheory/status/2108065033070789090</link>
+      <guid isPermaLink="false">catnews-50002650</guid>
+      <pubDate>Thu, 08 Oct 2026 07:05:40 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 86 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50002650&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/danintheory/status/2108065033070789090&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.294 is out</title>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-49997161</guid>
       <pubDate>Wed, 07 Oct 2026 18:49:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 332 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49997161&quot;&gt;318 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 349 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49997161&quot;&gt;354 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I&apos;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
@@ -52,7 +76,7 @@
       <pubDate>Wed, 07 Oct 2026 18:19:03 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 43 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49996713&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49996713&quot;&gt;20 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.293 is out</title>
@@ -68,7 +92,7 @@
       <guid isPermaLink="false">catnews-49996437</guid>
       <pubDate>Wed, 07 Oct 2026 18:01:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 792 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49996437&quot;&gt;391 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-haiku-5-5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 947 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49996437&quot;&gt;444 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-haiku-5-5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multimodal open d1 decision models for the edge</title>
@@ -93,7 +117,7 @@
       <pubDate>Wed, 07 Oct 2026 16:07:08 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 95 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49994746&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 96 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49994746&quot;&gt;36 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.161.0 is out</title>
@@ -230,30 +254,6 @@
       <pubDate>Tue, 06 Oct 2026 18:59:30 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added --marketplace to claude plugin install : adds the marketplace if needed, under the same policy checks as claude plugin marketplace add , then installs the plugin from it · Added an effort parameter to the Agent…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.292&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Expanding the Cyber Verification Program</title>
-      <link>https://www.anthropic.com/news/cyber-verification-program</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Tue, 06 Oct 2026 18:54:42 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/cyber-verification-program&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code’s suggested message feature: I think the real customer is the model</title>
-      <link>https://www.zohaib.cc/blog/smartest-claude-code-feature</link>
-      <guid isPermaLink="false">catnews-49981905</guid>
-      <pubDate>Tue, 06 Oct 2026 18:00:34 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 264 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zohaib.cc/blog/smartest-claude-code-feature&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
-      <link>https://openai.com/index/atlassian-partnership</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/atlassian-partnership</guid>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/atlassian-partnership&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
