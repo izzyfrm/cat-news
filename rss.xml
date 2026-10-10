@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 22:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:11:45 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>GitHub Copilot weekly releases — October 5</title>
+      <link>https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</guid>
+      <pubDate>Fri, 09 Oct 2026 22:58:23 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku… The post GitHub Copilot weekly…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic AI model submits false tip on unsolved Philly murder</title>
+      <link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
+      <guid isPermaLink="false">catnews-50027118</guid>
+      <pubDate>Fri, 09 Oct 2026 22:00:35 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 66 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50027118&quot;&gt;40 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI mistranslated mathematics into code for its Navier-Stokes proof</title>
+      <link>https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/</link>
+      <guid isPermaLink="false">catnews-50026734</guid>
+      <pubDate>Fri, 09 Oct 2026 21:25:09 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 55 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50026734&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Codex CLI 0.162.1 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.162.1</link>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-50023293</guid>
       <pubDate>Fri, 09 Oct 2026 16:52:20 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50023293&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/tomekkorbak/status/2108266859397283953&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50023293&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/tomekkorbak/status/2108266859397283953&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Impactful scheduling for GPU clusters</title>
@@ -59,7 +83,7 @@
       <guid isPermaLink="false">catnews-50021763</guid>
       <pubDate>Fri, 09 Oct 2026 15:18:59 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 85 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50021763&quot;&gt;82 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 91 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50021763&quot;&gt;83 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Iranian campaign planted fake articles in real U.S. publications using ChatGPT</title>
@@ -67,7 +91,7 @@
       <guid isPermaLink="false">catnews-50019455</guid>
       <pubDate>Fri, 09 Oct 2026 12:21:24 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 174 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50019455&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 180 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50019455&quot;&gt;162 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI fires three safety researchers for &quot;mishandling research information&quot;</title>
@@ -75,7 +99,7 @@
       <guid isPermaLink="false">catnews-50018350</guid>
       <pubDate>Fri, 09 Oct 2026 10:00:26 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 299 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50018350&quot;&gt;197 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 317 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50018350&quot;&gt;203 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
@@ -107,7 +131,7 @@
       <guid isPermaLink="false">catnews-50013902</guid>
       <pubDate>Thu, 08 Oct 2026 23:29:43 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 193 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50013902&quot;&gt;295 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://karagila.org/2026/openai-pp/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 196 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50013902&quot;&gt;296 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://karagila.org/2026/openai-pp/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.295 is out</title>
@@ -147,7 +171,7 @@
       <guid isPermaLink="false">catnews-50010330</guid>
       <pubDate>Thu, 08 Oct 2026 18:55:18 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50010330&quot;&gt;15 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3TNpOD6bov8&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50010330&quot;&gt;15 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3TNpOD6bov8&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic bans &apos;abusive or cruel behavior&apos; towards Claude</title>
@@ -155,7 +179,7 @@
       <guid isPermaLink="false">catnews-50008565</guid>
       <pubDate>Thu, 08 Oct 2026 17:08:02 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 84 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50008565&quot;&gt;181 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 85 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50008565&quot;&gt;207 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2026 Usage Policy update</title>
@@ -179,7 +203,7 @@
       <guid isPermaLink="false">catnews-50008187</guid>
       <pubDate>Thu, 08 Oct 2026 16:45:58 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 421 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50008187&quot;&gt;297 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 421 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50008187&quot;&gt;298 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
@@ -228,30 +252,6 @@
       <pubDate>Thu, 08 Oct 2026 11:36:06 GMT</pubDate>
       <category>Mistral</category>
       <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · automatic speech recognition&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-Arabic&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AHM Statement on OpenAI&apos;s October 6 Release of Mathematical Documents</title>
-      <link>https://www.ahmath.org/statements</link>
-      <guid isPermaLink="false">catnews-50003677</guid>
-      <pubDate>Thu, 08 Oct 2026 09:29:48 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50003677&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ahmath.org/statements&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.0.25 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.25</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.25</guid>
-      <pubDate>Thu, 08 Oct 2026 09:16:08 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.25&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.25&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI Withdraws 3 Math Papers</title>
-      <link>https://github.com/openai/math/blob/main/history.md</link>
-      <guid isPermaLink="false">catnews-50003107</guid>
-      <pubDate>Thu, 08 Oct 2026 08:08:37 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 342 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50003107&quot;&gt;3 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/math/blob/main/history.md&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
