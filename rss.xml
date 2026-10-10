@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 10 Oct 2026 19:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:36:37 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>New controls and chat improvements in Copilot for JetBrains</title>
@@ -20,6 +20,14 @@
       <pubDate>Sat, 10 Oct 2026 18:53:39 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic discloses 2 months old fake tip to police among new rogue AI incidents</title>
+      <link>https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/</link>
+      <guid isPermaLink="false">catnews-50035550</guid>
+      <pubDate>Sat, 10 Oct 2026 18:10:54 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50035550&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode github-v1.2.26: chore: promote v2 to dev is out</title>
@@ -43,7 +51,7 @@
       <guid isPermaLink="false">catnews-50027118</guid>
       <pubDate>Fri, 09 Oct 2026 22:00:35 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 203 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50027118&quot;&gt;147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 206 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50027118&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI mistranslated mathematics into code for its Navier-Stokes proof</title>
@@ -107,7 +115,7 @@
       <guid isPermaLink="false">catnews-50019455</guid>
       <pubDate>Fri, 09 Oct 2026 12:21:24 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50019455&quot;&gt;172 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 191 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50019455&quot;&gt;172 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI fires three safety researchers for &quot;mishandling research information&quot;</title>
@@ -115,7 +123,7 @@
       <guid isPermaLink="false">catnews-50018350</guid>
       <pubDate>Fri, 09 Oct 2026 10:00:26 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 350 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50018350&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 354 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50018350&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
@@ -147,31 +155,7 @@
       <guid isPermaLink="false">catnews-50013902</guid>
       <pubDate>Thu, 08 Oct 2026 23:29:43 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 205 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50013902&quot;&gt;309 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://karagila.org/2026/openai-pp/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.295 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.295</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.295</guid>
-      <pubDate>Thu, 08 Oct 2026 19:48:38 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added onFailure: &quot;block&quot; for command and HTTP hooks: a hook that can&apos;t start, times out, or exits with an unexpected code blocks the action instead of letting it through · Added Program Status Protocol (OSC 7501)…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.295&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.0.26 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.26</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.26</guid>
-      <pubDate>Thu, 08 Oct 2026 19:45:43 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.26&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.26&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Copilot code review: New organization billing options and controls</title>
-      <link>https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls</guid>
-      <pubDate>Thu, 08 Oct 2026 19:43:05 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 207 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50013902&quot;&gt;310 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://karagila.org/2026/openai-pp/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
