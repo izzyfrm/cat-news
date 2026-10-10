@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 10 Oct 2026 14:46:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:11:07 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>New controls and chat improvements in Copilot for JetBrains</title>
+      <link>https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains</guid>
+      <pubDate>Sat, 10 Oct 2026 18:53:39 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode github-v1.2.26: chore: promote v2 to dev is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/github-v1.2.26</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@github-v1.2.26: chore: promote v2 to dev</guid>
+      <pubDate>Sat, 10 Oct 2026 14:58:08 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Takes the v2 tree, with packages/console, packages/web, packages/stats, packages/function, infra and sst.config.ts merged up to latest dev, and retargets V2 publishing and deploys from the v2 branch to dev.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/github-v1.2.26&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GitHub Copilot weekly releases — October 5</title>
       <link>https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</link>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-50027118</guid>
       <pubDate>Fri, 09 Oct 2026 22:00:35 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 191 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50027118&quot;&gt;137 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 203 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50027118&quot;&gt;147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI mistranslated mathematics into code for its Navier-Stokes proof</title>
@@ -91,7 +107,7 @@
       <guid isPermaLink="false">catnews-50019455</guid>
       <pubDate>Fri, 09 Oct 2026 12:21:24 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 187 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50019455&quot;&gt;169 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50019455&quot;&gt;172 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI fires three safety researchers for &quot;mishandling research information&quot;</title>
@@ -99,7 +115,7 @@
       <guid isPermaLink="false">catnews-50018350</guid>
       <pubDate>Fri, 09 Oct 2026 10:00:26 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 345 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50018350&quot;&gt;215 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 350 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50018350&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
@@ -131,7 +147,7 @@
       <guid isPermaLink="false">catnews-50013902</guid>
       <pubDate>Thu, 08 Oct 2026 23:29:43 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 204 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50013902&quot;&gt;307 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://karagila.org/2026/openai-pp/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 205 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50013902&quot;&gt;309 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://karagila.org/2026/openai-pp/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.295 is out</title>
@@ -156,70 +172,6 @@
       <pubDate>Thu, 08 Oct 2026 19:43:05 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.162.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.162.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.162.0</guid>
-      <pubDate>Thu, 08 Oct 2026 18:55:59 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Add tools for creating and listing managed Git worktrees from trusted local projects when the worktrees feature is enabled. ( #50148 ) · Pin tasks in the agent Command Center with p and keep them in a shared Pinned…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.162.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video</title>
-      <link>https://www.youtube.com/watch?v=3TNpOD6bov8</link>
-      <guid isPermaLink="false">catnews-50010330</guid>
-      <pubDate>Thu, 08 Oct 2026 18:55:18 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 58 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50010330&quot;&gt;15 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3TNpOD6bov8&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic bans &apos;abusive or cruel behavior&apos; towards Claude</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
-      <guid isPermaLink="false">catnews-50008565</guid>
-      <pubDate>Thu, 08 Oct 2026 17:08:02 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50008565&quot;&gt;214 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 Usage Policy update</title>
-      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/2026-usage-policy-update</guid>
-      <pubDate>Thu, 08 Oct 2026 17:00:30 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/2026-usage-policy-update&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI v0.162.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.162.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@v0.162.0</guid>
-      <pubDate>Thu, 08 Oct 2026 16:56:08 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.162.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI annualised revenues $20B less than previously signalled</title>
-      <link>https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html</link>
-      <guid isPermaLink="false">catnews-50008187</guid>
-      <pubDate>Thu, 08 Oct 2026 16:45:58 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 425 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50008187&quot;&gt;300 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
-      <link>https://openai.com/index/oracle</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/oracle</guid>
-      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/oracle&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building on our commitment to American scientific discovery</title>
-      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/genesis-mission-commitment</guid>
-      <pubDate>Thu, 08 Oct 2026 14:58:32 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/genesis-mission-commitment&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
