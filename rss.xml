@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 11 Oct 2026 19:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:56:51 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode v1.19.0 is out</title>
@@ -35,7 +35,7 @@
       <guid isPermaLink="false">catnews-50038383</guid>
       <pubDate>Sun, 11 Oct 2026 00:08:31 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038383&quot;&gt;140 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038383&quot;&gt;142 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New controls and chat improvements in Copilot for JetBrains</title>
@@ -68,38 +68,6 @@
       <pubDate>Fri, 09 Oct 2026 22:58:23 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku… The post GitHub Copilot weekly…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic AI model submits false tip on unsolved Philly murder, police say</title>
-      <link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
-      <guid isPermaLink="false">catnews-50027118</guid>
-      <pubDate>Fri, 09 Oct 2026 22:00:35 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 211 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50027118&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI mistranslated mathematics into code for its Navier-Stokes proof</title>
-      <link>https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/</link>
-      <guid isPermaLink="false">catnews-50026734</guid>
-      <pubDate>Fri, 09 Oct 2026 21:25:09 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 56 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50026734&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.162.1 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.162.1</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.162.1</guid>
-      <pubDate>Fri, 09 Oct 2026 19:44:51 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed a TUI crash when asynchronous questions contain multiple lines, preserving line breaks and complete hyperlink destinations. ( #51866 ) · Fixed startup failures caused by differences between a running background…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.162.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.296 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.296</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.296</guid>
-      <pubDate>Fri, 09 Oct 2026 19:28:59 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a code key to the Claude apps gateway&apos;s managed.policies[] : the same settings as cli , also applied in Claude Desktop&apos;s Code tab; beside desktop , it turns on Claude Desktop&apos;s gateway mode · Added…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.296&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
