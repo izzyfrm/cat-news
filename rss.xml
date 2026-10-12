@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 02:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:23:52 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Research Firm Calls Anthropic&apos;s IPO &apos;Unprecedented Test of Investor Gullibity&apos;</title>
+      <link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
+      <guid isPermaLink="false">catnews-50051583</guid>
+      <pubDate>Mon, 12 Oct 2026 05:03:47 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 58 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50051583&quot;&gt;15 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.0.27 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.27</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.27</guid>
+      <pubDate>Mon, 12 Oct 2026 04:16:59 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.27&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.27&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v1.19.0 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.0</link>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-50038865</guid>
       <pubDate>Sun, 11 Oct 2026 01:17:22 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038865&quot;&gt;52 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 54 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038865&quot;&gt;52 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic Bans Cruelty to Claude, Still Won&apos;t Say What It Protects</title>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-50038383</guid>
       <pubDate>Sun, 11 Oct 2026 00:08:31 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038383&quot;&gt;145 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 68 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038383&quot;&gt;145 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New controls and chat improvements in Copilot for JetBrains</title>
