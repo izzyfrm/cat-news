@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 11 Oct 2026 22:56:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:14:43 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode v1.19.0 is out</title>
@@ -35,7 +35,7 @@
       <guid isPermaLink="false">catnews-50038383</guid>
       <pubDate>Sun, 11 Oct 2026 00:08:31 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038383&quot;&gt;142 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038383&quot;&gt;145 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New controls and chat improvements in Copilot for JetBrains</title>
@@ -60,14 +60,6 @@
       <pubDate>Sat, 10 Oct 2026 14:58:08 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Takes the v2 tree, with packages/console, packages/web, packages/stats, packages/function, infra and sst.config.ts merged up to latest dev, and retargets V2 publishing and deploys from the v2 branch to dev.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/github-v1.2.26&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot weekly releases — October 5</title>
-      <link>https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</guid>
-      <pubDate>Fri, 09 Oct 2026 22:58:23 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku… The post GitHub Copilot weekly…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
