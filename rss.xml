@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 01:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:20:53 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v2.0.28 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.28</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.28</guid>
+      <pubDate>Tue, 13 Oct 2026 08:17:38 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.28&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.28&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A look at the math that OpenAI claims computes faster Fourier transforms</title>
+      <link>https://www.argmin.net/p/faster-fourier-transforms</link>
+      <guid isPermaLink="false">catnews-50065932</guid>
+      <pubDate>Tue, 13 Oct 2026 02:46:43 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 117 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50065932&quot;&gt;77 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.argmin.net/p/faster-fourier-transforms&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Client telemetry user attribution and configurable capture</title>
+      <link>https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture</guid>
+      <pubDate>Mon, 12 Oct 2026 22:38:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode vscode-v1.0.0: fix(vscode): launch the V2 CLI without --port (#49084) is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/vscode-v1.0.0</link>
@@ -27,7 +51,7 @@
       <guid isPermaLink="false">catnews-50060694</guid>
       <pubDate>Mon, 12 Oct 2026 18:29:04 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 452 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060694&quot;&gt;237 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/48195&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 548 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060694&quot;&gt;272 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/48195&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Just say no to OpenAI and Anthropic</title>
@@ -36,7 +60,7 @@
       <pubDate>Mon, 12 Oct 2026 18:17:29 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 154 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060500&quot;&gt;144 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micahflee.com/just-say-no-to-openai-and-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 159 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060500&quot;&gt;151 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micahflee.com/just-say-no-to-openai-and-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>&quot;Just Ask Claude&quot; Is a Rare and Valuable Skill</title>
@@ -44,7 +68,7 @@
       <guid isPermaLink="false">catnews-50056063</guid>
       <pubDate>Mon, 12 Oct 2026 13:20:04 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50056063&quot;&gt;62 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50056063&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Firm Calls Anthropic&apos;s IPO &apos;Unprecedented Test of Investor Gullibity&apos;</title>
@@ -52,7 +76,7 @@
       <guid isPermaLink="false">catnews-50051583</guid>
       <pubDate>Mon, 12 Oct 2026 05:03:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 238 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50051583&quot;&gt;208 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 240 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50051583&quot;&gt;215 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.27 is out</title>
@@ -68,15 +92,7 @@
       <guid isPermaLink="false">catnews-50049588</guid>
       <pubDate>Mon, 12 Oct 2026 00:15:12 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 64 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50049588&quot;&gt;9 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SaarthurR/atticus-mac&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v1.19.0 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.0</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.19.0</guid>
-      <pubDate>Sun, 11 Oct 2026 01:39:22 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Run opencode upgrade --major to upgrade to OpenCode 2. · Allow the OpenAI ultrafast service tier.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 99 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50049588&quot;&gt;19 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SaarthurR/atticus-mac&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
