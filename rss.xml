@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 19:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:26:36 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode vscode-v1.0.0: fix(vscode): launch the V2 CLI without --port (#49084) is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/vscode-v1.0.0</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@vscode-v1.0.0: fix(vscode): launch the V2 CLI without --port (#49084)</guid>
+      <pubDate>Mon, 12 Oct 2026 18:58:37 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Co-authored-by: uyencss uyencss@users.noreply.github.com Co-authored-by: Aiden Cline aidenpcline@gmail.com&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/vscode-v1.0.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Codex CLI installs a persistent, self-updating background daemon by default</title>
       <link>https://github.com/openai/codex/issues/48195</link>
       <guid isPermaLink="false">catnews-50060694</guid>
       <pubDate>Mon, 12 Oct 2026 18:29:04 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 104 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060694&quot;&gt;47 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/48195&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 452 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060694&quot;&gt;237 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/48195&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Just say no to OpenAI and Anthropic</title>
@@ -28,7 +36,7 @@
       <pubDate>Mon, 12 Oct 2026 18:17:29 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 114 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060500&quot;&gt;62 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micahflee.com/just-say-no-to-openai-and-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 154 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060500&quot;&gt;144 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micahflee.com/just-say-no-to-openai-and-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>&quot;Just Ask Claude&quot; Is a Rare and Valuable Skill</title>
@@ -36,7 +44,7 @@
       <guid isPermaLink="false">catnews-50056063</guid>
       <pubDate>Mon, 12 Oct 2026 13:20:04 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50056063&quot;&gt;61 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50056063&quot;&gt;62 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Firm Calls Anthropic&apos;s IPO &apos;Unprecedented Test of Investor Gullibity&apos;</title>
@@ -44,7 +52,7 @@
       <guid isPermaLink="false">catnews-50051583</guid>
       <pubDate>Mon, 12 Oct 2026 05:03:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 232 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50051583&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 238 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50051583&quot;&gt;208 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.27 is out</title>
@@ -55,28 +63,20 @@
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.27&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.27&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p</title>
+      <link>https://github.com/SaarthurR/atticus-mac</link>
+      <guid isPermaLink="false">catnews-50049588</guid>
+      <pubDate>Mon, 12 Oct 2026 00:15:12 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 64 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50049588&quot;&gt;9 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SaarthurR/atticus-mac&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenCode v1.19.0 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.0</link>
       <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.19.0</guid>
       <pubDate>Sun, 11 Oct 2026 01:39:22 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Run opencode upgrade --major to upgrade to OpenCode 2. · Allow the OpenAI ultrafast service tier.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic asks users to stop being mean to Claude</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218</link>
-      <guid isPermaLink="false">catnews-50038865</guid>
-      <pubDate>Sun, 11 Oct 2026 01:17:22 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 54 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038865&quot;&gt;52 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic Bans Cruelty to Claude, Still Won&apos;t Say What It Protects</title>
-      <link>https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6</link>
-      <guid isPermaLink="false">catnews-50038383</guid>
-      <pubDate>Sun, 11 Oct 2026 00:08:31 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 69 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50038383&quot;&gt;146 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
