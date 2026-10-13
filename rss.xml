@@ -11,8 +11,48 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 08:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:18:28 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Gemini 4 Argon</title>
+      <link>https://deepmind.google/models/gemini/</link>
+      <guid isPermaLink="false">catnews-50073879</guid>
+      <pubDate>Tue, 13 Oct 2026 16:03:16 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 80 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50073879&quot;&gt;35 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/models/gemini/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon for Robotics</title>
+      <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:58 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-argon-for-robotics/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:52 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-gemini-4-argon/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Use your OpenAI subscription to create audiobooks</title>
+      <link>https://pdftomp3.com/connect-ai/</link>
+      <guid isPermaLink="false">catnews-50069337</guid>
+      <pubDate>Tue, 13 Oct 2026 10:08:34 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 125 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50069337&quot;&gt;61 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pdftomp3.com/connect-ai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v2.0.28 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.28</link>
@@ -27,7 +67,7 @@
       <guid isPermaLink="false">catnews-50065932</guid>
       <pubDate>Tue, 13 Oct 2026 02:46:43 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 117 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50065932&quot;&gt;77 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.argmin.net/p/faster-fourier-transforms&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 223 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50065932&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.argmin.net/p/faster-fourier-transforms&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Client telemetry user attribution and configurable capture</title>
@@ -51,7 +91,7 @@
       <guid isPermaLink="false">catnews-50060694</guid>
       <pubDate>Mon, 12 Oct 2026 18:29:04 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 548 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060694&quot;&gt;272 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/48195&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 590 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060694&quot;&gt;285 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/48195&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Just say no to OpenAI and Anthropic</title>
@@ -60,7 +100,7 @@
       <pubDate>Mon, 12 Oct 2026 18:17:29 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 159 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060500&quot;&gt;151 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micahflee.com/just-say-no-to-openai-and-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 166 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50060500&quot;&gt;156 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micahflee.com/just-say-no-to-openai-and-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>&quot;Just Ask Claude&quot; Is a Rare and Valuable Skill</title>
@@ -68,7 +108,7 @@
       <guid isPermaLink="false">catnews-50056063</guid>
       <pubDate>Mon, 12 Oct 2026 13:20:04 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50056063&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 55 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50056063&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Firm Calls Anthropic&apos;s IPO &apos;Unprecedented Test of Investor Gullibity&apos;</title>
@@ -76,7 +116,7 @@
       <guid isPermaLink="false">catnews-50051583</guid>
       <pubDate>Mon, 12 Oct 2026 05:03:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 240 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50051583&quot;&gt;215 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 241 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50051583&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.27 is out</title>
@@ -92,7 +132,7 @@
       <guid isPermaLink="false">catnews-50049588</guid>
       <pubDate>Mon, 12 Oct 2026 00:15:12 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 99 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50049588&quot;&gt;19 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SaarthurR/atticus-mac&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 113 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50049588&quot;&gt;23 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SaarthurR/atticus-mac&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
