@@ -11,8 +11,40 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 19:25:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:36:37 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Codex CLI 0.163.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.163.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.163.0</guid>
+      <pubDate>Thu, 15 Oct 2026 21:30:38 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Open /config to search preferences across categories, change supported settings immediately, and see which changes require a restart. ( #52990 , #53429 ) · Send a follow-up while Codex is responding to steer it…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.163.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-granite/granite-switch-4-1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.0.30 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.30</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.30</guid>
+      <pubDate>Thu, 15 Oct 2026 19:48:22 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.30&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.30&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
+      <link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</guid>
+      <pubDate>Thu, 15 Oct 2026 19:35:13 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date… The post…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.301 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.301</link>
@@ -28,6 +60,14 @@
       <pubDate>Thu, 15 Oct 2026 19:19:26 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v1.19.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bringing GPT-Rosalind to academic research labs</title>
+      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-the-rosalind-academic-plan&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.163.0 is out</title>
@@ -51,7 +91,7 @@
       <guid isPermaLink="false">catnews-50106738</guid>
       <pubDate>Thu, 15 Oct 2026 17:05:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 148 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 212 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;65 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
@@ -115,7 +155,7 @@
       <guid isPermaLink="false">catnews-50094994</guid>
       <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 833 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;355 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 848 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;370 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Scion is heavily inspired by Mononoke</title>
@@ -123,7 +163,7 @@
       <guid isPermaLink="false">catnews-50094694</guid>
       <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 412 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 414 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HydraFusion updates and new Max option</title>
@@ -212,46 +252,6 @@
       <pubDate>Wed, 14 Oct 2026 09:03:17 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.29&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.29&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mistral released a new model: Timestral-209M</title>
-      <link>https://huggingface.co/mistralai/Timestral-209M</link>
-      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-209M</guid>
-      <pubDate>Wed, 14 Oct 2026 08:52:36 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-209M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Singapore office and government MOU</title>
-      <link>https://www.anthropic.com/news/singapore-office-opening</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/singapore-office-opening</guid>
-      <pubDate>Wed, 14 Oct 2026 08:31:43 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/singapore-office-opening&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
-      <link>https://openai.com/index/third-moment-research</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/third-moment-research</guid>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/third-moment-research&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Block is building AI-powered security with OpenAI technology</title>
-      <link>https://openai.com/index/block-ai-powered-security</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/block-ai-powered-security</guid>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/block-ai-powered-security&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic conjures threat that doesn&apos;t exist yet to stoke fears of AI apocalypse</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866</link>
-      <guid isPermaLink="false">catnews-50082962</guid>
-      <pubDate>Wed, 14 Oct 2026 05:53:36 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50082962&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
