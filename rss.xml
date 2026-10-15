@@ -11,15 +11,55 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 11:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:36:45 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Timestral: Mistral</title>
+      <link>https://mistral.ai/news/timestral/</link>
+      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/timestral/</guid>
+      <pubDate>Thu, 15 Oct 2026 14:36:42 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/timestral/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Agentic autofix for code scanning alerts general availability</title>
+      <link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
+      <pubDate>Thu, 15 Oct 2026 13:49:20 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching students to think and learn through questions</title>
+      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/teaching-students-to-think-and-learn-through-questions&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apertus 1.5 Release Notes</title>
+      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
+      <pubDate>Thu, 15 Oct 2026 09:08:45 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome FLUX.3 Image Klein in Diffusers</title>
+      <link>https://huggingface.co/blog/flux-3</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/flux-3</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/flux-3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode 2.0</title>
       <link>https://anoma.ly/notes/opencode-2-0/</link>
       <guid isPermaLink="false">catnews-50094994</guid>
       <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 637 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;256 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 774 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;329 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Scion is heavily inspired by Mononoke</title>
@@ -27,7 +67,7 @@
       <guid isPermaLink="false">catnews-50094694</guid>
       <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 376 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;138 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 399 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;146 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HydraFusion updates and new Max option</title>
@@ -54,6 +94,22 @@
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added virtualText to a mod&apos;s prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt · Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.300&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Mistral released a new model: Timestral-123M</title>
+      <link>https://huggingface.co/mistralai/Timestral-123M</link>
+      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-123M</guid>
+      <pubDate>Wed, 14 Oct 2026 17:51:04 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-123M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistral released a new model: Timestral-28M</title>
+      <link>https://huggingface.co/mistralai/Timestral-28M</link>
+      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-28M</guid>
+      <pubDate>Wed, 14 Oct 2026 17:50:53 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-28M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
       <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
       <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/hiro-acev2</guid>
@@ -68,6 +124,14 @@
       <pubDate>Wed, 14 Oct 2026 16:04:25 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;fix(vscode): use the sst/opencode repository URL for Marketplace publ…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/vscode-v1.0.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistral released a new model: Timestral-5M</title>
+      <link>https://huggingface.co/mistralai/Timestral-5M</link>
+      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-5M</guid>
+      <pubDate>Wed, 14 Oct 2026 13:41:13 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-5M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amp puts AI agents to work beyond code with OpenAI models</title>
@@ -92,6 +156,14 @@
       <pubDate>Wed, 14 Oct 2026 09:03:17 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.29&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.29&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistral released a new model: Timestral-209M</title>
+      <link>https://huggingface.co/mistralai/Timestral-209M</link>
+      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-209M</guid>
+      <pubDate>Wed, 14 Oct 2026 08:52:36 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-209M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Singapore office and government MOU</title>
@@ -123,7 +195,7 @@
       <guid isPermaLink="false">catnews-50082962</guid>
       <pubDate>Wed, 14 Oct 2026 05:53:36 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50082962&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50082962&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.299 is out</title>
@@ -163,7 +235,7 @@
       <guid isPermaLink="false">catnews-50078141</guid>
       <pubDate>Tue, 13 Oct 2026 20:23:55 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 647 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50078141&quot;&gt;536 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 650 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50078141&quot;&gt;539 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI finds recording device in one of their offices</title>
@@ -180,78 +252,6 @@
       <pubDate>Tue, 13 Oct 2026 19:43:07 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</guid>
-      <pubDate>Tue, 13 Oct 2026 18:39:56 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gemini 4 Argon, Google’s newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon… The post Gemini 4 Argon in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
-      <pubDate>Tue, 13 Oct 2026 17:05:48 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon for Robotics</title>
-      <link>https://developers.googleblog.com/gemini-4-argon-for-robotics/</link>
-      <guid isPermaLink="false">catnews-50074869</guid>
-      <pubDate>Tue, 13 Oct 2026 16:55:47 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 232 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50074869&quot;&gt;57 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/gemini-4-argon-for-robotics/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon</title>
-      <link>https://deepmind.google/models/gemini/</link>
-      <guid isPermaLink="false">catnews-50073879</guid>
-      <pubDate>Tue, 13 Oct 2026 16:03:16 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1448 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50073879&quot;&gt;1029 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/models/gemini/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon for Robotics</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:01:58 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-argon-for-robotics/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:01:52 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-gemini-4-argon/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
-      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Redesigning source control at Anthropic</title>
-      <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
-      <guid isPermaLink="false">catnews-50073633</guid>
-      <pubDate>Tue, 13 Oct 2026 15:49:56 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 879 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50073633&quot;&gt;987 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/engineering/redesigning-source-control&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Enterprise managed settings enforcement updates</title>
-      <link>https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</guid>
-      <pubDate>Tue, 13 Oct 2026 15:20:10 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
