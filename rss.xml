@@ -11,8 +11,56 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 15:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:25:13 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.301 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.301</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.301</guid>
+      <pubDate>Thu, 15 Oct 2026 19:22:06 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS so unattended retry mode ( CLAUDE_CODE_RETRY_WATCHDOG ) ends a request at a usage limit that resets too far away instead of waiting · Added OpenTelemetry tracing…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.301&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v1.19.1 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.1</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.19.1</guid>
+      <pubDate>Thu, 15 Oct 2026 19:19:26 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v1.19.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI v0.163.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.163.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.163.0</guid>
+      <pubDate>Thu, 15 Oct 2026 18:57:08 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.163.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic update on independent evaluators</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+      <pubDate>Thu, 15 Oct 2026 17:18:28 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic announces updates to embedding independent evaluators&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/an-update-on-independent-evaluators&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>More on Anthropic&apos;s Scion ripping off Mononoke</title>
+      <link>https://sunshowers.io/posts/anthropic-mononoke-2/</link>
+      <guid isPermaLink="false">catnews-50106738</guid>
+      <pubDate>Thu, 15 Oct 2026 17:05:19 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 148 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+      <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
+      <pubDate>Thu, 15 Oct 2026 16:08:03 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/accelerating-antimicrobial-discovery/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Timestral: Mistral</title>
       <link>https://mistral.ai/news/timestral/</link>
@@ -54,12 +102,20 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/flux-3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
+      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/meta-muse-spark-open</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/meta-muse-spark-open&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenCode 2.0</title>
       <link>https://anoma.ly/notes/opencode-2-0/</link>
       <guid isPermaLink="false">catnews-50094994</guid>
       <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 774 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;329 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 833 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;355 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Scion is heavily inspired by Mononoke</title>
@@ -67,7 +123,7 @@
       <guid isPermaLink="false">catnews-50094694</guid>
       <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 399 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;146 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 412 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HydraFusion updates and new Max option</title>
@@ -196,62 +252,6 @@
       <pubDate>Wed, 14 Oct 2026 05:53:36 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50082962&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.299 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.299</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.299</guid>
-      <pubDate>Wed, 14 Oct 2026 02:49:42 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added CLAUDE_CODE_DISABLE_FILE_MENTIONS environment variable: Claude gets the paths of @ file mentions to read with its file tools, not the files&apos; contents · Added idle compaction in the terminal: a 200K+ token…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.299&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
-      <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
-      <pubDate>Wed, 14 Oct 2026 02:00:14 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/on-device-ai-scam-detection-mddi/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The EU’s next chapter in AI is agentic</title>
-      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini CLI Release v0.64.0 is out</title>
-      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0</link>
-      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.64.0</guid>
-      <pubDate>Tue, 13 Oct 2026 20:44:46 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;refactor(a2a-server): implement V1 to V2 settings migration logic by @jvargassanchez-dot in #29450 · fix(acp): bridge PromptResponse.usage and emit usage_update notifications ( #29389 ) by @elberthc-byte in #29549&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI engineer arrested in bugging of executive conference room</title>
-      <link>https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/</link>
-      <guid isPermaLink="false">catnews-50078141</guid>
-      <pubDate>Tue, 13 Oct 2026 20:23:55 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 650 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50078141&quot;&gt;539 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI finds recording device in one of their offices</title>
-      <link>https://twitter.com/OpenAINewsroom/status/2110095403198849132</link>
-      <guid isPermaLink="false">catnews-50077703</guid>
-      <pubDate>Tue, 13 Oct 2026 19:55:31 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 85 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50077703&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/OpenAINewsroom/status/2110095403198849132&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Developing Gemini 4 Argon responsibly and safely</title>
-      <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</guid>
-      <pubDate>Tue, 13 Oct 2026 19:43:07 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
