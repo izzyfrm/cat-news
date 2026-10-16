@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 00:47:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:38:28 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v1.19.2 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.2</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.19.2</guid>
+      <pubDate>Fri, 16 Oct 2026 02:30:38 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;OpenCode 1 now stays on the 1.x release line: update checks use only the npm opencode-ai latest version, so 1.x installs are never offered a 2.x build as a regular update. · Upgrading to OpenCode 2 remains a separate,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams</title>
+      <link>https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates</guid>
+      <pubDate>Fri, 16 Oct 2026 02:16:35 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Multi-repo support in Slack and Microsoft Teams GitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/scaling-indic-pretraining&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Codex CLI 0.163.0 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.163.0</link>
@@ -91,7 +115,7 @@
       <guid isPermaLink="false">catnews-50106738</guid>
       <pubDate>Thu, 15 Oct 2026 17:05:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 219 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 236 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;76 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
@@ -163,7 +187,7 @@
       <guid isPermaLink="false">catnews-50094994</guid>
       <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 852 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;371 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 858 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;377 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Scion is heavily inspired by Mononoke</title>
@@ -171,7 +195,7 @@
       <guid isPermaLink="false">catnews-50094694</guid>
       <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 416 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 420 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HydraFusion updates and new Max option</title>
@@ -228,30 +252,6 @@
       <pubDate>Wed, 14 Oct 2026 16:04:25 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;fix(vscode): use the sst/opencode repository URL for Marketplace publ…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/vscode-v1.0.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mistral released a new model: Timestral-5M</title>
-      <link>https://huggingface.co/mistralai/Timestral-5M</link>
-      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-5M</guid>
-      <pubDate>Wed, 14 Oct 2026 13:41:13 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-5M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amp puts AI agents to work beyond code with OpenAI models</title>
-      <link>https://openai.com/index/amp-beyond-coding</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/amp-beyond-coding</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/amp-beyond-coding&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SentinelOne cuts malware analysis from weeks to hours</title>
-      <link>https://openai.com/index/sentinelone</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/sentinelone</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/sentinelone&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
