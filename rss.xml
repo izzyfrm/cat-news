@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 10:07:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:53:05 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode PR #56106 demo video is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/pr-56106-video</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@PR #56106 demo video</guid>
+      <pubDate>Fri, 16 Oct 2026 14:39:45 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Demo video for #56106&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/pr-56106-video&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.0.31 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.31</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.31</guid>
+      <pubDate>Fri, 16 Oct 2026 12:37:31 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.31&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.31&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v1.19.3 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.3</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.19.3</guid>
+      <pubDate>Fri, 16 Oct 2026 12:31:36 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v1.19.3&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v1.19.2 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.2</link>
@@ -36,6 +60,14 @@
       <pubDate>Fri, 16 Oct 2026 01:44:47 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/scaling-indic-pretraining&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
+      <link>https://huggingface.co/blog/reflection-beam</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/reflection-beam</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/reflection-beam&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.163.0 is out</title>
@@ -115,7 +147,7 @@
       <guid isPermaLink="false">catnews-50106738</guid>
       <pubDate>Thu, 15 Oct 2026 17:05:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 242 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;77 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 248 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;80 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
@@ -187,7 +219,7 @@
       <guid isPermaLink="false">catnews-50094994</guid>
       <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 863 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;380 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 870 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;381 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Scion is heavily inspired by Mononoke</title>
@@ -195,7 +227,7 @@
       <guid isPermaLink="false">catnews-50094694</guid>
       <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 420 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 422 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HydraFusion updates and new Max option</title>
@@ -220,38 +252,6 @@
       <pubDate>Wed, 14 Oct 2026 18:24:25 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added virtualText to a mod&apos;s prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt · Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.300&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mistral released a new model: Timestral-123M</title>
-      <link>https://huggingface.co/mistralai/Timestral-123M</link>
-      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-123M</guid>
-      <pubDate>Wed, 14 Oct 2026 17:51:04 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-123M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mistral released a new model: Timestral-28M</title>
-      <link>https://huggingface.co/mistralai/Timestral-28M</link>
-      <guid isPermaLink="false">catnews-mistral:hf:mistralai/Timestral-28M</guid>
-      <pubDate>Wed, 14 Oct 2026 17:50:53 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · time series forecasting&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/mistralai/Timestral-28M&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
-      <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/hiro-acev2</guid>
-      <pubDate>Wed, 14 Oct 2026 16:12:42 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/hiro-acev2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode vscode-v1.0.0 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/vscode-v1.0.0</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@vscode-v1.0.0</guid>
-      <pubDate>Wed, 14 Oct 2026 16:04:25 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;fix(vscode): use the sst/opencode repository URL for Marketplace publ…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/vscode-v1.0.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
