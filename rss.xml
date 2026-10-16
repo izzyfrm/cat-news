@@ -11,8 +11,16 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 21:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:58:07 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v2.0.32 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.32</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.0.32</guid>
+      <pubDate>Fri, 16 Oct 2026 22:16:52 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.0.32&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.0.32&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.302 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.302</link>
@@ -27,7 +35,15 @@
       <guid isPermaLink="false">catnews-50122951</guid>
       <pubDate>Fri, 16 Oct 2026 19:04:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 126 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;121 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 201 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;188 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Itaú is building generative AI for its entire customer base</title>
+      <link>https://openai.com/index/itau-generative-ai</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/itau-generative-ai</guid>
+      <pubDate>Fri, 16 Oct 2026 19:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/itau-generative-ai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude reveals ECDSA curve origins</title>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-50122800</guid>
       <pubDate>Fri, 16 Oct 2026 18:55:59 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 442 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;185 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 593 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;248 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
@@ -43,7 +59,7 @@
       <guid isPermaLink="false">catnews-50122431</guid>
       <pubDate>Fri, 16 Oct 2026 18:32:35 GMT</pubDate>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;Llama&lt;/b&gt; · 116 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122431&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cobanov/PS5LM&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Llama&lt;/b&gt; · 158 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122431&quot;&gt;44 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cobanov/PS5LM&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic assigned highest junk credit rating in June</title>
@@ -51,7 +67,7 @@
       <guid isPermaLink="false">catnews-50122112</guid>
       <pubDate>Fri, 16 Oct 2026 18:11:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 155 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 196 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;59 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing more efficient quantum circuits with Claude</title>
@@ -59,7 +75,7 @@
       <guid isPermaLink="false">catnews-50121939</guid>
       <pubDate>Fri, 16 Oct 2026 18:00:18 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 65 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121939&quot;&gt;11 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/designing-efficient-quantum-circuits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 82 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121939&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/designing-efficient-quantum-circuits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic Console overcharged my card 100x due to internationalization input bug</title>
@@ -67,7 +83,7 @@
       <guid isPermaLink="false">catnews-50121562</guid>
       <pubDate>Fri, 16 Oct 2026 17:31:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 85 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode PR #56106 demo video is out</title>
@@ -83,7 +99,7 @@
       <guid isPermaLink="false">catnews-50118688</guid>
       <pubDate>Fri, 16 Oct 2026 14:18:44 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 167 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;74 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 180 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;87 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.31 is out</title>
@@ -227,7 +243,7 @@
       <guid isPermaLink="false">catnews-50106738</guid>
       <pubDate>Thu, 15 Oct 2026 17:05:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 249 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 251 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;87 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
@@ -236,22 +252,6 @@
       <pubDate>Thu, 15 Oct 2026 16:08:03 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/accelerating-antimicrobial-discovery/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Timestral: Mistral</title>
-      <link>https://mistral.ai/news/timestral/</link>
-      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/timestral/</guid>
-      <pubDate>Thu, 15 Oct 2026 14:36:42 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/timestral/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agentic autofix for code scanning alerts general availability</title>
-      <link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
-      <pubDate>Thu, 15 Oct 2026 13:49:20 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
