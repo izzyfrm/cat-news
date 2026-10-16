@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 14:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:41:49 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode PR #56106 demo video is out</title>
@@ -20,6 +20,14 @@
       <pubDate>Fri, 16 Oct 2026 14:39:45 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Demo video for #56106&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/pr-56106-video&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Gemini 4 Argon plays StarCraft</title>
+      <link>https://starskirmish.com/bench/v0-2/</link>
+      <guid isPermaLink="false">catnews-50118688</guid>
+      <pubDate>Fri, 16 Oct 2026 14:18:44 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 122 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.31 is out</title>
@@ -147,7 +155,7 @@
       <guid isPermaLink="false">catnews-50106738</guid>
       <pubDate>Thu, 15 Oct 2026 17:05:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 248 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;80 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 249 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;82 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
@@ -219,7 +227,7 @@
       <guid isPermaLink="false">catnews-50094994</guid>
       <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 870 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;381 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 876 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094994&quot;&gt;382 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://anoma.ly/notes/opencode-2-0/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Scion is heavily inspired by Mononoke</title>
@@ -227,7 +235,7 @@
       <guid isPermaLink="false">catnews-50094694</guid>
       <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 422 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 424 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50094694&quot;&gt;161 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HydraFusion updates and new Max option</title>
@@ -244,14 +252,6 @@
       <pubDate>Wed, 14 Oct 2026 19:32:27 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/2026-us-midterms&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.300 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.300</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.300</guid>
-      <pubDate>Wed, 14 Oct 2026 18:24:25 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added virtualText to a mod&apos;s prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt · Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.300&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
