@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 17 Oct 2026 20:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:57:56 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode Hacked: User credentials leaked</title>
@@ -19,7 +19,15 @@
       <guid isPermaLink="false">catnews-50133401</guid>
       <pubDate>Sat, 17 Oct 2026 18:01:41 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 382 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;67 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 646 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;104 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex Desktop continuously generates Crashpad pending dumps</title>
+      <link>https://github.com/openai/codex/issues/25921</link>
+      <guid isPermaLink="false">catnews-50133231</guid>
+      <pubDate>Sat, 17 Oct 2026 17:45:08 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 41 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133231&quot;&gt;23 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/25921&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI discloses four more rogue incidents</title>
@@ -27,7 +35,7 @@
       <guid isPermaLink="false">catnews-50132502</guid>
       <pubDate>Sat, 17 Oct 2026 16:31:12 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 110 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50132502&quot;&gt;125 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 113 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50132502&quot;&gt;140 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real</title>
@@ -51,7 +59,7 @@
       <guid isPermaLink="false">catnews-50129045</guid>
       <pubDate>Sat, 17 Oct 2026 08:21:25 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 568 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129045&quot;&gt;510 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 640 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129045&quot;&gt;543 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek released a new model: DeepSeek-V4.1-Flash-1017</title>
@@ -83,7 +91,7 @@
       <guid isPermaLink="false">catnews-50122951</guid>
       <pubDate>Fri, 16 Oct 2026 19:04:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 449 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;439 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 454 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;444 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Itaú is building generative AI for its entire customer base</title>
@@ -99,7 +107,7 @@
       <guid isPermaLink="false">catnews-50122800</guid>
       <pubDate>Fri, 16 Oct 2026 18:55:59 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1008 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;373 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1017 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;373 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
@@ -107,7 +115,7 @@
       <guid isPermaLink="false">catnews-50122431</guid>
       <pubDate>Fri, 16 Oct 2026 18:32:35 GMT</pubDate>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;Llama&lt;/b&gt; · 362 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122431&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cobanov/PS5LM&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Llama&lt;/b&gt; · 365 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122431&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cobanov/PS5LM&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic assigned highest junk credit rating in June</title>
@@ -115,7 +123,7 @@
       <guid isPermaLink="false">catnews-50122112</guid>
       <pubDate>Fri, 16 Oct 2026 18:11:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 281 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 283 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing more efficient quantum circuits with Claude</title>
@@ -147,7 +155,7 @@
       <guid isPermaLink="false">catnews-50118688</guid>
       <pubDate>Fri, 16 Oct 2026 14:18:44 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 241 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;105 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 241 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;106 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.31 is out</title>
@@ -220,14 +228,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/benefit-street-partners&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.163.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.163.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.163.0</guid>
-      <pubDate>Thu, 15 Oct 2026 21:30:38 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Open /config to search preferences across categories, change supported settings immediately, and see which changes require a restart. ( #52990 , #53429 ) · Send a follow-up while Codex is responding to steer it…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.163.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
