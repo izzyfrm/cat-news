@@ -11,8 +11,16 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 17 Oct 2026 04:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:36:43 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>DeepSeek released a new model: DeepSeek-V4.1-Flash-1017</title>
+      <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
+      <guid isPermaLink="false">catnews-deepseek:hf:deepseek-ai/DeepSeek-V4.1-Flash-1017</guid>
+      <pubDate>Sat, 17 Oct 2026 02:40:38 GMT</pubDate>
+      <category>DeepSeek</category>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · official model&lt;/p&gt;&lt;p&gt;Open weights on Hugging Face · image text to text · MIT license&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v2.0.32 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.0.32</link>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-50122951</guid>
       <pubDate>Fri, 16 Oct 2026 19:04:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 272 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;255 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 335 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;310 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Itaú is building generative AI for its entire customer base</title>
@@ -51,7 +59,7 @@
       <guid isPermaLink="false">catnews-50122800</guid>
       <pubDate>Fri, 16 Oct 2026 18:55:59 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 748 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;290 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 852 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;318 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">catnews-50122431</guid>
       <pubDate>Fri, 16 Oct 2026 18:32:35 GMT</pubDate>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;Llama&lt;/b&gt; · 227 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122431&quot;&gt;62 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cobanov/PS5LM&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Llama&lt;/b&gt; · 279 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122431&quot;&gt;69 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cobanov/PS5LM&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic assigned highest junk credit rating in June</title>
@@ -67,7 +75,7 @@
       <guid isPermaLink="false">catnews-50122112</guid>
       <pubDate>Fri, 16 Oct 2026 18:11:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 230 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;71 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 248 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing more efficient quantum circuits with Claude</title>
@@ -75,7 +83,7 @@
       <guid isPermaLink="false">catnews-50121939</guid>
       <pubDate>Fri, 16 Oct 2026 18:00:18 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 116 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121939&quot;&gt;22 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/designing-efficient-quantum-circuits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 136 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121939&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/designing-efficient-quantum-circuits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic Console overcharged my card 100x due to internationalization input bug</title>
@@ -83,7 +91,7 @@
       <guid isPermaLink="false">catnews-50121562</guid>
       <pubDate>Fri, 16 Oct 2026 17:31:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 86 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 87 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;36 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode PR #56106 demo video is out</title>
@@ -99,7 +107,7 @@
       <guid isPermaLink="false">catnews-50118688</guid>
       <pubDate>Fri, 16 Oct 2026 14:18:44 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 198 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 219 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;99 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.31 is out</title>
@@ -164,6 +172,14 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>Cursor</category>
       <description>&lt;p&gt;&lt;b&gt;Cursor&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Cloud agents can now build and share interactive canvases. The Environments API is available in beta, environments support up to 300 repos, and large environments load 5x faster.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cursor.com/changelog/cloud-agent-canvases-and-environments&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners answers questions faster with Codex</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/benefit-street-partners&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.163.0 is out</title>
@@ -236,22 +252,6 @@
       <pubDate>Thu, 15 Oct 2026 17:18:28 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic announces updates to embedding independent evaluators&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/an-update-on-independent-evaluators&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More on Anthropic&apos;s Scion ripping off Mononoke</title>
-      <link>https://sunshowers.io/posts/anthropic-mononoke-2/</link>
-      <guid isPermaLink="false">catnews-50106738</guid>
-      <pubDate>Thu, 15 Oct 2026 17:05:19 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 253 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50106738&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sunshowers.io/posts/anthropic-mononoke-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
-      <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:08:03 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/accelerating-antimicrobial-discovery/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
