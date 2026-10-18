@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 18 Oct 2026 17:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:26:54 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Investing in the public benefit</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/public-benefit-fund</guid>
+      <pubDate>Sun, 18 Oct 2026 18:05:05 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/public-benefit-fund&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic&apos;s proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
       <guid isPermaLink="false">catnews-50141429</guid>
       <pubDate>Sun, 18 Oct 2026 14:30:27 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 109 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50141429&quot;&gt;120 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 137 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50141429&quot;&gt;151 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How employment is changing at Anthropic</title>
@@ -27,7 +35,7 @@
       <guid isPermaLink="false">catnews-50139873</guid>
       <pubDate>Sun, 18 Oct 2026 10:49:26 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 94 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139873&quot;&gt;172 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/employment-at-anthropic&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 99 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139873&quot;&gt;182 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/employment-at-anthropic&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-50138531</guid>
       <pubDate>Sun, 18 Oct 2026 06:50:36 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 419 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;205 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://api-docs.deepseek.com/guides/search/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 470 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;226 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://api-docs.deepseek.com/guides/search/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The math that OpenAI keeps for itself</title>
@@ -43,7 +51,7 @@
       <guid isPermaLink="false">catnews-50134211</guid>
       <pubDate>Sat, 17 Oct 2026 19:22:52 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50134211&quot;&gt;19 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50134211&quot;&gt;19 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode Hacked: User credentials leaked</title>
@@ -51,7 +59,7 @@
       <guid isPermaLink="false">catnews-50133401</guid>
       <pubDate>Sat, 17 Oct 2026 18:01:41 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 909 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;171 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 926 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;172 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex Desktop continuously generates Crashpad pending dumps</title>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">catnews-50133231</guid>
       <pubDate>Sat, 17 Oct 2026 17:45:08 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 160 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133231&quot;&gt;80 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/25921&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 165 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133231&quot;&gt;80 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/25921&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI discloses four more rogue incidents</title>
@@ -67,7 +75,7 @@
       <guid isPermaLink="false">catnews-50132502</guid>
       <pubDate>Sat, 17 Oct 2026 16:31:12 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 129 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50132502&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 129 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50132502&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real</title>
@@ -91,7 +99,7 @@
       <guid isPermaLink="false">catnews-50129045</guid>
       <pubDate>Sat, 17 Oct 2026 08:21:25 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 923 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129045&quot;&gt;684 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 929 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129045&quot;&gt;698 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Math Dumped OpenAI</title>
@@ -99,7 +107,7 @@
       <guid isPermaLink="false">catnews-50128468</guid>
       <pubDate>Sat, 17 Oct 2026 06:19:44 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 64 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50128468&quot;&gt;14 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raymyers.org/post/math-dumped-openai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 70 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50128468&quot;&gt;14 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raymyers.org/post/math-dumped-openai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek released a new model: DeepSeek-V4.1-Flash-1017</title>
@@ -124,62 +132,6 @@
       <pubDate>Fri, 16 Oct 2026 20:53:06 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added CLAUDE_CODE_AUTO_MODE_MODEL to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode · Added an Idle compaction row to /config for turning idle…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.302&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How the Claude Code team does code review</title>
-      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
-      <guid isPermaLink="false">catnews-50122951</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:47 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 467 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;466 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Itaú is building generative AI for its entire customer base</title>
-      <link>https://openai.com/index/itau-generative-ai</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/itau-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 19:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/itau-generative-ai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude reveals ECDSA curve origins</title>
-      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
-      <guid isPermaLink="false">catnews-50122800</guid>
-      <pubDate>Fri, 16 Oct 2026 18:55:59 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1045 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;386 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
-      <link>https://github.com/cobanov/PS5LM</link>
-      <guid isPermaLink="false">catnews-50122431</guid>
-      <pubDate>Fri, 16 Oct 2026 18:32:35 GMT</pubDate>
-      <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;Llama&lt;/b&gt; · 371 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122431&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cobanov/PS5LM&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic assigned highest junk credit rating in June</title>
-      <link>https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</link>
-      <guid isPermaLink="false">catnews-50122112</guid>
-      <pubDate>Fri, 16 Oct 2026 18:11:42 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 294 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;87 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Designing more efficient quantum circuits with Claude</title>
-      <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
-      <guid isPermaLink="false">catnews-50121939</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:18 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 172 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121939&quot;&gt;36 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/designing-efficient-quantum-circuits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic Console overcharged my card 100x due to internationalization input bug</title>
-      <link>https://news.ycombinator.com/item?id=50121562</link>
-      <guid isPermaLink="false">catnews-50121562</guid>
-      <pubDate>Fri, 16 Oct 2026 17:31:42 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;36 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50121562&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
