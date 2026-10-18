@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 18 Oct 2026 05:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:55:01 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
+      <link>https://api-docs.deepseek.com/guides/search/</link>
+      <guid isPermaLink="false">catnews-50138531</guid>
+      <pubDate>Sun, 18 Oct 2026 06:50:36 GMT</pubDate>
+      <category>DeepSeek</category>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 183 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://api-docs.deepseek.com/guides/search/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode Hacked: User credentials leaked</title>
       <link>https://twitter.com/opencode/status/2111516673953935833</link>
       <guid isPermaLink="false">catnews-50133401</guid>
       <pubDate>Sat, 17 Oct 2026 18:01:41 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 821 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;154 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 867 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;161 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex Desktop continuously generates Crashpad pending dumps</title>
@@ -27,7 +35,7 @@
       <guid isPermaLink="false">catnews-50133231</guid>
       <pubDate>Sat, 17 Oct 2026 17:45:08 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 111 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133231&quot;&gt;39 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/25921&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 133 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133231&quot;&gt;51 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/25921&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI discloses four more rogue incidents</title>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-50132502</guid>
       <pubDate>Sat, 17 Oct 2026 16:31:12 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 123 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50132502&quot;&gt;148 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 125 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50132502&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real</title>
@@ -51,7 +59,7 @@
       <guid isPermaLink="false">catnews-50129121</guid>
       <pubDate>Sat, 17 Oct 2026 08:37:46 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 513 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129121&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 514 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129121&quot;&gt;5 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek-v4.1-Flash-1017</title>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">catnews-50129045</guid>
       <pubDate>Sat, 17 Oct 2026 08:21:25 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 776 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129045&quot;&gt;618 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 859 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50129045&quot;&gt;655 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek released a new model: DeepSeek-V4.1-Flash-1017</title>
@@ -91,7 +99,7 @@
       <guid isPermaLink="false">catnews-50122951</guid>
       <pubDate>Fri, 16 Oct 2026 19:04:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 457 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;459 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 459 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122951&quot;&gt;465 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/solving-code-review-at-anthropic/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Itaú is building generative AI for its entire customer base</title>
@@ -107,7 +115,7 @@
       <guid isPermaLink="false">catnews-50122800</guid>
       <pubDate>Fri, 16 Oct 2026 18:55:59 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1028 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;379 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1037 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122800&quot;&gt;382 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
@@ -123,7 +131,7 @@
       <guid isPermaLink="false">catnews-50122112</guid>
       <pubDate>Fri, 16 Oct 2026 18:11:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 288 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 290 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50122112&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing more efficient quantum circuits with Claude</title>
@@ -155,7 +163,7 @@
       <guid isPermaLink="false">catnews-50118688</guid>
       <pubDate>Fri, 16 Oct 2026 14:18:44 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 243 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;109 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 243 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50118688&quot;&gt;110 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://starskirmish.com/bench/v0-2/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.0.31 is out</title>
