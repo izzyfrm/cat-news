@@ -11,15 +11,39 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 10:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:06:55 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>CERN and Mistral join forces to accelerate AI for science</title>
+      <link>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/</link>
+      <guid isPermaLink="false">catnews-50153630</guid>
+      <pubDate>Mon, 19 Oct 2026 15:28:24 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 87 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50153630&quot;&gt;8 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Timestral: Mistral release time-series foundation models</title>
+      <link>https://mistral.ai/news/timestral/</link>
+      <guid isPermaLink="false">catnews-50150434</guid>
+      <pubDate>Mon, 19 Oct 2026 09:59:32 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 363 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50150434&quot;&gt;63 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/timestral/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
+      <link>https://crystl.dev/guides/tmux-for-ai-agents/</link>
+      <guid isPermaLink="false">catnews-50148855</guid>
+      <pubDate>Mon, 19 Oct 2026 05:55:31 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 124 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148855&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://crystl.dev/guides/tmux-for-ai-agents/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 (Max)</title>
       <link>https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</link>
       <guid isPermaLink="false">catnews-50148452</guid>
       <pubDate>Mon, 19 Oct 2026 04:41:46 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 145 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148452&quot;&gt;48 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 178 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148452&quot;&gt;76 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.303 is out</title>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-50141429</guid>
       <pubDate>Sun, 18 Oct 2026 14:30:27 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 164 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50141429&quot;&gt;165 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 169 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50141429&quot;&gt;165 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How employment is changing at Anthropic</title>
@@ -51,7 +75,7 @@
       <guid isPermaLink="false">catnews-50139873</guid>
       <pubDate>Sun, 18 Oct 2026 10:49:26 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 119 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139873&quot;&gt;211 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/employment-at-anthropic&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 142 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139873&quot;&gt;239 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/employment-at-anthropic&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode has a security breach last that impacted 1.4% of console users</title>
@@ -59,7 +83,7 @@
       <guid isPermaLink="false">catnews-50139083</guid>
       <pubDate>Sun, 18 Oct 2026 08:22:11 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139083&quot;&gt;25 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111519637049319818&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 51 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139083&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111519637049319818&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
@@ -67,7 +91,7 @@
       <guid isPermaLink="false">catnews-50138531</guid>
       <pubDate>Sun, 18 Oct 2026 06:50:36 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 573 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;269 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://api-docs.deepseek.com/guides/search/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 591 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;275 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://api-docs.deepseek.com/guides/search/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The math that OpenAI keeps for itself</title>
@@ -83,7 +107,7 @@
       <guid isPermaLink="false">catnews-50133401</guid>
       <pubDate>Sat, 17 Oct 2026 18:01:41 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 953 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;175 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 965 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133401&quot;&gt;175 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111516673953935833&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex Desktop continuously generates Crashpad pending dumps</title>
@@ -91,15 +115,7 @@
       <guid isPermaLink="false">catnews-50133231</guid>
       <pubDate>Sat, 17 Oct 2026 17:45:08 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 171 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133231&quot;&gt;82 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/25921&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI discloses four more rogue incidents</title>
-      <link>https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</link>
-      <guid isPermaLink="false">catnews-50132502</guid>
-      <pubDate>Sat, 17 Oct 2026 16:31:12 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 130 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50132502&quot;&gt;158 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 172 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50133231&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/issues/25921&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
