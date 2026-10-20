@@ -11,15 +11,39 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 21:33:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:41:47 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.304 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.304</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.304</guid>
+      <pubDate>Mon, 19 Oct 2026 21:34:39 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a transcript line when a plugin that runs first skips one of your mod&apos;s hooks, naming the event and the plugin · Added decider: &quot;person&quot; to a mod&apos;s tool.check answer: only the permission dialog or a host&apos;s…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.304&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Copilot model policy API for enterprise, orgs, and teams</title>
+      <link>https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</guid>
+      <pubDate>Mon, 19 Oct 2026 21:32:18 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What’s new GET and PATCH endpoints are now… The post Copilot model policy…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot models deprecated on October 19, 2026</title>
+      <link>https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</guid>
+      <pubDate>Mon, 19 Oct 2026 21:27:10 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
       <link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/</link>
       <guid isPermaLink="false">catnews-50156189</guid>
       <pubDate>Mon, 19 Oct 2026 18:41:10 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50156189&quot;&gt;13 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 58 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50156189&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CERN and Mistral sign a statement of intent to establish a strategic partnership</title>
@@ -27,7 +51,7 @@
       <guid isPermaLink="false">catnews-50153630</guid>
       <pubDate>Mon, 19 Oct 2026 15:28:24 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 274 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50153630&quot;&gt;53 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 314 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50153630&quot;&gt;57 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The obscure trust looming over Anthropic&apos;s IPO</title>
@@ -35,7 +59,15 @@
       <guid isPermaLink="false">catnews-50151376</guid>
       <pubDate>Mon, 19 Oct 2026 12:06:03 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 118 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50151376&quot;&gt;77 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 130 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50151376&quot;&gt;102 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advancing Coding in Low-Resource Programming Languages</title>
+      <link>https://openai.com/index/low-resource-programming-languages</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/low-resource-programming-languages</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/low-resource-programming-languages&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timestral: Mistral&apos;s time-series foundation models</title>
@@ -43,7 +75,7 @@
       <guid isPermaLink="false">catnews-50150434</guid>
       <pubDate>Mon, 19 Oct 2026 09:59:32 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 499 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50150434&quot;&gt;94 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/timestral/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 536 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50150434&quot;&gt;101 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/timestral/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
@@ -51,7 +83,7 @@
       <guid isPermaLink="false">catnews-50148855</guid>
       <pubDate>Mon, 19 Oct 2026 05:55:31 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 145 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148855&quot;&gt;105 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://crystl.dev/guides/tmux-for-ai-agents/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 148 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148855&quot;&gt;113 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://crystl.dev/guides/tmux-for-ai-agents/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 (Max)</title>
@@ -59,7 +91,7 @@
       <guid isPermaLink="false">catnews-50148452</guid>
       <pubDate>Mon, 19 Oct 2026 04:41:46 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 186 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148452&quot;&gt;89 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 186 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148452&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
@@ -99,7 +131,7 @@
       <guid isPermaLink="false">catnews-50139873</guid>
       <pubDate>Sun, 18 Oct 2026 10:49:26 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 151 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139873&quot;&gt;247 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/employment-at-anthropic&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 151 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139873&quot;&gt;251 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/employment-at-anthropic&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode has a security breach last that impacted 1.4% of console users</title>
@@ -107,7 +139,7 @@
       <guid isPermaLink="false">catnews-50139083</guid>
       <pubDate>Sun, 18 Oct 2026 08:22:11 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139083&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111519637049319818&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50139083&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/opencode/status/2111519637049319818&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
@@ -115,7 +147,7 @@
       <guid isPermaLink="false">catnews-50138531</guid>
       <pubDate>Sun, 18 Oct 2026 06:50:36 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 597 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;278 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://api-docs.deepseek.com/guides/search/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 597 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;279 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://api-docs.deepseek.com/guides/search/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
