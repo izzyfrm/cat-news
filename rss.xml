@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 19:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:41:24 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Gemini CLI Release v0.65.0 is out</title>
+      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0</link>
+      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.65.0</guid>
+      <pubDate>Tue, 20 Oct 2026 21:17:57 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;fix(cli): enforce read-only workspace settings in untrusted folders by @jvargassanchez-dot in #29583 · fix(core): avoid duplicate tool response turns when resuming sessions by @diegogodinezr in #29618&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.305 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.305</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.305</guid>
+      <pubDate>Tue, 20 Oct 2026 20:46:50 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added sandbox.allowNestedUserNamespaces so sandboxed commands on Linux can create user namespaces (Chromium, rootless podman); this lets them get around the sandbox&apos;s file protections · Added…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.305&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic logged net loss of over $80B in first half of 2026</title>
+      <link>https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/</link>
+      <guid isPermaLink="false">catnews-50171966</guid>
+      <pubDate>Tue, 20 Oct 2026 20:09:46 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50171966&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
       <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
@@ -20,6 +44,14 @@
       <pubDate>Tue, 20 Oct 2026 18:17:47 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/cosmos3-h-dreams&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude designed protein binders against scorpion neurotoxins</title>
+      <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+      <guid isPermaLink="false">catnews-50170021</guid>
+      <pubDate>Tue, 20 Oct 2026 17:48:29 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 70 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50170021&quot;&gt;38 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-scorpion-toxin-binder-design&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Announcements</title>
@@ -59,7 +91,7 @@
       <guid isPermaLink="false">catnews-50167604</guid>
       <pubDate>Tue, 20 Oct 2026 15:10:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50167604&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AbdullahAlhariri/penmentor&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50167604&quot;&gt;4 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AbdullahAlhariri/penmentor&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.1.1 is out</title>
@@ -83,7 +115,7 @@
       <guid isPermaLink="false">catnews-50163277</guid>
       <pubDate>Tue, 20 Oct 2026 09:08:54 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 1948 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50163277&quot;&gt;755 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/deepseek-ai/DeepInfer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 2064 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50163277&quot;&gt;810 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/deepseek-ai/DeepInfer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.1.0 is out</title>
@@ -163,7 +195,7 @@
       <guid isPermaLink="false">catnews-50154244</guid>
       <pubDate>Mon, 19 Oct 2026 16:16:46 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 537 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50154244&quot;&gt;476 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 546 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50154244&quot;&gt;494 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CERN and Mistral sign a statement of intent to establish a strategic partnership</title>
@@ -171,7 +203,7 @@
       <guid isPermaLink="false">catnews-50153630</guid>
       <pubDate>Mon, 19 Oct 2026 15:28:24 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 354 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50153630&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 355 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50153630&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The obscure trust looming over Anthropic&apos;s IPO</title>
@@ -179,7 +211,7 @@
       <guid isPermaLink="false">catnews-50151376</guid>
       <pubDate>Mon, 19 Oct 2026 12:06:03 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 147 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50151376&quot;&gt;140 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 148 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50151376&quot;&gt;141 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advancing Coding in Low-Resource Programming Languages</title>
@@ -195,7 +227,7 @@
       <guid isPermaLink="false">catnews-50150434</guid>
       <pubDate>Mon, 19 Oct 2026 09:59:32 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 613 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50150434&quot;&gt;118 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/timestral/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 614 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50150434&quot;&gt;118 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/timestral/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
@@ -203,7 +235,7 @@
       <guid isPermaLink="false">catnews-50148855</guid>
       <pubDate>Mon, 19 Oct 2026 05:55:31 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 164 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148855&quot;&gt;125 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://crystl.dev/guides/tmux-for-ai-agents/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 166 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148855&quot;&gt;125 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://crystl.dev/guides/tmux-for-ai-agents/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 (Max)</title>
@@ -211,7 +243,7 @@
       <guid isPermaLink="false">catnews-50148452</guid>
       <pubDate>Mon, 19 Oct 2026 04:41:46 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148452&quot;&gt;94 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 190 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50148452&quot;&gt;94 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
@@ -220,14 +252,6 @@
       <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/hf-torchneuron&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.303 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.303</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.303</guid>
-      <pubDate>Sun, 18 Oct 2026 22:26:54 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Bug fixes and reliability improvements&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.303&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
