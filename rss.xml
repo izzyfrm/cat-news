@@ -11,8 +11,72 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 11:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:55:12 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Physicist Christopher Stubbs joins Anthropic&apos;s Long-Term Benefit Trust</title>
+      <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
+      <pubDate>Wed, 21 Oct 2026 16:36:39 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:43 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:43 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/amazon/profiling-torchneuron-part-1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+      <pubDate>Wed, 21 Oct 2026 14:58:18 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-granite/granite-speech-5&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-ads-expands-26-new-countries&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/kumo-forecast</guid>
+      <pubDate>Wed, 21 Oct 2026 12:51:24 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/kumo-forecast&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Protein Design with RFD4-Proteina and Hugging Face Spaces</title>
+      <link>https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design</guid>
+      <pubDate>Wed, 21 Oct 2026 12:39:49 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI models are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-models-google-cloud</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-models-google-cloud&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
       <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
@@ -36,6 +100,30 @@
       <pubDate>Wed, 21 Oct 2026 09:13:14 GMT</pubDate>
       <category>Mistral</category>
       <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/building-chatgpt-ad-stack</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/building-chatgpt-ad-stack&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using thousands of AI agents to uncover new leads in biological data</title>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+      <pubDate>Wed, 21 Oct 2026 04:50:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/scaling-ai-research-for-complex-biological-data&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode github-v1.2.27 is out</title>
@@ -67,7 +155,7 @@
       <guid isPermaLink="false">catnews-50175779</guid>
       <pubDate>Wed, 21 Oct 2026 03:36:43 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50175779&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/attack-surface-reduction&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 112 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50175779&quot;&gt;74 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/attack-surface-reduction&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.306 is out</title>
@@ -76,6 +164,14 @@
       <pubDate>Wed, 21 Oct 2026 03:16:31 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed claude -p inside cloud sessions reporting &quot;Not logged in&quot; when started without the session&apos;s environment variables · Fixed an API error being replaced by &quot;prompt is too long&quot;, and an unneeded compaction, in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.306&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic recorded a staggering $80B net loss in the first half of 2026</title>
+      <link>https://twitter.com/Polymarket/status/2112634886070919426</link>
+      <guid isPermaLink="false">catnews-50173557</guid>
+      <pubDate>Tue, 20 Oct 2026 22:27:07 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50173557&quot;&gt;20 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/Polymarket/status/2112634886070919426&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.65.0 is out</title>
@@ -99,7 +195,7 @@
       <guid isPermaLink="false">catnews-50171966</guid>
       <pubDate>Tue, 20 Oct 2026 20:09:46 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 151 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50171966&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 174 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50171966&quot;&gt;90 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
@@ -115,7 +211,7 @@
       <guid isPermaLink="false">catnews-50170021</guid>
       <pubDate>Tue, 20 Oct 2026 17:48:29 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 107 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50170021&quot;&gt;69 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-scorpion-toxin-binder-design&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 113 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50170021&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-scorpion-toxin-binder-design&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Announcements</title>
@@ -155,103 +251,7 @@
       <guid isPermaLink="false">catnews-50167604</guid>
       <pubDate>Tue, 20 Oct 2026 15:10:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 62 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50167604&quot;&gt;7 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AbdullahAlhariri/penmentor&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.1.1 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.1.1</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.1.1</guid>
-      <pubDate>Tue, 20 Oct 2026 13:36:07 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.1.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.1.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
-      <link>https://openai.com/index/ted-taylor-restaurant</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/ted-taylor-restaurant</guid>
-      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/ted-taylor-restaurant&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepInfer: High-performance inference framework for DeepSeek models</title>
-      <link>https://github.com/deepseek-ai/DeepInfer</link>
-      <guid isPermaLink="false">catnews-50163277</guid>
-      <pubDate>Tue, 20 Oct 2026 09:08:54 GMT</pubDate>
-      <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 2263 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50163277&quot;&gt;865 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/deepseek-ai/DeepInfer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.1.0 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.1.0</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.1.0</guid>
-      <pubDate>Tue, 20 Oct 2026 07:17:12 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.1.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.1.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
-      <link>https://openai.com/index/terminal-x</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/terminal-x</guid>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/terminal-x&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MPS in PyTorch 2.15</title>
-      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/mps-pytorch-2-15</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/mps-pytorch-2-15&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
-      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/anylanguagemodel-1-0</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/anylanguagemodel-1-0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
-      <link>https://huggingface.co/blog/hf-torchtpu</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/hf-torchtpu</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/hf-torchtpu&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI acquires Orchestra Bio</title>
-      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-orchestra-bio&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.304 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.304</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.304</guid>
-      <pubDate>Mon, 19 Oct 2026 21:34:39 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a transcript line when a plugin that runs first skips one of your mod&apos;s hooks, naming the event and the plugin · Added decider: &quot;person&quot; to a mod&apos;s tool.check answer: only the permission dialog or a host&apos;s…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.304&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Copilot model policy API for enterprise, orgs, and teams</title>
-      <link>https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</guid>
-      <pubDate>Mon, 19 Oct 2026 21:32:18 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What’s new GET and PATCH endpoints are now… The post Copilot model policy…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot models deprecated on October 19, 2026</title>
-      <link>https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</guid>
-      <pubDate>Mon, 19 Oct 2026 21:27:10 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 63 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50167604&quot;&gt;7 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AbdullahAlhariri/penmentor&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
