@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 06:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:53:11 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
+      <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
+      <pubDate>Wed, 21 Oct 2026 10:59:42 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval</guid>
+      <pubDate>Wed, 21 Oct 2026 10:41:36 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistral Advances AI for Engineering with NVIDIA | Mistral</title>
+      <link>https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/</link>
+      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:13:14 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode github-v1.2.27 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/github-v1.2.27</link>
@@ -36,6 +60,14 @@
       <pubDate>Wed, 21 Oct 2026 03:41:04 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.1.2&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.1.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using Claude to reduce the attack surface of code</title>
+      <link>https://www.anthropic.com/research/attack-surface-reduction</link>
+      <guid isPermaLink="false">catnews-50175779</guid>
+      <pubDate>Wed, 21 Oct 2026 03:36:43 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 67 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50175779&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/attack-surface-reduction&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.306 is out</title>
@@ -67,7 +99,7 @@
       <guid isPermaLink="false">catnews-50171966</guid>
       <pubDate>Tue, 20 Oct 2026 20:09:46 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 137 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50171966&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 151 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50171966&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
@@ -83,7 +115,7 @@
       <guid isPermaLink="false">catnews-50170021</guid>
       <pubDate>Tue, 20 Oct 2026 17:48:29 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 102 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50170021&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-scorpion-toxin-binder-design&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 107 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50170021&quot;&gt;69 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-scorpion-toxin-binder-design&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Announcements</title>
@@ -123,7 +155,7 @@
       <guid isPermaLink="false">catnews-50167604</guid>
       <pubDate>Tue, 20 Oct 2026 15:10:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 60 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50167604&quot;&gt;7 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AbdullahAlhariri/penmentor&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 62 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50167604&quot;&gt;7 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AbdullahAlhariri/penmentor&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.1.1 is out</title>
@@ -147,7 +179,7 @@
       <guid isPermaLink="false">catnews-50163277</guid>
       <pubDate>Tue, 20 Oct 2026 09:08:54 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 2200 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50163277&quot;&gt;849 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/deepseek-ai/DeepInfer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 2263 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50163277&quot;&gt;865 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/deepseek-ai/DeepInfer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.1.0 is out</title>
@@ -220,38 +252,6 @@
       <pubDate>Mon, 19 Oct 2026 21:27:10 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
-      <link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/</link>
-      <guid isPermaLink="false">catnews-50156189</guid>
-      <pubDate>Mon, 19 Oct 2026 18:41:10 GMT</pubDate>
-      <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 66 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50156189&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek banned from U.S. federal civilian agencies under new DHS order</title>
-      <link>https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</link>
-      <guid isPermaLink="false">catnews-50154244</guid>
-      <pubDate>Mon, 19 Oct 2026 16:16:46 GMT</pubDate>
-      <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 563 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50154244&quot;&gt;511 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CERN and Mistral sign a statement of intent to establish a strategic partnership</title>
-      <link>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/</link>
-      <guid isPermaLink="false">catnews-50153630</guid>
-      <pubDate>Mon, 19 Oct 2026 15:28:24 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 356 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50153630&quot;&gt;61 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The obscure trust looming over Anthropic&apos;s IPO</title>
-      <link>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</link>
-      <guid isPermaLink="false">catnews-50151376</guid>
-      <pubDate>Mon, 19 Oct 2026 12:06:03 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 151 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50151376&quot;&gt;142 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
