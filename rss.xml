@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 17:59:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:28:36 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Global default for Copilot features generally available</title>
+      <link>https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</guid>
+      <pubDate>Thu, 22 Oct 2026 20:44:28 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build more responsive apps with the Decisions API</title>
+      <link>https://openai.com/index/decisions-api</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/decisions-api</guid>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Fast, focused, low-cost decisions for any application.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/decisions-api&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Donating Agent Skills to the Agentic AI Foundation</title>
       <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
@@ -83,7 +99,7 @@
       <guid isPermaLink="false">catnews-50191507</guid>
       <pubDate>Thu, 22 Oct 2026 05:23:11 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 213 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50191507&quot;&gt;103 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/openai-cli&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 224 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50191507&quot;&gt;109 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/openai-cli&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.308 is out</title>
@@ -99,7 +115,7 @@
       <guid isPermaLink="false">catnews-50190357</guid>
       <pubDate>Thu, 22 Oct 2026 02:17:58 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50190357&quot;&gt;9 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 82 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50190357&quot;&gt;10 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
@@ -131,7 +147,7 @@
       <guid isPermaLink="false">catnews-50186455</guid>
       <pubDate>Wed, 21 Oct 2026 19:40:18 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 86 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186455&quot;&gt;12 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 90 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186455&quot;&gt;12 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4</title>
@@ -147,7 +163,7 @@
       <guid isPermaLink="false">catnews-50186037</guid>
       <pubDate>Wed, 21 Oct 2026 19:14:01 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 523 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186037&quot;&gt;484 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/product/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 544 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186037&quot;&gt;507 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/product/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Public Benefit Charter</title>
@@ -155,7 +171,7 @@
       <guid isPermaLink="false">catnews-50185438</guid>
       <pubDate>Wed, 21 Oct 2026 18:29:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50185438&quot;&gt;63 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/public-benefit-charter&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50185438&quot;&gt;64 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/public-benefit-charter&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
@@ -195,7 +211,7 @@
       <guid isPermaLink="false">catnews-50183892</guid>
       <pubDate>Wed, 21 Oct 2026 16:44:53 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 104 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50183892&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/omnara-ai/omnara&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 107 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50183892&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/omnara-ai/omnara&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Physicist Christopher Stubbs joins Anthropic&apos;s Long-Term Benefit Trust</title>
@@ -236,22 +252,6 @@
       <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-ads-expands-26-new-countries&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI models are coming to Google Cloud</title>
-      <link>https://openai.com/index/openai-models-google-cloud/</link>
-      <guid isPermaLink="false">catnews-50180079</guid>
-      <pubDate>Wed, 21 Oct 2026 12:53:11 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 318 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50180079&quot;&gt;139 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-models-google-cloud/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/kumo-forecast</guid>
-      <pubDate>Wed, 21 Oct 2026 12:51:24 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/kumo-forecast&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
