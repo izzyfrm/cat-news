@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 01:54:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:20:22 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenAI CLI</title>
+      <link>https://github.com/openai/openai-cli</link>
+      <guid isPermaLink="false">catnews-50191507</guid>
+      <pubDate>Thu, 22 Oct 2026 05:23:11 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50191507&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/openai-cli&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.308 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.308</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.308</guid>
+      <pubDate>Thu, 22 Oct 2026 04:34:55 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Bug fixes and reliability improvements&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.308&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.307 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.307</link>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-50186455</guid>
       <pubDate>Wed, 21 Oct 2026 19:40:18 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 59 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186455&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 73 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186455&quot;&gt;8 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4</title>
@@ -43,7 +59,7 @@
       <guid isPermaLink="false">catnews-50186129</guid>
       <pubDate>Wed, 21 Oct 2026 19:20:55 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 315 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186129&quot;&gt;94 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 319 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186129&quot;&gt;95 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Duet</title>
@@ -51,7 +67,7 @@
       <guid isPermaLink="false">catnews-50186037</guid>
       <pubDate>Wed, 21 Oct 2026 19:14:01 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 317 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186037&quot;&gt;278 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/product/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 348 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186037&quot;&gt;317 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/product/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Public Benefit Charter</title>
@@ -59,7 +75,7 @@
       <guid isPermaLink="false">catnews-50185438</guid>
       <pubDate>Wed, 21 Oct 2026 18:29:54 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50185438&quot;&gt;57 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/public-benefit-charter&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50185438&quot;&gt;59 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/public-benefit-charter&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
@@ -92,6 +108,14 @@
       <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/att-legal&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Omnara – Open-source alternative to Claude Managed Agents</title>
+      <link>https://github.com/omnara-ai/omnara</link>
+      <guid isPermaLink="false">catnews-50183892</guid>
+      <pubDate>Wed, 21 Oct 2026 16:44:53 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 66 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50183892&quot;&gt;22 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/omnara-ai/omnara&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Physicist Christopher Stubbs joins Anthropic&apos;s Long-Term Benefit Trust</title>
@@ -139,7 +163,7 @@
       <guid isPermaLink="false">catnews-50180079</guid>
       <pubDate>Wed, 21 Oct 2026 12:53:11 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 240 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50180079&quot;&gt;103 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-models-google-cloud/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 282 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50180079&quot;&gt;116 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-models-google-cloud/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
@@ -228,30 +252,6 @@
       <pubDate>Wed, 21 Oct 2026 04:08:35 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(function): remove exchange_github_app_token_with_pat route ( #57 …&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/github-v1.2.27&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Southeast Asia’s digital economy to hit $368 billion</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/</link>
-      <guid isPermaLink="false">catnews-gemini:https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/</guid>
-      <pubDate>Wed, 21 Oct 2026 04:00:00 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Widespread AI adoption is propelling Southeast Asia&apos;s digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.1.2 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.1.2</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.1.2</guid>
-      <pubDate>Wed, 21 Oct 2026 03:41:04 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.1.2&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.1.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Using Claude to reduce the attack surface of code</title>
-      <link>https://www.anthropic.com/research/attack-surface-reduction</link>
-      <guid isPermaLink="false">catnews-50175779</guid>
-      <pubDate>Wed, 21 Oct 2026 03:36:43 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 130 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50175779&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/attack-surface-reduction&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
