@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 04:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:49:23 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Codex CLI 0.164.0 is out</title>
@@ -36,6 +36,14 @@
       <pubDate>Fri, 23 Oct 2026 00:17:51 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
+      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-nask-ai-safety-security-partnership&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -75,7 +83,7 @@
       <guid isPermaLink="false">catnews-50200997</guid>
       <pubDate>Thu, 22 Oct 2026 21:03:55 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 64 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;67 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 148 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;133 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Global default for Copilot features generally available</title>
@@ -163,7 +171,7 @@
       <guid isPermaLink="false">catnews-50191507</guid>
       <pubDate>Thu, 22 Oct 2026 05:23:11 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 232 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50191507&quot;&gt;110 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/openai-cli&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 235 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50191507&quot;&gt;110 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/openai-cli&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.308 is out</title>
@@ -179,7 +187,7 @@
       <guid isPermaLink="false">catnews-50190357</guid>
       <pubDate>Thu, 22 Oct 2026 02:17:58 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 86 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50190357&quot;&gt;12 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 87 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50190357&quot;&gt;13 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
@@ -219,7 +227,7 @@
       <guid isPermaLink="false">catnews-50186129</guid>
       <pubDate>Wed, 21 Oct 2026 19:20:55 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 323 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186129&quot;&gt;102 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 326 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186129&quot;&gt;104 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Duet</title>
@@ -227,7 +235,7 @@
       <guid isPermaLink="false">catnews-50186037</guid>
       <pubDate>Wed, 21 Oct 2026 19:14:01 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 549 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186037&quot;&gt;514 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/product/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 550 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50186037&quot;&gt;521 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/product/claude-duet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Public Benefit Charter</title>
@@ -244,14 +252,6 @@
       <pubDate>Wed, 21 Oct 2026 18:26:30 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/kumo-relational&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0</title>
-      <link>https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real</guid>
-      <pubDate>Wed, 21 Oct 2026 17:58:42 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
