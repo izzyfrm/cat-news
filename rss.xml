@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 21:59:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:32:19 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Usage metrics API adds usage from tools like OpenCode</title>
+      <link>https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</guid>
+      <pubDate>Fri, 23 Oct 2026 23:42:03 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The post Usage metrics API…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.310 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.310</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.310</guid>
+      <pubDate>Fri, 23 Oct 2026 23:39:00 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too · Fixed requests failing behind some…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.310&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Turn notifications into code with GitHub Copilot in Teams</title>
       <link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-50213337</guid>
       <pubDate>Fri, 23 Oct 2026 18:24:54 GMT</pubDate>
       <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 114 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50213337&quot;&gt;37 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 115 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50213337&quot;&gt;38 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kimi K3.1 Pro</title>
@@ -51,7 +67,7 @@
       <guid isPermaLink="false">catnews-50212065</guid>
       <pubDate>Fri, 23 Oct 2026 16:59:08 GMT</pubDate>
       <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 571 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212065&quot;&gt;343 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 678 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212065&quot;&gt;433 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -67,7 +83,7 @@
       <guid isPermaLink="false">catnews-50209907</guid>
       <pubDate>Fri, 23 Oct 2026 14:43:02 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 85 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50209907&quot;&gt;14 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bottlecapai.com/post/thinkingcap-gemma-4-26b/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 101 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50209907&quot;&gt;19 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bottlecapai.com/post/thinkingcap-gemma-4-26b/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swedish government offices to ban ChatGPT and Claude</title>
@@ -76,7 +92,7 @@
       <pubDate>Fri, 23 Oct 2026 11:39:54 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 314 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50207405&quot;&gt;114 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 314 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50207405&quot;&gt;116 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.1.4 is out</title>
@@ -172,7 +188,7 @@
       <guid isPermaLink="false">catnews-50200997</guid>
       <pubDate>Thu, 22 Oct 2026 21:03:55 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 570 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;615 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 590 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;658 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50200997&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Global default for Copilot features generally available</title>
@@ -237,22 +253,6 @@
       <pubDate>Thu, 22 Oct 2026 12:45:27 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.1.3&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.1.3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ensemble forecasting with IBM Granite time-series models</title>
-      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-      <pubDate>Thu, 22 Oct 2026 07:51:31 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What FDE means at OpenAI</title>
-      <link>https://openai.com/index/forward-deployed-engineering-means</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/forward-deployed-engineering-means</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;What forward deployed engineering means at OpenAI&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/forward-deployed-engineering-means&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
