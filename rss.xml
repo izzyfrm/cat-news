@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 13:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:32:44 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode github-v1.2.28: chore(github): pin actions/cache to commit SHA in GitHub Action (#58769) is out</title>
@@ -27,7 +27,7 @@
       <guid isPermaLink="false">catnews-50222283</guid>
       <pubDate>Sat, 24 Oct 2026 15:35:17 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50222283&quot;&gt;37 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50222283&quot;&gt;41 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usage metrics API adds usage from tools like OpenCode</title>
@@ -60,46 +60,6 @@
       <pubDate>Fri, 23 Oct 2026 18:24:54 GMT</pubDate>
       <category>Kimi</category>
       <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 120 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50213337&quot;&gt;41 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi K3.1 Pro</title>
-      <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-      <guid isPermaLink="false">catnews-50212246</guid>
-      <pubDate>Fri, 23 Oct 2026 17:10:27 GMT</pubDate>
-      <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 60 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212246&quot;&gt;2 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/scaling-storage-one-billion-users-part-two&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi K3.1 Pro and K3.1 Pro Highspeed</title>
-      <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-      <guid isPermaLink="false">catnews-50212065</guid>
-      <pubDate>Fri, 23 Oct 2026 16:59:08 GMT</pubDate>
-      <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 1067 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212065&quot;&gt;665 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-      <link>https://huggingface.co/blog/allenai/litpivot</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/litpivot</guid>
-      <pubDate>Fri, 23 Oct 2026 16:15:50 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/litpivot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemma-4-26B-A4B with 39-69% less thinking at same accuracy</title>
-      <link>https://bottlecapai.com/post/thinkingcap-gemma-4-26b/</link>
-      <guid isPermaLink="false">catnews-50209907</guid>
-      <pubDate>Fri, 23 Oct 2026 14:43:02 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 125 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50209907&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bottlecapai.com/post/thinkingcap-gemma-4-26b/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
