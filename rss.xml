@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 09:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:56:05 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode github-v1.2.28: chore(github): pin actions/cache to commit SHA in GitHub Action (#58769) is out</title>
@@ -27,7 +27,7 @@
       <guid isPermaLink="false">catnews-50222283</guid>
       <pubDate>Sat, 24 Oct 2026 15:35:17 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50222283&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50222283&quot;&gt;37 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usage metrics API adds usage from tools like OpenCode</title>
@@ -83,7 +83,7 @@
       <guid isPermaLink="false">catnews-50212065</guid>
       <pubDate>Fri, 23 Oct 2026 16:59:08 GMT</pubDate>
       <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 1066 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212065&quot;&gt;659 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 1067 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212065&quot;&gt;665 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -100,31 +100,6 @@
       <pubDate>Fri, 23 Oct 2026 14:43:02 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 125 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50209907&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bottlecapai.com/post/thinkingcap-gemma-4-26b/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Swedish government offices to ban ChatGPT and Claude</title>
-      <link>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</link>
-      <guid isPermaLink="false">catnews-50207405</guid>
-      <pubDate>Fri, 23 Oct 2026 11:39:54 GMT</pubDate>
-      <category>Claude</category>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 322 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50207405&quot;&gt;122 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.1.4 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.1.4</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.1.4</guid>
-      <pubDate>Fri, 23 Oct 2026 10:14:51 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.1.4&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.1.4&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/securing-our-frontier-model-training-environment&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
