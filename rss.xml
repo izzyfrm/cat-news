@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 17:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:58:31 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode github-v1.2.28: chore(github): pin actions/cache to commit SHA in GitHub Action (#58769) is out</title>
@@ -52,14 +52,6 @@
       <pubDate>Fri, 23 Oct 2026 21:29:58 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The new GitHub app in Microsoft Teams brings GitHub notifications and GitHub Copilot coding together, helping teams turn repository updates into action. Get notifications in channels, group chats, or private… The post…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line</title>
-      <link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
-      <guid isPermaLink="false">catnews-50213337</guid>
-      <pubDate>Fri, 23 Oct 2026 18:24:54 GMT</pubDate>
-      <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 120 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50213337&quot;&gt;41 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
