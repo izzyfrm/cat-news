@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 24 Oct 2026 21:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:07:25 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>OpenCode github-v1.2.28: chore(github): pin actions/cache to commit SHA in GitHub Action (#58769) is out</title>
@@ -75,7 +75,7 @@
       <guid isPermaLink="false">catnews-50212065</guid>
       <pubDate>Fri, 23 Oct 2026 16:59:08 GMT</pubDate>
       <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 1055 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212065&quot;&gt;646 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 1057 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50212065&quot;&gt;649 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.ai/blog/kimi-k3-1-pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -91,7 +91,7 @@
       <guid isPermaLink="false">catnews-50209907</guid>
       <pubDate>Fri, 23 Oct 2026 14:43:02 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 122 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50209907&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bottlecapai.com/post/thinkingcap-gemma-4-26b/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 123 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50209907&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bottlecapai.com/post/thinkingcap-gemma-4-26b/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swedish government offices to ban ChatGPT and Claude</title>
@@ -100,7 +100,7 @@
       <pubDate>Fri, 23 Oct 2026 11:39:54 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 322 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50207405&quot;&gt;120 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 322 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50207405&quot;&gt;121 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.1.4 is out</title>
@@ -141,54 +141,6 @@
       <pubDate>Fri, 23 Oct 2026 00:17:51 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-nask-ai-safety-security-partnership&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
-      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/torch-neuronx-model-support</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/torch-neuronx-model-support&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-      <pubDate>Thu, 22 Oct 2026 22:24:34 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/microsoft/thinkingbox-training&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Custom skills, agents, and MCP servers in usage metrics API</title>
-      <link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
-      <pubDate>Thu, 22 Oct 2026 22:19:17 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under… The post Custom…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.309 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.309</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.309</guid>
-      <pubDate>Thu, 22 Oct 2026 22:18:57 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed sandboxed Bash commands on macOS and Linux running the shell&apos;s startup files outside the sandbox before each command · Fixed macOS sandbox denyWrite glob patterns not applying at a path&apos;s real location when the…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.309&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open call for guest investigators in the life sciences</title>
-      <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</guid>
-      <pubDate>Thu, 22 Oct 2026 21:59:15 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today, we’re inviting members of the life sciences community to apply to work with us on special projects.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/open-call-guest-investigators-life-sciences&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
