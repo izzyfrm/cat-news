@@ -11,8 +11,41 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 17:33:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:53:46 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.311 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.311</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.311</guid>
+      <pubDate>Mon, 26 Oct 2026 21:51:23 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added --hold-idle-file and --max-hold-min to self-hosted-runner , to keep an idle session while your host reports processes it left running · Added a tip for the Explanatory output style, shown when you ask Claude for…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.311&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot</guid>
+      <pubDate>Mon, 26 Oct 2026 19:15:53 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems</title>
+      <link>https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</link>
+      <guid isPermaLink="false">catnews-50247630</guid>
+      <pubDate>Mon, 26 Oct 2026 17:32:16 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 188 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50247630&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
+      <link>https://github.com/FrigadeHQ/hob</link>
+      <guid isPermaLink="false">catnews-50246238</guid>
+      <pubDate>Mon, 26 Oct 2026 16:12:29 GMT</pubDate>
+      <category>Claude</category>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 54 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;16 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Our newest AI Quest: Mapping the human brain</title>
       <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</link>
@@ -22,12 +55,20 @@
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
+      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
+      <pubDate>Mon, 26 Oct 2026 13:45:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gpt-6-1-sol-coderabbit-code-security&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic S-1</title>
       <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
       <guid isPermaLink="false">catnews-50242939</guid>
       <pubDate>Mon, 26 Oct 2026 13:04:50 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1017 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;926 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1370 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1346 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
@@ -38,6 +79,14 @@
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is an AI safety and research company that&apos;s working to build reliable, interpretable, and steerable AI systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/s1-sec&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>ChatGPT’s expanding world of work</title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-expanding-world-of-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>How Fanatics and OpenAI streamline the fan experience</title>
       <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
       <guid isPermaLink="false">catnews-openai:https://openai.com/index/fanatics-streamline-fan-experience</guid>
@@ -46,12 +95,36 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/fanatics-streamline-fan-experience&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
+      <link>https://openai.com/index/openai-cut-incident-investigation</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-cut-incident-investigation</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-cut-incident-investigation&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Microsoft Decision-1: 9B Qwen Model Launch Explained</title>
       <link>https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/</link>
       <guid isPermaLink="false">catnews-50238620</guid>
       <pubDate>Mon, 26 Oct 2026 03:12:05 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 70 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50238620&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50238620&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing GPT-6.1 Terra</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-gpt-6-1-terra</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Bringing fast and capable computer use to everyone&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-gpt-6-1-terra&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Working with academic communities to build scientific understanding</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/building-scientific-understanding-with-academic-communities&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
@@ -60,15 +133,7 @@
       <pubDate>Sun, 25 Oct 2026 21:11:31 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 396 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;405 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode github-v1.2.28: chore(github): pin actions/cache to commit SHA in GitHub Action (#58769) is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/github-v1.2.28</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@github-v1.2.28: chore(github): pin actions/cache to commit SHA in GitHub Action (#58769)</guid>
-      <pubDate>Sat, 24 Oct 2026 18:05:12 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Co-authored-by: rekram1-node rekram1-node@users.noreply.github.com&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/github-v1.2.28&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 407 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;416 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
