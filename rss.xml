@@ -11,15 +11,47 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 11:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:33:54 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Our newest AI Quest: Mapping the human brain</title>
+      <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</guid>
+      <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic S-1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
+      <guid isPermaLink="false">catnews-50242939</guid>
+      <pubDate>Mon, 26 Oct 2026 13:04:50 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1017 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;926 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
+      <link>https://www.anthropic.com/news/s1-sec</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/s1-sec</guid>
+      <pubDate>Mon, 26 Oct 2026 13:04:02 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is an AI safety and research company that&apos;s working to build reliable, interpretable, and steerable AI systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/s1-sec&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Fanatics and OpenAI streamline the fan experience</title>
+      <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/fanatics-streamline-fan-experience</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/fanatics-streamline-fan-experience&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Microsoft Decision-1: 9B Qwen Model Launch Explained</title>
       <link>https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/</link>
       <guid isPermaLink="false">catnews-50238620</guid>
       <pubDate>Mon, 26 Oct 2026 03:12:05 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 66 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50238620&quot;&gt;25 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 70 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50238620&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
@@ -28,7 +60,7 @@
       <pubDate>Sun, 25 Oct 2026 21:11:31 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 333 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;324 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 396 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;405 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode github-v1.2.28: chore(github): pin actions/cache to commit SHA in GitHub Action (#58769) is out</title>
@@ -37,14 +69,6 @@
       <pubDate>Sat, 24 Oct 2026 18:05:12 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Co-authored-by: rekram1-node rekram1-node@users.noreply.github.com&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/github-v1.2.28&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Oai-math-revised: a community hub for revising OpenAI&apos;s math write-ups</title>
-      <link>https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/</link>
-      <guid isPermaLink="false">catnews-50222283</guid>
-      <pubDate>Sat, 24 Oct 2026 15:35:17 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50222283&quot;&gt;40 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
