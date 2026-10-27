@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 06:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:42:49 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v2.2.0 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.0</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.0</guid>
+      <pubDate>Tue, 27 Oct 2026 08:09:49 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>There are now 5 inference providers for abliterated DeepSeek</title>
       <link>https://allmodels.io/llm/abliterated</link>
       <guid isPermaLink="false">catnews-50254836</guid>
       <pubDate>Tue, 27 Oct 2026 04:53:52 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 56 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50254836&quot;&gt;55 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://allmodels.io/llm/abliterated&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 81 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50254836&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://allmodels.io/llm/abliterated&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Copilot assisted permissions generally available</title>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">catnews-50247630</guid>
       <pubDate>Mon, 26 Oct 2026 17:32:16 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 243 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50247630&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 251 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50247630&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
@@ -68,7 +76,7 @@
       <pubDate>Mon, 26 Oct 2026 16:12:29 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 136 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 149 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our newest AI Quest: Mapping the human brain</title>
@@ -92,7 +100,7 @@
       <guid isPermaLink="false">catnews-50242939</guid>
       <pubDate>Mon, 26 Oct 2026 13:04:50 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1567 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1506 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1645 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1564 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
@@ -132,7 +140,7 @@
       <guid isPermaLink="false">catnews-50238620</guid>
       <pubDate>Mon, 26 Oct 2026 03:12:05 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50238620&quot;&gt;29 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50238620&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing GPT-6.1 Terra</title>
@@ -157,7 +165,7 @@
       <pubDate>Sun, 25 Oct 2026 21:11:31 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 422 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;430 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 426 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;430 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
