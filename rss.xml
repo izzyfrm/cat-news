@@ -11,8 +11,16 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 21:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:18:41 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+      <link>https://openai.com/index/greptile-code-review-codex-astra</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/greptile-code-review-codex-astra</guid>
+      <pubDate>Mon, 26 Oct 2026 22:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/greptile-code-review-codex-astra&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.311 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.311</link>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-50247630</guid>
       <pubDate>Mon, 26 Oct 2026 17:32:16 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 188 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50247630&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 215 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50247630&quot;&gt;82 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
@@ -44,7 +52,7 @@
       <pubDate>Mon, 26 Oct 2026 16:12:29 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 54 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;16 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 110 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;25 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our newest AI Quest: Mapping the human brain</title>
@@ -68,7 +76,7 @@
       <guid isPermaLink="false">catnews-50242939</guid>
       <pubDate>Mon, 26 Oct 2026 13:04:50 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1370 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1346 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1463 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1439 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
@@ -133,7 +141,7 @@
       <pubDate>Sun, 25 Oct 2026 21:11:31 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 407 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;416 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 414 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50236102&quot;&gt;423 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://minimaxir.com/2026/10/cheap-llms/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
