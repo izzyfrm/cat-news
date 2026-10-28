@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 22:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:45:26 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -35,7 +35,7 @@
       <guid isPermaLink="false">catnews-50265609</guid>
       <pubDate>Tue, 27 Oct 2026 20:50:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;40 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 125 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;112 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.66.0 is out</title>
@@ -99,7 +99,15 @@
       <guid isPermaLink="false">catnews-50260814</guid>
       <pubDate>Tue, 27 Oct 2026 15:28:26 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 384 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50260814&quot;&gt;221 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 466 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50260814&quot;&gt;263 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Retell uses OpenAI models to help power 100M monthly calls</title>
+      <link>https://openai.com/index/retell-ai</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/retell-ai</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/retell-ai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.0 is out</title>
@@ -204,7 +212,7 @@
       <guid isPermaLink="false">catnews-50242939</guid>
       <pubDate>Mon, 26 Oct 2026 13:04:50 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1685 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1645 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1689 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1648 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
@@ -245,14 +253,6 @@
       <pubDate>Mon, 26 Oct 2026 03:12:05 GMT</pubDate>
       <category>Qwen</category>
       <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50238620&quot;&gt;31 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing GPT-6.1 Terra</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-gpt-6-1-terra</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Bringing fast and capable computer use to everyone&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-gpt-6-1-terra&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
