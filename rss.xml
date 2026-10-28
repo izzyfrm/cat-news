@@ -11,8 +11,112 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 15:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:16:53 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Gemini 4 Carbon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <guid isPermaLink="false">catnews-50276792</guid>
+      <pubDate>Wed, 28 Oct 2026 17:01:23 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 556 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;467 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon: Our next frontier model</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:58 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon v0.3.2 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.3.2</guid>
+      <pubDate>Wed, 28 Oct 2026 16:05:14 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.3.2 (protocol 7) from packages/process-daemon, published to npm as @opencode/pty@0.3.2.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot in VS Code, Universe releases</title>
+      <link>https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases</guid>
+      <pubDate>Wed, 28 Oct 2026 16:01:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Route and orchestrate models with GitHub Copilot Fusion</title>
+      <link>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</guid>
+      <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.… The post Route and…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot app, Universe releases</title>
+      <link>https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</guid>
+      <pubDate>Wed, 28 Oct 2026 15:55:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository… The post GitHub Copilot app,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Enterprise now includes access to GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot</guid>
+      <pubDate>Wed, 28 Oct 2026 15:50:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many… The post GitHub Enterprise now…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security extension for the GitHub Copilot app</title>
+      <link>https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</guid>
+      <pubDate>Wed, 28 Oct 2026 15:45:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the… The post Security extension for…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub intelligence puts your code, context, and history to work</title>
+      <link>https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work</guid>
+      <pubDate>Wed, 28 Oct 2026 15:40:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in… The…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build shared workflows for your team with Copilot Automations</title>
+      <link>https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</guid>
+      <pubDate>Wed, 28 Oct 2026 15:35:00 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the… The…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generate and edit images directly in Copilot</title>
+      <link>https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot</guid>
+      <pubDate>Wed, 28 Oct 2026 15:30:55 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by… The post Generate and edit…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot Fusion now supports selection of local models</title>
+      <link>https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models</guid>
+      <pubDate>Wed, 28 Oct 2026 15:30:42 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today we are shipping intelligent routing for local models into experimental preview. GitHub Copilot Fusion can now choose between supported on-device models and cloud models, enabling intelligent local model routing……&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon-v0.3.2 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.3.2</guid>
+      <pubDate>Wed, 28 Oct 2026 15:16:58 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.3.2 under the @OpenCode scope ( #59879 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
       <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
@@ -22,12 +126,28 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-transcribe-granary&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The future of the firm</title>
+      <link>https://openai.com/index/the-future-of-the-firm</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-future-of-the-firm</guid>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How AI might enter the org chart—beneath, beside, and between us.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-future-of-the-firm&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Legora is building the agentic operating system for legal work</title>
       <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
       <guid isPermaLink="false">catnews-openai:https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
       <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/legora-agentic-operating-system-for-legal-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legora is building the agentic operating system for legal work</title>
+      <link>https://openai.com/index/legora</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/legora</guid>
+      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/legora&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v1.19.5 is out</title>
@@ -43,7 +163,7 @@
       <guid isPermaLink="false">catnews-50266910</guid>
       <pubDate>Tue, 27 Oct 2026 22:42:51 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266910&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://qwen-neurons-site.vercel.app/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 51 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266910&quot;&gt;37 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://qwen-neurons-site.vercel.app/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -51,7 +171,7 @@
       <guid isPermaLink="false">catnews-50266701</guid>
       <pubDate>Tue, 27 Oct 2026 22:23:37 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266701&quot;&gt;29 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/expanding-partnership-gsa&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266701&quot;&gt;30 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/expanding-partnership-gsa&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -75,7 +195,7 @@
       <guid isPermaLink="false">catnews-50265609</guid>
       <pubDate>Tue, 27 Oct 2026 20:50:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 278 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;265 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 311 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;314 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.66.0 is out</title>
@@ -110,6 +230,14 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.165.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On</title>
+      <link>https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html</link>
+      <guid isPermaLink="false">catnews-50263012</guid>
+      <pubDate>Tue, 27 Oct 2026 17:49:47 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 51 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50263012&quot;&gt;16 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Build specialized multimodal models with LFM3</title>
       <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
       <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/LiquidAI/lfm3</guid>
@@ -124,119 +252,6 @@
       <pubDate>Tue, 27 Oct 2026 16:12:42 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/novelty-bench&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Genie 4: A new generation of world simulation</title>
-      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
-      <pubDate>Tue, 27 Oct 2026 16:01:38 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Genie 4: our new world model unlocking unprecedented realism in real-time simulation.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic trained Claude on illegally obtained Stanford professors&apos; books</title>
-      <link>https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</link>
-      <guid isPermaLink="false">catnews-50260814</guid>
-      <pubDate>Tue, 27 Oct 2026 15:28:26 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 545 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50260814&quot;&gt;280 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retell uses OpenAI models to help power 100M monthly calls</title>
-      <link>https://openai.com/index/retell-ai</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/retell-ai</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/retell-ai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.2.0 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.0</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.0</guid>
-      <pubDate>Tue, 27 Oct 2026 08:09:49 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
-      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/oracle-apps-in-chatgpt</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/oracle-apps-in-chatgpt&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>There are now 5 inference providers for abliterated DeepSeek</title>
-      <link>https://allmodels.io/llm/abliterated</link>
-      <guid isPermaLink="false">catnews-50254836</guid>
-      <pubDate>Tue, 27 Oct 2026 04:53:52 GMT</pubDate>
-      <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 96 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50254836&quot;&gt;119 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://allmodels.io/llm/abliterated&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Check Point accelerates vulnerability research with Daybreak</title>
-      <link>https://openai.com/index/check-point-daybreak</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/check-point-daybreak</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/check-point-daybreak&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot assisted permissions generally available</title>
-      <link>https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</guid>
-      <pubDate>Mon, 26 Oct 2026 22:31:30 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,… The post GitHub Copilot…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-      <link>https://openai.com/index/greptile-code-review-codex-astra</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/greptile-code-review-codex-astra</guid>
-      <pubDate>Mon, 26 Oct 2026 22:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/greptile-code-review-codex-astra&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.311 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.311</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.311</guid>
-      <pubDate>Mon, 26 Oct 2026 21:51:23 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added --hold-idle-file and --max-hold-min to self-hosted-runner , to keep an idle session while your host reports processes it left running · Added a tip for the Explanatory output style, shown when you ask Claude for…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.311&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot</guid>
-      <pubDate>Mon, 26 Oct 2026 19:15:53 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems</title>
-      <link>https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</link>
-      <guid isPermaLink="false">catnews-50247630</guid>
-      <pubDate>Mon, 26 Oct 2026 17:32:16 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 262 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50247630&quot;&gt;95 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
-      <link>https://github.com/FrigadeHQ/hob</link>
-      <guid isPermaLink="false">catnews-50246238</guid>
-      <pubDate>Mon, 26 Oct 2026 16:12:29 GMT</pubDate>
-      <category>Claude</category>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 170 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;42 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our newest AI Quest: Mapping the human brain</title>
-      <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</link>
-      <guid isPermaLink="false">catnews-gemini:https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</guid>
-      <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
