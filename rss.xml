@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 08:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:07:14 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+      <pubDate>Wed, 28 Oct 2026 14:58:17 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-transcribe-granary&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legora is building the agentic operating system for legal work</title>
+      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/legora-agentic-operating-system-for-legal-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v1.19.5 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.5</link>
@@ -20,6 +36,22 @@
       <pubDate>Wed, 28 Oct 2026 03:00:06 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;ci: replace OpenCode app token on v1 with GITHUB_TOKEN ( #59808 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.5&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen has alter egos triggered by flipping a single neuron</title>
+      <link>https://qwen-neurons-site.vercel.app/</link>
+      <guid isPermaLink="false">catnews-50266910</guid>
+      <pubDate>Tue, 27 Oct 2026 22:42:51 GMT</pubDate>
+      <category>Qwen</category>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266910&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://qwen-neurons-site.vercel.app/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
+      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+      <guid isPermaLink="false">catnews-50266701</guid>
+      <pubDate>Tue, 27 Oct 2026 22:23:37 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266701&quot;&gt;29 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/expanding-partnership-gsa&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -43,7 +75,7 @@
       <guid isPermaLink="false">catnews-50265609</guid>
       <pubDate>Tue, 27 Oct 2026 20:50:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 211 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;187 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 278 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;265 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.66.0 is out</title>
@@ -107,7 +139,7 @@
       <guid isPermaLink="false">catnews-50260814</guid>
       <pubDate>Tue, 27 Oct 2026 15:28:26 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 514 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50260814&quot;&gt;273 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 545 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50260814&quot;&gt;280 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Retell uses OpenAI models to help power 100M monthly calls</title>
@@ -139,7 +171,7 @@
       <guid isPermaLink="false">catnews-50254836</guid>
       <pubDate>Tue, 27 Oct 2026 04:53:52 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 95 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50254836&quot;&gt;119 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://allmodels.io/llm/abliterated&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 96 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50254836&quot;&gt;119 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://allmodels.io/llm/abliterated&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Check Point accelerates vulnerability research with Daybreak</title>
@@ -196,7 +228,7 @@
       <pubDate>Mon, 26 Oct 2026 16:12:29 GMT</pubDate>
       <category>Claude</category>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 168 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;42 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 170 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50246238&quot;&gt;42 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FrigadeHQ/hob&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our newest AI Quest: Mapping the human brain</title>
@@ -205,38 +237,6 @@
       <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
-      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
-      <pubDate>Mon, 26 Oct 2026 13:45:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gpt-6-1-sol-coderabbit-code-security&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic S-1</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
-      <guid isPermaLink="false">catnews-50242939</guid>
-      <pubDate>Mon, 26 Oct 2026 13:04:50 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1695 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;1659 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
-      <link>https://www.anthropic.com/news/s1-sec</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/s1-sec</guid>
-      <pubDate>Mon, 26 Oct 2026 13:04:02 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is an AI safety and research company that&apos;s working to build reliable, interpretable, and steerable AI systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/s1-sec&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT’s expanding world of work</title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatgpt-expanding-world-of-work</guid>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-expanding-world-of-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
