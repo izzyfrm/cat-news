@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 18:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:09:23 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode process-daemon v0.4.0 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.4.0</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.4.0</guid>
+      <pubDate>Thu, 29 Oct 2026 22:01:55 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.4.0 (protocol 7) from packages/process-daemon, published to npm as @opencode/pty@0.4.0.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.4.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon-v0.4.0 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.4.0</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.4.0</guid>
+      <pubDate>Thu, 29 Oct 2026 21:44:51 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.4.0 ( #60325 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.4.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI 0.166.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.166.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.166.0</guid>
+      <pubDate>Thu, 29 Oct 2026 19:49:16 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) · Rendered Markdown consistently in async questions,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.166.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Codex CLI v0.166.0 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.166.0</link>
@@ -28,6 +52,14 @@
       <pubDate>Thu, 29 Oct 2026 17:43:42 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.2&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Duet is the first personal-assistant-type harness that feels useful</title>
+      <link>https://fig.blue/posts/duet-is-the-future/</link>
+      <guid isPermaLink="false">catnews-50292727</guid>
+      <pubDate>Thu, 29 Oct 2026 17:24:25 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 80 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50292727&quot;&gt;61 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fig.blue/posts/duet-is-the-future/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>An updated Model Spec for more capable and beneficial AI</title>
@@ -59,7 +91,7 @@
       <guid isPermaLink="false">catnews-50289418</guid>
       <pubDate>Thu, 29 Oct 2026 14:13:21 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 771 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;208 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1092 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;318 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
@@ -83,7 +115,7 @@
       <guid isPermaLink="false">catnews-50288019</guid>
       <pubDate>Thu, 29 Oct 2026 12:41:56 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 311 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50288019&quot;&gt;232 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 324 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50288019&quot;&gt;240 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How we detect frontier model misalignment</title>
@@ -115,7 +147,7 @@
       <guid isPermaLink="false">catnews-50284255</guid>
       <pubDate>Thu, 29 Oct 2026 03:33:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 543 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 557 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;224 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
@@ -155,7 +187,7 @@
       <guid isPermaLink="false">catnews-50280178</guid>
       <pubDate>Wed, 28 Oct 2026 20:10:16 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 162 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50280178&quot;&gt;74 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 165 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50280178&quot;&gt;76 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon</title>
@@ -163,7 +195,7 @@
       <guid isPermaLink="false">catnews-50276792</guid>
       <pubDate>Wed, 28 Oct 2026 17:01:23 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 990 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;791 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 999 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;794 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -220,38 +252,6 @@
       <pubDate>Wed, 28 Oct 2026 15:45:00 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the… The post Security extension for…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub intelligence puts your code, context, and history to work</title>
-      <link>https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work</guid>
-      <pubDate>Wed, 28 Oct 2026 15:40:00 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in… The…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Build shared workflows for your team with Copilot Automations</title>
-      <link>https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</guid>
-      <pubDate>Wed, 28 Oct 2026 15:35:00 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the… The…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Generate and edit images directly in Copilot</title>
-      <link>https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot</guid>
-      <pubDate>Wed, 28 Oct 2026 15:30:55 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by… The post Generate and edit…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot Fusion now supports selection of local models</title>
-      <link>https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models</guid>
-      <pubDate>Wed, 28 Oct 2026 15:30:42 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today we are shipping intelligent routing for local models into experimental preview. GitHub Copilot Fusion can now choose between supported on-device models and cloud models, enabling intelligent local model routing……&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
