@@ -11,8 +11,96 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 12:50:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:51:52 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Codex CLI v0.166.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.166.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.166.0</guid>
+      <pubDate>Thu, 29 Oct 2026 17:44:31 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.166.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.2.2 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.2</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.2</guid>
+      <pubDate>Thu, 29 Oct 2026 17:43:42 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.2&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/updated-model-spec</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/updated-model-spec&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon v0.3.3 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.3</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.3.3</guid>
+      <pubDate>Thu, 29 Oct 2026 15:45:41 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.3.3 (protocol 7) from packages/process-daemon, published to npm as @opencode/pty@0.3.3.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon-v0.3.3 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.3</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.3.3</guid>
+      <pubDate>Thu, 29 Oct 2026 15:23:30 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.3.3 ( #59969 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We&apos;re releasing the weights of Mistral Large 4</title>
+      <link>https://mistral.ai/news/mistral-large-4-oss/</link>
+      <guid isPermaLink="false">catnews-50289418</guid>
+      <pubDate>Thu, 29 Oct 2026 14:13:21 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 771 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;208 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
+      <link>https://mistral.ai/news/mistral-large-4-oss/</link>
+      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/mistral-large-4-oss/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:01:18 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granite Switch 4.1.1 — Update models like you update software</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
+      <pubDate>Thu, 29 Oct 2026 13:37:07 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5</title>
+      <link>https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</link>
+      <guid isPermaLink="false">catnews-50288019</guid>
+      <pubDate>Thu, 29 Oct 2026 12:41:56 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 311 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50288019&quot;&gt;232 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How we detect frontier model misalignment</title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/how-we-detect-frontier-model-misalignment&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/ropes-gray-ai-diligence</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/ropes-gray-ai-diligence&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v2.2.1 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.1</link>
@@ -27,7 +115,7 @@
       <guid isPermaLink="false">catnews-50284255</guid>
       <pubDate>Thu, 29 Oct 2026 03:33:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 448 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;182 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 543 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
@@ -36,6 +124,22 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/anydecisionmodel&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+      <link>https://huggingface.co/blog/mistral-large4</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/mistral-large4</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/mistral-large4&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
+      <link>https://huggingface.co/blog/announcing-project-protostar</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/announcing-project-protostar</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/announcing-project-protostar&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI for Science expands to foundations and institutions</title>
@@ -51,7 +155,7 @@
       <guid isPermaLink="false">catnews-50280178</guid>
       <pubDate>Wed, 28 Oct 2026 20:10:16 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 156 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50280178&quot;&gt;71 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 162 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50280178&quot;&gt;74 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon</title>
@@ -59,7 +163,7 @@
       <guid isPermaLink="false">catnews-50276792</guid>
       <pubDate>Wed, 28 Oct 2026 17:01:23 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 957 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;767 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 990 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;791 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -148,110 +252,6 @@
       <pubDate>Wed, 28 Oct 2026 15:30:42 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today we are shipping intelligent routing for local models into experimental preview. GitHub Copilot Fusion can now choose between supported on-device models and cloud models, enabling intelligent local model routing……&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode process-daemon-v0.3.2 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.3.2</guid>
-      <pubDate>Wed, 28 Oct 2026 15:16:58 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.3.2 under the @OpenCode scope ( #59879 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
-      <pubDate>Wed, 28 Oct 2026 14:58:17 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-transcribe-granary&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-servicenow-partnership-expansion</guid>
-      <pubDate>Wed, 28 Oct 2026 13:15:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-servicenow-partnership-expansion&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The future of the firm</title>
-      <link>https://openai.com/index/the-future-of-the-firm</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-future-of-the-firm</guid>
-      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How AI might enter the org chart—beneath, beside, and between us.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-future-of-the-firm&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
-      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/legora-agentic-operating-system-for-legal-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/legora</guid>
-      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/legora&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v1.19.5 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.5</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.19.5</guid>
-      <pubDate>Wed, 28 Oct 2026 03:00:06 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;ci: replace OpenCode app token on v1 with GITHUB_TOKEN ( #59808 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.5&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen has alter egos triggered by flipping a single neuron</title>
-      <link>https://qwen-neurons-site.vercel.app/</link>
-      <guid isPermaLink="false">catnews-50266910</guid>
-      <pubDate>Tue, 27 Oct 2026 22:42:51 GMT</pubDate>
-      <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 59 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266910&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://qwen-neurons-site.vercel.app/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
-      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
-      <guid isPermaLink="false">catnews-50266701</guid>
-      <pubDate>Tue, 27 Oct 2026 22:23:37 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266701&quot;&gt;35 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/expanding-partnership-gsa&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
-      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/expanding-partnership-gsa</guid>
-      <pubDate>Tue, 27 Oct 2026 22:17:36 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is an AI safety and research company that&apos;s working to build reliable, interpretable, and steerable AI systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/expanding-partnership-gsa&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot supports server-to-server authentication</title>
-      <link>https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</guid>
-      <pubDate>Tue, 27 Oct 2026 21:36:55 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on… The…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Early progress on accelerating drug development with Claude</title>
-      <link>https://www.anthropic.com/research/early-progress-drug-development</link>
-      <guid isPermaLink="false">catnews-50265609</guid>
-      <pubDate>Tue, 27 Oct 2026 20:50:42 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 325 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;337 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini CLI Release v0.66.0 is out</title>
-      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0</link>
-      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.66.0</guid>
-      <pubDate>Tue, 27 Oct 2026 20:26:28 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Update ROADMAP.md to no longer reference outdated 2025 roadmap by @DavidAPierce in #29723 · Changelog for v0.65.0-preview.0 by @gemini-cli-robot in #29739&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
