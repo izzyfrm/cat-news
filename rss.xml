@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 00:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:59:15 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v2.2.1 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.1</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.1</guid>
+      <pubDate>Thu, 29 Oct 2026 04:27:12 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code burns ~15–20% of your tokens on a 3-word status line</title>
+      <link>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</link>
+      <guid isPermaLink="false">catnews-50284255</guid>
+      <pubDate>Thu, 29 Oct 2026 03:33:42 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 194 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;42 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI for Science expands to foundations and institutions</title>
       <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-50280178</guid>
       <pubDate>Wed, 28 Oct 2026 20:10:16 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 121 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50280178&quot;&gt;59 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 140 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50280178&quot;&gt;67 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon</title>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-50276792</guid>
       <pubDate>Wed, 28 Oct 2026 17:01:23 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 770 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;627 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 868 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;715 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -187,7 +203,7 @@
       <guid isPermaLink="false">catnews-50266910</guid>
       <pubDate>Tue, 27 Oct 2026 22:42:51 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 55 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266910&quot;&gt;51 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://qwen-neurons-site.vercel.app/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266910&quot;&gt;59 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://qwen-neurons-site.vercel.app/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -195,7 +211,7 @@
       <guid isPermaLink="false">catnews-50266701</guid>
       <pubDate>Tue, 27 Oct 2026 22:23:37 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266701&quot;&gt;32 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/expanding-partnership-gsa&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 48 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50266701&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/expanding-partnership-gsa&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -219,7 +235,7 @@
       <guid isPermaLink="false">catnews-50265609</guid>
       <pubDate>Tue, 27 Oct 2026 20:50:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 321 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;331 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 322 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50265609&quot;&gt;336 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/early-progress-drug-development&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.66.0 is out</title>
@@ -236,22 +252,6 @@
       <pubDate>Tue, 27 Oct 2026 20:24:20 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added oidc.user_id_claim to the Claude apps gateway, to identify people by an id_token claim other than sub , such as Microsoft Entra ID&apos;s oid · Added click to send: in fullscreen, clicking the &quot;to send now&quot; hint under…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.312&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.165.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.165.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.165.0</guid>
-      <pubDate>Tue, 27 Oct 2026 20:09:38 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a built-in Google Cloud Vertex AI provider, configured with model_provider = &quot;gcp&quot; . ( #56265 ) · Added GPT-6.1 Terra to the model catalogs. ( #57337 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.165.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI v0.165.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.165.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@v0.165.0</guid>
-      <pubDate>Tue, 27 Oct 2026 18:19:20 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.165.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
