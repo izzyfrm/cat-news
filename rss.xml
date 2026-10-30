@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 15:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:39:39 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>nemotron-halloween</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
+      <pubDate>Fri, 30 Oct 2026 17:57:24 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-halloween&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
+      <link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
+      <guid isPermaLink="false">catnews-50307219</guid>
+      <pubDate>Fri, 30 Oct 2026 17:27:25 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 176 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50307219&quot;&gt;121 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: A working Nintendo in ~1GB of Qwen weights</title>
+      <link>https://github.com/dbreunig/nesformer</link>
+      <guid isPermaLink="false">catnews-50306442</guid>
+      <pubDate>Fri, 30 Oct 2026 16:40:22 GMT</pubDate>
+      <category>Qwen</category>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 128 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50306442&quot;&gt;93 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dbreunig/nesformer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v2.2.4 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.4</link>
@@ -27,7 +51,7 @@
       <guid isPermaLink="false">catnews-50304358</guid>
       <pubDate>Fri, 30 Oct 2026 14:22:52 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 62 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50304358&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50304358&quot;&gt;94 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backdoors in official Claude Code extensions</title>
@@ -35,7 +59,7 @@
       <guid isPermaLink="false">catnews-50302334</guid>
       <pubDate>Fri, 30 Oct 2026 11:05:53 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 641 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50302334&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cyberplace.social/@GossiTheDog/117528831681803563&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 648 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50302334&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cyberplace.social/@GossiTheDog/117528831681803563&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code VS Code extension with backdoor released on Cursor marketplace</title>
@@ -43,7 +67,23 @@
       <guid isPermaLink="false">catnews-50301983</guid>
       <pubDate>Fri, 30 Oct 2026 10:22:51 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 395 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50301983&quot;&gt;1 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 397 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50301983&quot;&gt;1 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Making it easier for websites to express AI training preferences</title>
+      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/helping-websites-express-ai-training-preferences&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Community safety report and new protections for teens</title>
+      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/community-safety-report-and-new-protections-for-teens&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.3 is out</title>
@@ -59,7 +99,7 @@
       <guid isPermaLink="false">catnews-50300683</guid>
       <pubDate>Fri, 30 Oct 2026 07:09:12 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 262 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;331 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://phorion.io/blog/offical-claude-code-vsx-compromise/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 611 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;409 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://phorion.io/blog/offical-claude-code-vsx-compromise/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.314 is out</title>
@@ -123,7 +163,7 @@
       <guid isPermaLink="false">catnews-50292727</guid>
       <pubDate>Thu, 29 Oct 2026 17:24:25 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 122 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50292727&quot;&gt;135 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fig.blue/posts/duet-is-the-future/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 123 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50292727&quot;&gt;139 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fig.blue/posts/duet-is-the-future/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>An updated Model Spec for more capable and beneficial AI</title>
@@ -155,7 +195,7 @@
       <guid isPermaLink="false">catnews-50289418</guid>
       <pubDate>Thu, 29 Oct 2026 14:13:21 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1628 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;425 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1661 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;433 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
@@ -211,47 +251,7 @@
       <guid isPermaLink="false">catnews-50284255</guid>
       <pubDate>Thu, 29 Oct 2026 03:33:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 572 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;232 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
-      <link>https://huggingface.co/blog/anydecisionmodel</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/anydecisionmodel</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/anydecisionmodel&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
-      <link>https://huggingface.co/blog/mistral-large4</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/mistral-large4</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/mistral-large4&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
-      <link>https://huggingface.co/blog/announcing-project-protostar</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/announcing-project-protostar</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/announcing-project-protostar&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
-      <link>https://openai.com/index/credit-saison</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/credit-saison</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/credit-saison&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI for Science expands to foundations and institutions</title>
-      <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
-      <pubDate>Wed, 28 Oct 2026 23:53:10 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 575 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;234 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
