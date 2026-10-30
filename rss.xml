@@ -11,8 +11,40 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 09:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:57:14 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v2.2.4 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.4</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.4</guid>
+      <pubDate>Fri, 30 Oct 2026 15:33:50 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.4&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.4&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic Cracking Down on Video Game Rewrites</title>
+      <link>https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968</link>
+      <guid isPermaLink="false">catnews-50304358</guid>
+      <pubDate>Fri, 30 Oct 2026 14:22:52 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 62 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50304358&quot;&gt;60 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backdoors in official Claude Code extensions</title>
+      <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
+      <guid isPermaLink="false">catnews-50302334</guid>
+      <pubDate>Fri, 30 Oct 2026 11:05:53 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 641 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50302334&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cyberplace.social/@GossiTheDog/117528831681803563&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code VS Code extension with backdoor released on Cursor marketplace</title>
+      <link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link>
+      <guid isPermaLink="false">catnews-50301983</guid>
+      <pubDate>Fri, 30 Oct 2026 10:22:51 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 395 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50301983&quot;&gt;1 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v2.2.3 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.3</link>
@@ -20,6 +52,14 @@
       <pubDate>Fri, 30 Oct 2026 08:52:12 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.3&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.3&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
+      <link>https://phorion.io/blog/offical-claude-code-vsx-compromise/</link>
+      <guid isPermaLink="false">catnews-50300683</guid>
+      <pubDate>Fri, 30 Oct 2026 07:09:12 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 262 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;331 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://phorion.io/blog/offical-claude-code-vsx-compromise/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.314 is out</title>
@@ -59,7 +99,7 @@
       <guid isPermaLink="false">catnews-50294486</guid>
       <pubDate>Thu, 29 Oct 2026 19:25:48 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50294486&quot;&gt;37 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://divergencelabs.com/publications/ige-preprint.pdf&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50294486&quot;&gt;38 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://divergencelabs.com/publications/ige-preprint.pdf&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.166.0 is out</title>
@@ -83,7 +123,7 @@
       <guid isPermaLink="false">catnews-50292727</guid>
       <pubDate>Thu, 29 Oct 2026 17:24:25 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 116 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50292727&quot;&gt;120 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fig.blue/posts/duet-is-the-future/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 122 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50292727&quot;&gt;135 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fig.blue/posts/duet-is-the-future/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>An updated Model Spec for more capable and beneficial AI</title>
@@ -115,7 +155,7 @@
       <guid isPermaLink="false">catnews-50289418</guid>
       <pubDate>Thu, 29 Oct 2026 14:13:21 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1436 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;387 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1628 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;425 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
@@ -139,7 +179,7 @@
       <guid isPermaLink="false">catnews-50288019</guid>
       <pubDate>Thu, 29 Oct 2026 12:41:56 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 334 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50288019&quot;&gt;242 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 336 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50288019&quot;&gt;245 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How we detect frontier model misalignment</title>
@@ -171,7 +211,7 @@
       <guid isPermaLink="false">catnews-50284255</guid>
       <pubDate>Thu, 29 Oct 2026 03:33:42 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 567 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;230 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 572 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;232 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
@@ -198,60 +238,20 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/announcing-project-protostar&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/credit-saison</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/credit-saison&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI for Science expands to foundations and institutions</title>
       <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
       <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
       <pubDate>Wed, 28 Oct 2026 23:53:10 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google AI gets cagey when asked who won the 2020 elections</title>
-      <link>https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/</link>
-      <guid isPermaLink="false">catnews-50280178</guid>
-      <pubDate>Wed, 28 Oct 2026 20:10:16 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 167 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50280178&quot;&gt;76 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-      <guid isPermaLink="false">catnews-50276792</guid>
-      <pubDate>Wed, 28 Oct 2026 17:01:23 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1007 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;798 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon: Our next frontier model</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:58 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode process-daemon v0.3.2 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.3.2</guid>
-      <pubDate>Wed, 28 Oct 2026 16:05:14 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.3.2 (protocol 7) from packages/process-daemon, published to npm as @opencode/pty@0.3.2.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot in VS Code, Universe releases</title>
-      <link>https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases</guid>
-      <pubDate>Wed, 28 Oct 2026 16:01:00 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Route and orchestrate models with GitHub Copilot Fusion</title>
-      <link>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</guid>
-      <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.… The post Route and…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
