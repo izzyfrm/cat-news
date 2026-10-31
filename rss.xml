@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 00:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:46:18 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenAI raises less than half of $30B target</title>
+      <link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
+      <guid isPermaLink="false">catnews-50312922</guid>
+      <pubDate>Sat, 31 Oct 2026 03:22:44 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 96 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50312922&quot;&gt;54 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.316 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.316</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.316</guid>
+      <pubDate>Sat, 31 Oct 2026 01:01:35 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added CLAUDE_CODE_DISABLE_ULTRATHINK , which turns the ultrathink keyword off · Added pooled group budgets to the Claude apps gateway: one monthly budget that a group&apos;s members share, on top of each member&apos;s own limit,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.316&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic to receive high &apos;junk&apos; rating from credit agencies following IPO</title>
+      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
+      <guid isPermaLink="false">catnews-50311311</guid>
+      <pubDate>Fri, 30 Oct 2026 23:08:12 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 83 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50311311&quot;&gt;58 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v2.2.5 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.5</link>
@@ -35,7 +59,7 @@
       <guid isPermaLink="false">catnews-50307219</guid>
       <pubDate>Fri, 30 Oct 2026 17:27:25 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 269 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50307219&quot;&gt;221 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 301 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50307219&quot;&gt;248 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: A working Nintendo in ~1GB of Qwen weights</title>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-50306442</guid>
       <pubDate>Fri, 30 Oct 2026 16:40:22 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 175 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50306442&quot;&gt;107 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dbreunig/nesformer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 226 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50306442&quot;&gt;118 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dbreunig/nesformer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.4 is out</title>
@@ -59,7 +83,7 @@
       <guid isPermaLink="false">catnews-50304358</guid>
       <pubDate>Fri, 30 Oct 2026 14:22:52 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 100 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50304358&quot;&gt;100 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 106 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50304358&quot;&gt;104 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backdoors in official Claude Code extensions</title>
@@ -67,7 +91,7 @@
       <guid isPermaLink="false">catnews-50302334</guid>
       <pubDate>Fri, 30 Oct 2026 11:05:53 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 652 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50302334&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cyberplace.social/@GossiTheDog/117528831681803563&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 655 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50302334&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cyberplace.social/@GossiTheDog/117528831681803563&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code VS Code extension with backdoor released on Cursor marketplace</title>
@@ -75,7 +99,7 @@
       <guid isPermaLink="false">catnews-50301983</guid>
       <pubDate>Fri, 30 Oct 2026 10:22:51 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 398 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50301983&quot;&gt;1 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 399 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50301983&quot;&gt;1 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Making it easier for websites to express AI training preferences</title>
@@ -107,7 +131,7 @@
       <guid isPermaLink="false">catnews-50300683</guid>
       <pubDate>Fri, 30 Oct 2026 07:09:12 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 733 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;462 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://phorion.io/blog/offical-claude-code-vsx-compromise/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 856 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;512 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://phorion.io/blog/offical-claude-code-vsx-compromise/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.314 is out</title>
@@ -211,7 +235,7 @@
       <guid isPermaLink="false">catnews-50289418</guid>
       <pubDate>Thu, 29 Oct 2026 14:13:21 GMT</pubDate>
       <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1675 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;435 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · 1688 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;435 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-4-oss/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
@@ -228,30 +252,6 @@
       <pubDate>Thu, 29 Oct 2026 13:37:07 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5</title>
-      <link>https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</link>
-      <guid isPermaLink="false">catnews-50288019</guid>
-      <pubDate>Thu, 29 Oct 2026 12:41:56 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 336 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50288019&quot;&gt;245 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How we detect frontier model misalignment</title>
-      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/how-we-detect-frontier-model-misalignment&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
-      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/ropes-gray-ai-diligence</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/ropes-gray-ai-diligence&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
