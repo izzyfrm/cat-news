@@ -11,15 +11,31 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 17:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:27:44 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
+      <link>https://ryanmadden.net/gpt-56-beats-factorio/</link>
+      <guid isPermaLink="false">catnews-50318871</guid>
+      <pubDate>Sat, 31 Oct 2026 18:50:34 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 86 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50318871&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ryanmadden.net/gpt-56-beats-factorio/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
       <link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
       <guid isPermaLink="false">catnews-50315990</guid>
       <pubDate>Sat, 31 Oct 2026 13:25:10 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 73 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315990&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315990&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Claude AI blocks video game cloning and reverse-engineering</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</link>
+      <guid isPermaLink="false">catnews-50315987</guid>
+      <pubDate>Sat, 31 Oct 2026 13:25:00 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 51 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315987&quot;&gt;30 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Anthropic&apos;s filing crushed tech stocks</title>
@@ -27,15 +43,15 @@
       <guid isPermaLink="false">catnews-50315574</guid>
       <pubDate>Sat, 31 Oct 2026 12:32:10 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315574&quot;&gt;65 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315574&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>We Took over ChatGPT Accounts</title>
+      <title>Do the math: How we took over ChatGPT accounts</title>
       <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
       <guid isPermaLink="false">catnews-50314699</guid>
       <pubDate>Sat, 31 Oct 2026 10:30:11 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 207 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50314699&quot;&gt;104 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.parameter.ai/labs/we-found-a-gap-at-openai&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 279 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50314699&quot;&gt;129 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.parameter.ai/labs/we-found-a-gap-at-openai&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI raises less than half of $30B target</title>
@@ -43,7 +59,7 @@
       <guid isPermaLink="false">catnews-50312922</guid>
       <pubDate>Sat, 31 Oct 2026 03:22:44 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 173 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50312922&quot;&gt;167 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 177 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50312922&quot;&gt;176 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.316 is out</title>
@@ -59,7 +75,7 @@
       <guid isPermaLink="false">catnews-50311311</guid>
       <pubDate>Fri, 30 Oct 2026 23:08:12 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 98 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50311311&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 98 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50311311&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.5 is out</title>
@@ -83,7 +99,7 @@
       <guid isPermaLink="false">catnews-50307219</guid>
       <pubDate>Fri, 30 Oct 2026 17:27:25 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 319 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50307219&quot;&gt;267 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 322 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50307219&quot;&gt;276 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: A working Nintendo in ~1GB of Qwen weights</title>
@@ -91,7 +107,7 @@
       <guid isPermaLink="false">catnews-50306442</guid>
       <pubDate>Fri, 30 Oct 2026 16:40:22 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 278 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50306442&quot;&gt;136 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dbreunig/nesformer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 280 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50306442&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dbreunig/nesformer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.4 is out</title>
@@ -107,7 +123,7 @@
       <guid isPermaLink="false">catnews-50304358</guid>
       <pubDate>Fri, 30 Oct 2026 14:22:52 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 118 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50304358&quot;&gt;122 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 123 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50304358&quot;&gt;124 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backdoors in official Claude Code extensions</title>
@@ -155,7 +171,7 @@
       <guid isPermaLink="false">catnews-50300683</guid>
       <pubDate>Fri, 30 Oct 2026 07:09:12 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 948 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;542 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://phorion.io/blog/offical-claude-code-vsx-compromise/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 961 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;545 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://phorion.io/blog/offical-claude-code-vsx-compromise/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.314 is out</title>
@@ -188,46 +204,6 @@
       <pubDate>Thu, 29 Oct 2026 21:44:51 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.4.0 ( #60325 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.4.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.166.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.166.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.166.0</guid>
-      <pubDate>Thu, 29 Oct 2026 19:49:16 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) · Rendered Markdown consistently in async questions,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.166.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IgE disruptor for food allergy with Claude-enabled antibody design [pdf]</title>
-      <link>https://divergencelabs.com/publications/ige-preprint.pdf</link>
-      <guid isPermaLink="false">catnews-50294486</guid>
-      <pubDate>Thu, 29 Oct 2026 19:25:48 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50294486&quot;&gt;40 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://divergencelabs.com/publications/ige-preprint.pdf&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI v0.166.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.166.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@v0.166.0</guid>
-      <pubDate>Thu, 29 Oct 2026 17:44:31 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.166.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.2.2 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.2</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.2</guid>
-      <pubDate>Thu, 29 Oct 2026 17:43:42 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.2&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Duet is the first personal-assistant-type harness that feels useful</title>
-      <link>https://fig.blue/posts/duet-is-the-future/</link>
-      <guid isPermaLink="false">catnews-50292727</guid>
-      <pubDate>Thu, 29 Oct 2026 17:24:25 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 125 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50292727&quot;&gt;139 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fig.blue/posts/duet-is-the-future/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
