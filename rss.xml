@@ -11,15 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 01 Nov 2026 16:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:50:59 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Anthropic&apos;s Mythos-class model allegedly leaked on Hugging Face</title>
+      <link>https://news.ycombinator.com/item?id=50326727</link>
+      <guid isPermaLink="false">catnews-50326727</guid>
+      <pubDate>Sun, 01 Nov 2026 15:45:10 GMT</pubDate>
+      <category>Claude</category>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude, Hugging Face&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50326727&quot;&gt;46 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326727&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ChatGPT and Codex usage limits merging</title>
       <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
       <guid isPermaLink="false">catnews-50320588</guid>
       <pubDate>Sat, 31 Oct 2026 21:49:07 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 201 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320588&quot;&gt;140 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 210 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320588&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
@@ -27,7 +36,7 @@
       <guid isPermaLink="false">catnews-50320255</guid>
       <pubDate>Sat, 31 Oct 2026 21:07:58 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 170 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320255&quot;&gt;105 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 176 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320255&quot;&gt;111 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic blocks users for anything touching training larger models</title>
@@ -35,7 +44,7 @@
       <guid isPermaLink="false">catnews-50319358</guid>
       <pubDate>Sat, 31 Oct 2026 19:39:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 424 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;237 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/jiahaoshao1/status/2116475922190922088&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 439 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;247 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/jiahaoshao1/status/2116475922190922088&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
@@ -43,7 +52,7 @@
       <guid isPermaLink="false">catnews-50318871</guid>
       <pubDate>Sat, 31 Oct 2026 18:50:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 175 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50318871&quot;&gt;186 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ryanmadden.net/gpt-56-beats-factorio/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 176 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50318871&quot;&gt;187 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ryanmadden.net/gpt-56-beats-factorio/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
@@ -75,7 +84,7 @@
       <guid isPermaLink="false">catnews-50314699</guid>
       <pubDate>Sat, 31 Oct 2026 10:30:11 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 356 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50314699&quot;&gt;173 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.parameter.ai/labs/we-found-a-gap-at-openai&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 357 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50314699&quot;&gt;176 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.parameter.ai/labs/we-found-a-gap-at-openai&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI raises less than half of $30B target</title>
@@ -83,7 +92,7 @@
       <guid isPermaLink="false">catnews-50312922</guid>
       <pubDate>Sat, 31 Oct 2026 03:22:44 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 184 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50312922&quot;&gt;197 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 185 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50312922&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.316 is out</title>
@@ -99,7 +108,7 @@
       <guid isPermaLink="false">catnews-50311311</guid>
       <pubDate>Fri, 30 Oct 2026 23:08:12 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 100 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50311311&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 102 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50311311&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.5 is out</title>
@@ -108,30 +117,6 @@
       <pubDate>Fri, 30 Oct 2026 22:06:51 GMT</pubDate>
       <category>OpenCode</category>
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.5&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.5&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>nemotron-halloween</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
-      <pubDate>Fri, 30 Oct 2026 17:57:24 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-halloween&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
-      <link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
-      <guid isPermaLink="false">catnews-50307219</guid>
-      <pubDate>Fri, 30 Oct 2026 17:27:25 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 323 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50307219&quot;&gt;290 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: A working Nintendo in ~1GB of Qwen weights</title>
-      <link>https://github.com/dbreunig/nesformer</link>
-      <guid isPermaLink="false">catnews-50306442</guid>
-      <pubDate>Fri, 30 Oct 2026 16:40:22 GMT</pubDate>
-      <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 291 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50306442&quot;&gt;149 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dbreunig/nesformer&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
