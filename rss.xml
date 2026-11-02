@@ -11,15 +11,31 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 06:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:36:00 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Introducing the Grid Protectors Program</title>
+      <link>https://openai.com/index/grid-protectors-program</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/grid-protectors-program</guid>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/grid-protectors-program&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1</title>
+      <link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
+      <guid isPermaLink="false">catnews-50337439</guid>
+      <pubDate>Mon, 02 Nov 2026 14:38:45 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 135 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50337439&quot;&gt;129 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Muse AI agent is a commercial surveillance network disguised as an AI assistant</title>
       <link>https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial</link>
       <guid isPermaLink="false">catnews-50328293</guid>
       <pubDate>Sun, 01 Nov 2026 18:33:02 GMT</pubDate>
       <category>Muse</category>
-      <description>&lt;p&gt;&lt;b&gt;Muse&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50328293&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Muse&lt;/b&gt; · 56 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50328293&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Am the Reason OpenAI Is Killing Unlimited Chats</title>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-50327416</guid>
       <pubDate>Sun, 01 Nov 2026 17:01:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 42 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50327416&quot;&gt;9 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chaosmanage.github.io/i-killed-unlimited-chatgpt/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 84 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50327416&quot;&gt;48 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chaosmanage.github.io/i-killed-unlimited-chatgpt/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Mythos-class model allegedly leaked on Hugging Face</title>
@@ -36,7 +52,7 @@
       <pubDate>Sun, 01 Nov 2026 15:45:10 GMT</pubDate>
       <category>Claude</category>
       <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude, Hugging Face&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50326727&quot;&gt;46 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326727&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude, Hugging Face&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50326727&quot;&gt;47 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326727&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT and Codex usage limits merging</title>
@@ -44,7 +60,7 @@
       <guid isPermaLink="false">catnews-50320588</guid>
       <pubDate>Sat, 31 Oct 2026 21:49:07 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 221 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320588&quot;&gt;165 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 229 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320588&quot;&gt;168 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
@@ -52,7 +68,7 @@
       <guid isPermaLink="false">catnews-50320255</guid>
       <pubDate>Sat, 31 Oct 2026 21:07:58 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 183 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320255&quot;&gt;113 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 194 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50320255&quot;&gt;116 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic blocks users for anything touching training larger models</title>
@@ -60,7 +76,7 @@
       <guid isPermaLink="false">catnews-50319358</guid>
       <pubDate>Sat, 31 Oct 2026 19:39:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 463 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;258 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/jiahaoshao1/status/2116475922190922088&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 484 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;262 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/jiahaoshao1/status/2116475922190922088&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
@@ -68,39 +84,7 @@
       <guid isPermaLink="false">catnews-50318871</guid>
       <pubDate>Sat, 31 Oct 2026 18:50:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 176 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50318871&quot;&gt;187 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ryanmadden.net/gpt-56-beats-factorio/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
-      <link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
-      <guid isPermaLink="false">catnews-50315990</guid>
-      <pubDate>Sat, 31 Oct 2026 13:25:10 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315990&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s Claude AI blocks video game cloning and reverse-engineering</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</link>
-      <guid isPermaLink="false">catnews-50315987</guid>
-      <pubDate>Sat, 31 Oct 2026 13:25:00 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 73 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315987&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Anthropic&apos;s filing crushed tech stocks</title>
-      <link>https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</link>
-      <guid isPermaLink="false">catnews-50315574</guid>
-      <pubDate>Sat, 31 Oct 2026 12:32:10 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 53 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50315574&quot;&gt;79 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Do the math: How we took over ChatGPT accounts</title>
-      <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-      <guid isPermaLink="false">catnews-50314699</guid>
-      <pubDate>Sat, 31 Oct 2026 10:30:11 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 358 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50314699&quot;&gt;176 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.parameter.ai/labs/we-found-a-gap-at-openai&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 176 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50318871&quot;&gt;188 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ryanmadden.net/gpt-56-beats-factorio/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
