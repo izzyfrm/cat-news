@@ -11,15 +11,31 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 23:41:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 04:03:50 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.317 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.317</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.317</guid>
+      <pubDate>Tue, 03 Nov 2026 01:25:46 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them · Added a check that asks before a web or shell tool call sends your account email address to the…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.317&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scaling Git at OpenAI</title>
+      <link>https://openai.com/index/scaling-git-at-openai/</link>
+      <guid isPermaLink="false">catnews-50345924</guid>
+      <pubDate>Mon, 02 Nov 2026 23:47:56 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 83 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50345924&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/scaling-git-at-openai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic&apos;s growth just flattened</title>
       <link>https://www.regenerator1.com/p/anthropics-growth-just-flattened</link>
       <guid isPermaLink="false">catnews-50344958</guid>
       <pubDate>Mon, 02 Nov 2026 22:33:20 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344958&quot;&gt;67 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.regenerator1.com/p/anthropics-growth-just-flattened&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 187 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344958&quot;&gt;212 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.regenerator1.com/p/anthropics-growth-just-flattened&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The SEC Should Block Anthropic&apos;s IPO to Protect the Public</title>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-50344919</guid>
       <pubDate>Mon, 02 Nov 2026 22:30:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 80 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344919&quot;&gt;41 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 247 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344919&quot;&gt;181 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic reveals $900B AI spending commitments ahead of IPO</title>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-50342424</guid>
       <pubDate>Mon, 02 Nov 2026 19:36:37 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 69 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50342424&quot;&gt;43 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50342424&quot;&gt;44 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astra can read and write weights to improve Qwen</title>
@@ -43,7 +59,23 @@
       <guid isPermaLink="false">catnews-50341174</guid>
       <pubDate>Mon, 02 Nov 2026 18:21:28 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 1664 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;532 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rikiyat.github.io/blog/weight-space-programming/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 2134 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;695 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rikiyat.github.io/blog/weight-space-programming/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rewarding defenders with bigger bug bounties</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preparing our next security sprint to harden OpenAI</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The latest AI news we announced in October 2026</title>
@@ -59,7 +91,7 @@
       <guid isPermaLink="false">catnews-50339494</guid>
       <pubDate>Mon, 02 Nov 2026 16:40:29 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 276 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339494&quot;&gt;231 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 299 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339494&quot;&gt;241 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings</title>
@@ -67,7 +99,15 @@
       <guid isPermaLink="false">catnews-50339224</guid>
       <pubDate>Mon, 02 Nov 2026 16:25:33 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 76 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339224&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 87 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339224&quot;&gt;30 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scaling Git at OpenAI</title>
+      <link>https://openai.com/index/scaling-git-at-openai</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/scaling-git-at-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/scaling-git-at-openai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing the Grid Protectors Program</title>
@@ -83,7 +123,7 @@
       <guid isPermaLink="false">catnews-50337439</guid>
       <pubDate>Mon, 02 Nov 2026 14:38:45 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 226 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50337439&quot;&gt;257 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 228 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50337439&quot;&gt;268 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LifeVal</title>
@@ -102,12 +142,20 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/qodo-codex-plugin&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/dan-driscoll-joins-openai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Muse AI agent is a commercial surveillance network disguised as an AI assistant</title>
       <link>https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial</link>
       <guid isPermaLink="false">catnews-50328293</guid>
       <pubDate>Sun, 01 Nov 2026 18:33:02 GMT</pubDate>
       <category>Muse</category>
-      <description>&lt;p&gt;&lt;b&gt;Muse&lt;/b&gt; · 58 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50328293&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Muse&lt;/b&gt; · 60 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50328293&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Am the Reason OpenAI Is Killing Unlimited Chats</title>
