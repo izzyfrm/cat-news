@@ -11,8 +11,16 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 04:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:57:21 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Heimstaden is changing residential real estate management with AI</title>
+      <link>https://openai.com/index/heimstaden</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/heimstaden</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/heimstaden&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.317 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.317</link>
@@ -22,12 +30,20 @@
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them · Added a check that asks before a web or shell tool call sends your account email address to the…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.317&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Transformers Model Integration Contracts</title>
+      <link>https://huggingface.co/blog/transformers-mic</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/transformers-mic</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/transformers-mic&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Scaling Git at OpenAI</title>
       <link>https://openai.com/index/scaling-git-at-openai/</link>
       <guid isPermaLink="false">catnews-50345924</guid>
       <pubDate>Mon, 02 Nov 2026 23:47:56 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 83 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50345924&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/scaling-git-at-openai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 239 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50345924&quot;&gt;162 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/scaling-git-at-openai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s growth just flattened</title>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-50344958</guid>
       <pubDate>Mon, 02 Nov 2026 22:33:20 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 187 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344958&quot;&gt;212 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.regenerator1.com/p/anthropics-growth-just-flattened&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 212 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344958&quot;&gt;245 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.regenerator1.com/p/anthropics-growth-just-flattened&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The SEC Should Block Anthropic&apos;s IPO to Protect the Public</title>
@@ -43,7 +59,7 @@
       <guid isPermaLink="false">catnews-50344919</guid>
       <pubDate>Mon, 02 Nov 2026 22:30:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 247 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344919&quot;&gt;181 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 365 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344919&quot;&gt;273 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic reveals $900B AI spending commitments ahead of IPO</title>
@@ -51,7 +67,7 @@
       <guid isPermaLink="false">catnews-50342424</guid>
       <pubDate>Mon, 02 Nov 2026 19:36:37 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 71 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50342424&quot;&gt;44 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 73 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50342424&quot;&gt;44 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astra can read and write weights to improve Qwen</title>
@@ -59,7 +75,7 @@
       <guid isPermaLink="false">catnews-50341174</guid>
       <pubDate>Mon, 02 Nov 2026 18:21:28 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 2134 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;695 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rikiyat.github.io/blog/weight-space-programming/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 2748 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;832 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rikiyat.github.io/blog/weight-space-programming/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rewarding defenders with bigger bug bounties</title>
@@ -91,7 +107,7 @@
       <guid isPermaLink="false">catnews-50339494</guid>
       <pubDate>Mon, 02 Nov 2026 16:40:29 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 299 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339494&quot;&gt;241 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 333 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339494&quot;&gt;254 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings</title>
@@ -99,7 +115,7 @@
       <guid isPermaLink="false">catnews-50339224</guid>
       <pubDate>Mon, 02 Nov 2026 16:25:33 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 87 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339224&quot;&gt;30 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 98 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339224&quot;&gt;33 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scaling Git at OpenAI</title>
@@ -123,7 +139,7 @@
       <guid isPermaLink="false">catnews-50337439</guid>
       <pubDate>Mon, 02 Nov 2026 14:38:45 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 228 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50337439&quot;&gt;268 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 233 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50337439&quot;&gt;274 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LifeVal</title>
@@ -163,7 +179,7 @@
       <guid isPermaLink="false">catnews-50327416</guid>
       <pubDate>Sun, 01 Nov 2026 17:01:34 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 90 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50327416&quot;&gt;53 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chaosmanage.github.io/i-killed-unlimited-chatgpt/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 91 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50327416&quot;&gt;54 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://chaosmanage.github.io/i-killed-unlimited-chatgpt/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&apos;s Mythos-class model allegedly leaked on Hugging Face</title>
