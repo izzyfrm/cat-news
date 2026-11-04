@@ -11,15 +11,71 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 14:49:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:08:33 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Gemini CLI Release v0.67.0 is out</title>
+      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0</link>
+      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.67.0</guid>
+      <pubDate>Wed, 04 Nov 2026 20:27:11 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog for v0.65.0 by @gemini-cli-robot in #29853 · chore(release): bump version to 0.67.0-nightly.20261020.gb041de017 by @gemini-cli-robot in #29854&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot is now available in Xcode’s coding assistant</title>
+      <link>https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</guid>
+      <pubDate>Wed, 04 Nov 2026 19:10:40 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
+      <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
+      <pubDate>Wed, 04 Nov 2026 17:50:10 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/Dharma-AI/dharma-field-extractor&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro model weights are out</title>
+      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
+      <guid isPermaLink="false">catnews-50366999</guid>
+      <pubDate>Wed, 04 Nov 2026 15:30:30 GMT</pubDate>
+      <category>Kimi</category>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 263 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;67 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI to acquire Pierre Computer Company</title>
+      <link>https://openai.com/index/openai-to-acquire-pierre/</link>
+      <guid isPermaLink="false">catnews-50366863</guid>
+      <pubDate>Wed, 04 Nov 2026 15:21:21 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 102 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;41 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
+      <link>https://openai.com/index/openai-to-acquire-pierre</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-to-acquire-pierre</guid>
+      <pubDate>Wed, 04 Nov 2026 14:30:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
       <link>https://news.ycombinator.com/item?id=50363461</link>
       <guid isPermaLink="false">catnews-50363461</guid>
       <pubDate>Wed, 04 Nov 2026 10:10:27 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 281 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 560 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
+      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/daybreak-red-aws-govcloud</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/daybreak-red-aws-govcloud&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>BYOK and enterprise custom models in the Copilot usage API</title>
@@ -51,7 +107,7 @@
       <guid isPermaLink="false">catnews-50355251</guid>
       <pubDate>Tue, 03 Nov 2026 17:40:00 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 682 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;196 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 711 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;206 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>StateBench: Testing how language models track state changes over long documents</title>
@@ -99,7 +155,7 @@
       <guid isPermaLink="false">catnews-50352757</guid>
       <pubDate>Tue, 03 Nov 2026 14:53:41 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 504 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;149 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 514 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The &apos;Astra can read and write weights to improve Qwen&apos; post is misleading</title>
@@ -107,7 +163,7 @@
       <guid isPermaLink="false">catnews-50351111</guid>
       <pubDate>Tue, 03 Nov 2026 12:21:17 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 1005 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50351111&quot;&gt;205 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://honnibal.dev/blog/astra-read-write-misleading&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 1018 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50351111&quot;&gt;206 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://honnibal.dev/blog/astra-read-write-misleading&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating engineering for the physical world</title>
@@ -187,7 +243,7 @@
       <guid isPermaLink="false">catnews-50344958</guid>
       <pubDate>Mon, 02 Nov 2026 22:33:20 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 227 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344958&quot;&gt;272 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.regenerator1.com/p/anthropics-growth-just-flattened&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 228 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344958&quot;&gt;274 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.regenerator1.com/p/anthropics-growth-just-flattened&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The SEC Should Block Anthropic&apos;s IPO to Protect the Public</title>
@@ -195,63 +251,7 @@
       <guid isPermaLink="false">catnews-50344919</guid>
       <pubDate>Mon, 02 Nov 2026 22:30:47 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 400 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344919&quot;&gt;319 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic reveals $900B AI spending commitments ahead of IPO</title>
-      <link>https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f</link>
-      <guid isPermaLink="false">catnews-50342424</guid>
-      <pubDate>Mon, 02 Nov 2026 19:36:37 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 74 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50342424&quot;&gt;44 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Astra can read and write weights to improve Qwen</title>
-      <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
-      <guid isPermaLink="false">catnews-50341174</guid>
-      <pubDate>Mon, 02 Nov 2026 18:21:28 GMT</pubDate>
-      <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 2933 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;884 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rikiyat.github.io/blog/weight-space-programming/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rewarding defenders with bigger bug bounties</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Preparing our next security sprint to harden OpenAI</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The latest AI news we announced in October 2026</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/</link>
-      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/</guid>
-      <pubDate>Mon, 02 Nov 2026 17:45:00 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Here are Google’s latest AI updates from October 2026&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s internal AI use, at retail prices, now exceeds its employee pay</title>
-      <link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
-      <guid isPermaLink="false">catnews-50339494</guid>
-      <pubDate>Mon, 02 Nov 2026 16:40:29 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 352 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339494&quot;&gt;269 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings</title>
-      <link>https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now</link>
-      <guid isPermaLink="false">catnews-50339224</guid>
-      <pubDate>Mon, 02 Nov 2026 16:25:33 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 105 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50339224&quot;&gt;37 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 403 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344919&quot;&gt;321 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
