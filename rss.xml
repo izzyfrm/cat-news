@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 08:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:42:36 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Build Enterprise Agents, Workflows &amp; Apps in Mistral Studio</title>
+      <link>https://mistral.ai/news/build-with-studio/</link>
+      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/build-with-studio/</guid>
+      <pubDate>Thu, 05 Nov 2026 15:44:32 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/build-with-studio/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting a new standard for responsible AI infrastructure</title>
+      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
+      <pubDate>Thu, 05 Nov 2026 02:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/setting-new-standard-responsible-ai-infrastructure&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
+      <link>https://huggingface.co/blog/phonon-tts</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/phonon-tts</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/phonon-tts&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gemini CLI Release v0.67.0 is out</title>
       <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0</link>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-50366999</guid>
       <pubDate>Wed, 04 Nov 2026 15:30:30 GMT</pubDate>
       <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 509 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;142 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 607 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;174 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI to acquire Pierre Computer Company</title>
@@ -51,7 +75,7 @@
       <guid isPermaLink="false">catnews-50366863</guid>
       <pubDate>Wed, 04 Nov 2026 15:21:21 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 232 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;71 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 260 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
@@ -67,7 +91,7 @@
       <guid isPermaLink="false">catnews-50363461</guid>
       <pubDate>Wed, 04 Nov 2026 10:10:27 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 663 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;171 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 688 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;180 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A thousand fewer paths to root</title>
@@ -131,7 +155,7 @@
       <guid isPermaLink="false">catnews-50355251</guid>
       <pubDate>Tue, 03 Nov 2026 17:40:00 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 728 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;212 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 731 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;213 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>StateBench: Testing how language models track state changes over long documents</title>
@@ -148,62 +172,6 @@
       <pubDate>Tue, 03 Nov 2026 17:01:49 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Palette: teaching a small model to build decks in your design language</title>
-      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
-      <pubDate>Tue, 03 Nov 2026 16:35:36 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-research/palette-deck-building&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?</title>
-      <link>https://huggingface.co/blog/ibm-research/cuga-harness</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-research/cuga-harness</guid>
-      <pubDate>Tue, 03 Nov 2026 15:57:39 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-research/cuga-harness&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot is now available in JetBrains Air</title>
-      <link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
-      <pubDate>Tue, 03 Nov 2026 15:11:46 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your… The post GitHub Copilot is…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
-      <link>https://news.ycombinator.com/item?id=50352757</link>
-      <guid isPermaLink="false">catnews-50352757</guid>
-      <pubDate>Tue, 03 Nov 2026 14:53:41 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 519 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The &apos;Astra can read and write weights to improve Qwen&apos; post is misleading</title>
-      <link>https://honnibal.dev/blog/astra-read-write-misleading</link>
-      <guid isPermaLink="false">catnews-50351111</guid>
-      <pubDate>Tue, 03 Nov 2026 12:21:17 GMT</pubDate>
-      <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 1030 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50351111&quot;&gt;207 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://honnibal.dev/blog/astra-read-write-misleading&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Accelerating engineering for the physical world</title>
-      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/accelerating-engineering-for-the-physical-world&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly</title>
-      <link>https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html</link>
-      <guid isPermaLink="false">catnews-50350560</guid>
-      <pubDate>Tue, 03 Nov 2026 11:16:07 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 84 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50350560&quot;&gt;101 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
