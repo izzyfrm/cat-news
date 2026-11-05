@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 21:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:29:08 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Gemini CLI Release v0.67.0 is out</title>
@@ -43,7 +43,7 @@
       <guid isPermaLink="false">catnews-50366999</guid>
       <pubDate>Wed, 04 Nov 2026 15:30:30 GMT</pubDate>
       <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 263 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;67 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 367 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;100 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI to acquire Pierre Computer Company</title>
@@ -51,7 +51,7 @@
       <guid isPermaLink="false">catnews-50366863</guid>
       <pubDate>Wed, 04 Nov 2026 15:21:21 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 102 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;41 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 181 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;56 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
@@ -67,7 +67,15 @@
       <guid isPermaLink="false">catnews-50363461</guid>
       <pubDate>Wed, 04 Nov 2026 10:10:27 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 560 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 628 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;163 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A thousand fewer paths to root</title>
+      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/a-thousand-fewer-paths-to-root&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
@@ -94,6 +102,22 @@
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a record of your answer when Claude Code asks to turn on the mods it writes in a session · Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.318&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>DevRev delivers autonomous self-service with GPT-6.1 Sol</title>
+      <link>https://openai.com/index/devrev-enterprise-self-service</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/devrev-enterprise-self-service</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/devrev-enterprise-self-service&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Images 2.6</title>
+      <link>https://openai.com/index/introducing-images-2-6</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-images-2-6</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-images-2-6&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Codex CLI libcap 2.75 source archive is out</title>
       <link>https://github.com/openai/codex/releases/tag/libcap-v2.75</link>
       <guid isPermaLink="false">catnews-openai:openai/codex@libcap 2.75 source archive</guid>
@@ -107,7 +131,7 @@
       <guid isPermaLink="false">catnews-50355251</guid>
       <pubDate>Tue, 03 Nov 2026 17:40:00 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 711 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;206 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 717 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;208 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>StateBench: Testing how language models track state changes over long documents</title>
@@ -155,7 +179,7 @@
       <guid isPermaLink="false">catnews-50352757</guid>
       <pubDate>Tue, 03 Nov 2026 14:53:41 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 514 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 518 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;154 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50352757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The &apos;Astra can read and write weights to improve Qwen&apos; post is misleading</title>
@@ -163,7 +187,7 @@
       <guid isPermaLink="false">catnews-50351111</guid>
       <pubDate>Tue, 03 Nov 2026 12:21:17 GMT</pubDate>
       <category>Qwen</category>
-      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 1018 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50351111&quot;&gt;206 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://honnibal.dev/blog/astra-read-write-misleading&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Qwen&lt;/b&gt; · 1025 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50351111&quot;&gt;207 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://honnibal.dev/blog/astra-read-write-misleading&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating engineering for the physical world</title>
@@ -196,62 +220,6 @@
       <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/cisco-cyber&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.317 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.317</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.317</guid>
-      <pubDate>Tue, 03 Nov 2026 01:25:46 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them · Added a check that asks before a web or shell tool call sends your account email address to the…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.317&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Transformers Model Integration Contracts</title>
-      <link>https://huggingface.co/blog/transformers-mic</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/transformers-mic</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/transformers-mic&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CWE-bench v2: More coverage, quality, and transparency</title>
-      <link>https://huggingface.co/blog/cwe-bench</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/cwe-bench</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/cwe-bench&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
-      <link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Scaling Git at OpenAI</title>
-      <link>https://openai.com/index/scaling-git-at-openai/</link>
-      <guid isPermaLink="false">catnews-50345924</guid>
-      <pubDate>Mon, 02 Nov 2026 23:47:56 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 270 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50345924&quot;&gt;180 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/scaling-git-at-openai/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s growth just flattened</title>
-      <link>https://www.regenerator1.com/p/anthropics-growth-just-flattened</link>
-      <guid isPermaLink="false">catnews-50344958</guid>
-      <pubDate>Mon, 02 Nov 2026 22:33:20 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 228 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344958&quot;&gt;274 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.regenerator1.com/p/anthropics-growth-just-flattened&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The SEC Should Block Anthropic&apos;s IPO to Protect the Public</title>
-      <link>https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</link>
-      <guid isPermaLink="false">catnews-50344919</guid>
-      <pubDate>Mon, 02 Nov 2026 22:30:47 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 403 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50344919&quot;&gt;321 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
