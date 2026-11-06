@@ -11,8 +11,40 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 09:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:21:53 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.319 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.319</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.319</guid>
+      <pubDate>Fri, 06 Nov 2026 17:04:01 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can&apos;t check are asked about or denied, with no fallback to the built-in classifier; set…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.319&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+      <link>https://huggingface.co/blog/allenai/toyblocks</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/toyblocks</guid>
+      <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/toyblocks&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Omni 1.2 Flash</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+      <guid isPermaLink="false">catnews-50392118</guid>
+      <pubDate>Fri, 06 Nov 2026 13:35:27 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 196 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50392118&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI for scientific discovery: How researchers use Claude</title>
+      <link>https://www.anthropic.com/research/how-researchers-use-claude</link>
+      <guid isPermaLink="false">catnews-50389990</guid>
+      <pubDate>Fri, 06 Nov 2026 09:13:30 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50389990&quot;&gt;11 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/how-researchers-use-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Codex CLI 0.167.0 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.167.0</link>
@@ -27,7 +59,7 @@
       <guid isPermaLink="false">catnews-50386597</guid>
       <pubDate>Fri, 06 Nov 2026 00:31:11 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 83 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;94 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;102 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usage metrics API adds code review details and addressed rate</title>
@@ -46,6 +78,14 @@
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
+      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/open-asr-leaderboard-liva&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Codex CLI v0.167.0 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.167.0</link>
       <guid isPermaLink="false">catnews-openai:openai/codex@v0.167.0</guid>
@@ -59,7 +99,15 @@
       <guid isPermaLink="false">catnews-50385272</guid>
       <pubDate>Thu, 05 Nov 2026 22:17:15 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1133 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;343 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1479 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;460 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Independent Assessment of AI R&amp;D Acceleration at Anthropic in October 2026</title>
+      <link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
+      <guid isPermaLink="false">catnews-50383902</guid>
+      <pubDate>Thu, 05 Nov 2026 20:16:19 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 41 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50383902&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cult.fit builds operational muscle with Codex</title>
@@ -204,38 +252,6 @@
       <pubDate>Wed, 04 Nov 2026 17:50:10 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/Dharma-AI/dharma-field-extractor&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi K3.1 Pro model weights are out</title>
-      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
-      <guid isPermaLink="false">catnews-50366999</guid>
-      <pubDate>Wed, 04 Nov 2026 15:30:30 GMT</pubDate>
-      <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 629 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;187 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI to acquire Pierre Computer Company</title>
-      <link>https://openai.com/index/openai-to-acquire-pierre/</link>
-      <guid isPermaLink="false">catnews-50366863</guid>
-      <pubDate>Wed, 04 Nov 2026 15:21:21 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 262 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
-      <link>https://openai.com/index/openai-to-acquire-pierre</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/openai-to-acquire-pierre</guid>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
-      <link>https://news.ycombinator.com/item?id=50363461</link>
-      <guid isPermaLink="false">catnews-50363461</guid>
-      <pubDate>Wed, 04 Nov 2026 10:10:27 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 716 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;190 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
