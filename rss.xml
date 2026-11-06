@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 02:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:56:22 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Codex CLI 0.167.0 is out</title>
@@ -27,7 +27,7 @@
       <guid isPermaLink="false">catnews-50386597</guid>
       <pubDate>Fri, 06 Nov 2026 00:31:11 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;45 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 83 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;94 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usage metrics API adds code review details and addressed rate</title>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">catnews-50385272</guid>
       <pubDate>Thu, 05 Nov 2026 22:17:15 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 590 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;196 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1133 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;343 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cult.fit builds operational muscle with Codex</title>
@@ -211,7 +211,7 @@
       <guid isPermaLink="false">catnews-50366999</guid>
       <pubDate>Wed, 04 Nov 2026 15:30:30 GMT</pubDate>
       <category>Kimi</category>
-      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 624 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;186 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Kimi&lt;/b&gt; · 629 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;187 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K3.1-Pro&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI to acquire Pierre Computer Company</title>
@@ -219,7 +219,7 @@
       <guid isPermaLink="false">catnews-50366863</guid>
       <pubDate>Wed, 04 Nov 2026 15:21:21 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 261 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 262 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50366863&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/openai-to-acquire-pierre/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
@@ -235,23 +235,7 @@
       <guid isPermaLink="false">catnews-50363461</guid>
       <pubDate>Wed, 04 Nov 2026 10:10:27 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 711 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;182 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A thousand fewer paths to root</title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/a-thousand-fewer-paths-to-root&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
-      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/daybreak-red-aws-govcloud</guid>
-      <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/daybreak-red-aws-govcloud&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 716 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;190 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
