@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 17:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:16:12 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Perplexity launches AI agents for work</title>
+      <link>https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
+      <guid isPermaLink="false">catnews-50395866</guid>
+      <pubDate>Fri, 06 Nov 2026 17:59:41 GMT</pubDate>
+      <category>Perplexity</category>
+      <description>&lt;p&gt;&lt;b&gt;Perplexity&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50395866&quot;&gt;49 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic IPO valuation talks drop to $1.3T</title>
+      <link>https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors</link>
+      <guid isPermaLink="false">catnews-50395318</guid>
+      <pubDate>Fri, 06 Nov 2026 17:21:15 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 93 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50395318&quot;&gt;1 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.319 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.319</link>
@@ -20,6 +36,14 @@
       <pubDate>Fri, 06 Nov 2026 17:04:01 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can&apos;t check are asked about or denied, with no fallback to the built-in classifier; set…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.319&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic IPO buyers see valuation as low as $1.1T</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout</link>
+      <guid isPermaLink="false">catnews-50394906</guid>
+      <pubDate>Fri, 06 Nov 2026 16:54:36 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 153 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50394906&quot;&gt;371 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
@@ -35,7 +59,7 @@
       <guid isPermaLink="false">catnews-50392118</guid>
       <pubDate>Fri, 06 Nov 2026 13:35:27 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 196 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50392118&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 270 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50392118&quot;&gt;207 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI for scientific discovery: How researchers use Claude</title>
@@ -43,7 +67,15 @@
       <guid isPermaLink="false">catnews-50389990</guid>
       <pubDate>Fri, 06 Nov 2026 09:13:30 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50389990&quot;&gt;11 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/how-researchers-use-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 84 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50389990&quot;&gt;34 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/how-researchers-use-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+      <link>https://openai.com/index/partnering-with-hacktron</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/partnering-with-hacktron</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/partnering-with-hacktron&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.167.0 is out</title>
@@ -59,7 +91,7 @@
       <guid isPermaLink="false">catnews-50386597</guid>
       <pubDate>Fri, 06 Nov 2026 00:31:11 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;102 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 89 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;104 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usage metrics API adds code review details and addressed rate</title>
@@ -86,6 +118,22 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/open-asr-leaderboard-liva&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Measuring how AI agents handle everyday wet-lab science</title>
+      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Voice Chat with Agents</title>
+      <link>https://cursor.com/changelog/voice-chat</link>
+      <guid isPermaLink="false">catnews-cursor:https://cursor.com/changelog/voice-chat</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Cursor</category>
+      <description>&lt;p&gt;&lt;b&gt;Cursor&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Talk with your agents in a realtime voice call on desktop, web, and iOS.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cursor.com/changelog/voice-chat&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Codex CLI v0.167.0 is out</title>
       <link>https://github.com/openai/codex/releases/tag/rust-v0.167.0</link>
       <guid isPermaLink="false">catnews-openai:openai/codex@v0.167.0</guid>
@@ -99,7 +147,7 @@
       <guid isPermaLink="false">catnews-50385272</guid>
       <pubDate>Thu, 05 Nov 2026 22:17:15 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1479 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;460 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1540 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;487 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Independent Assessment of AI R&amp;D Acceleration at Anthropic in October 2026</title>
@@ -107,7 +155,7 @@
       <guid isPermaLink="false">catnews-50383902</guid>
       <pubDate>Thu, 05 Nov 2026 20:16:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 41 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50383902&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 44 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50383902&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cult.fit builds operational muscle with Codex</title>
@@ -204,54 +252,6 @@
       <pubDate>Thu, 05 Nov 2026 00:45:15 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/ads/customers/flipsnack&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
-      <link>https://huggingface.co/blog/phonon-tts</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/phonon-tts</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/phonon-tts&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Build Live Apps in Cursor</title>
-      <link>https://cursor.com/changelog/build-live-apps</link>
-      <guid isPermaLink="false">catnews-cursor:https://cursor.com/changelog/build-live-apps</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Cursor</category>
-      <description>&lt;p&gt;&lt;b&gt;Cursor&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Build and deploy web apps directly in Cursor with cloud agents handling hosting, database, auth, and deployment.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cursor.com/changelog/build-live-apps&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Franklin Templeton uses OpenAI to support investment research</title>
-      <link>https://openai.com/index/franklin-templeton</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/franklin-templeton</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/franklin-templeton&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini CLI Release v0.67.0 is out</title>
-      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0</link>
-      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.67.0</guid>
-      <pubDate>Wed, 04 Nov 2026 20:27:11 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog for v0.65.0 by @gemini-cli-robot in #29853 · chore(release): bump version to 0.67.0-nightly.20261020.gb041de017 by @gemini-cli-robot in #29854&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot is now available in Xcode’s coding assistant</title>
-      <link>https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</guid>
-      <pubDate>Wed, 04 Nov 2026 19:10:40 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
-      <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
-      <pubDate>Wed, 04 Nov 2026 17:50:10 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/Dharma-AI/dharma-field-extractor&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
