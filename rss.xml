@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 07 Nov 2026 08:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:33:24 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Copilot code review: API management and review overview updates</title>
@@ -27,7 +27,7 @@
       <guid isPermaLink="false">catnews-50399569</guid>
       <pubDate>Fri, 06 Nov 2026 22:50:43 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50399569&quot;&gt;35 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 90 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50399569&quot;&gt;38 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.6 is out</title>
@@ -91,7 +91,7 @@
       <guid isPermaLink="false">catnews-50394906</guid>
       <pubDate>Fri, 06 Nov 2026 16:54:36 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 276 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50394906&quot;&gt;549 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 293 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50394906&quot;&gt;588 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
@@ -107,7 +107,7 @@
       <guid isPermaLink="false">catnews-50392118</guid>
       <pubDate>Fri, 06 Nov 2026 13:35:27 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 328 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50392118&quot;&gt;228 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 352 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50392118&quot;&gt;241 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI for scientific discovery: How researchers use Claude</title>
@@ -115,7 +115,7 @@
       <guid isPermaLink="false">catnews-50389990</guid>
       <pubDate>Fri, 06 Nov 2026 09:13:30 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 93 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50389990&quot;&gt;38 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/how-researchers-use-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 96 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50389990&quot;&gt;38 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/how-researchers-use-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">catnews-50386597</guid>
       <pubDate>Fri, 06 Nov 2026 00:31:11 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 90 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;107 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 90 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50386597&quot;&gt;108 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usage metrics API adds code review details and addressed rate</title>
@@ -195,7 +195,7 @@
       <guid isPermaLink="false">catnews-50385272</guid>
       <pubDate>Thu, 05 Nov 2026 22:17:15 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1570 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;503 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1581 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;506 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/issues/107757&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Independent Assessment of AI R&amp;D Acceleration at Anthropic in October 2026</title>
@@ -203,7 +203,7 @@
       <guid isPermaLink="false">catnews-50383902</guid>
       <pubDate>Thu, 05 Nov 2026 20:16:19 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50383902&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50383902&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cult.fit builds operational muscle with Codex</title>
