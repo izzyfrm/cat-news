@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 02:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:31:19 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Goodbye Claude, Hello Pi</title>
+      <link>https://caleb.software/posts/claude-to-pi.html</link>
+      <guid isPermaLink="false">catnews-50410107</guid>
+      <pubDate>Sun, 08 Nov 2026 03:11:48 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 276 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;161 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code&apos;s &quot;Don&apos;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
       <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
       <guid isPermaLink="false">catnews-50407882</guid>
       <pubDate>Sat, 07 Nov 2026 20:45:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 192 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;133 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 383 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;264 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copilot code review: API management and review overview updates</title>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-50399569</guid>
       <pubDate>Fri, 06 Nov 2026 22:50:43 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 93 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50399569&quot;&gt;39 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 94 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50399569&quot;&gt;39 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.2.6 is out</title>
@@ -99,7 +107,7 @@
       <guid isPermaLink="false">catnews-50394906</guid>
       <pubDate>Fri, 06 Nov 2026 16:54:36 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 309 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50394906&quot;&gt;613 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 317 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50394906&quot;&gt;617 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
@@ -115,23 +123,7 @@
       <guid isPermaLink="false">catnews-50392118</guid>
       <pubDate>Fri, 06 Nov 2026 13:35:27 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 360 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50392118&quot;&gt;250 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI for scientific discovery: How researchers use Claude</title>
-      <link>https://www.anthropic.com/research/how-researchers-use-claude</link>
-      <guid isPermaLink="false">catnews-50389990</guid>
-      <pubDate>Fri, 06 Nov 2026 09:13:30 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 101 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50389990&quot;&gt;39 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/how-researchers-use-claude&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-      <link>https://openai.com/index/partnering-with-hacktron</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/partnering-with-hacktron</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/partnering-with-hacktron&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 362 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50392118&quot;&gt;250 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
