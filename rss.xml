@@ -11,15 +11,15 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 20:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:06:14 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
-      <title>Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</title>
+      <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
       <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
       <guid isPermaLink="false">catnews-50415628</guid>
       <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 314 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;195 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 546 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;328 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI raises $11B at a $1.25T valuation</title>
@@ -27,7 +27,7 @@
       <guid isPermaLink="false">catnews-50413822</guid>
       <pubDate>Sun, 08 Nov 2026 14:49:23 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 171 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;193 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 179 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
@@ -36,7 +36,23 @@
       <pubDate>Sun, 08 Nov 2026 10:22:04 GMT</pubDate>
       <category>DeepSeek</category>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 294 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;110 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 343 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Au Large</title>
+      <link>https://mistral.ai/news/mistral-large/</link>
+      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/mistral-large/</guid>
+      <pubDate>Sun, 08 Nov 2026 08:56:31 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Large Enough</title>
+      <link>https://mistral.ai/news/mistral-large-2407/</link>
+      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/mistral-large-2407/</guid>
+      <pubDate>Sun, 08 Nov 2026 08:55:27 GMT</pubDate>
+      <category>Mistral</category>
+      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-2407/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -44,7 +60,7 @@
       <guid isPermaLink="false">catnews-50410107</guid>
       <pubDate>Sun, 08 Nov 2026 03:11:48 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 623 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;401 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 676 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;424 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Don&apos;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
@@ -52,7 +68,7 @@
       <guid isPermaLink="false">catnews-50407882</guid>
       <pubDate>Sat, 07 Nov 2026 20:45:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 540 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;384 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 578 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;390 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copilot code review: API management and review overview updates</title>
@@ -61,38 +77,6 @@
       <pubDate>Sat, 07 Nov 2026 00:27:19 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT silently passes data between connectors and the bounty wants an ID card</title>
-      <link>https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</link>
-      <guid isPermaLink="false">catnews-50399569</guid>
-      <pubDate>Fri, 06 Nov 2026 22:50:43 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 94 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50399569&quot;&gt;39 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.2.6 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.6</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.6</guid>
-      <pubDate>Fri, 06 Nov 2026 22:49:49 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.6&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.6&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Copilot impact dashboard adds chat and VS Code agent usage</title>
-      <link>https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage</guid>
-      <pubDate>Fri, 06 Nov 2026 22:17:28 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot weekly releases — November 2</title>
-      <link>https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2</guid>
-      <pubDate>Fri, 06 Nov 2026 21:00:26 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
