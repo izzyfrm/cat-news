@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 00:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:37:09 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">catnews-50415628</guid>
       <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 546 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;328 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 700 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;387 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI raises $11B at a $1.25T valuation</title>
@@ -27,7 +27,15 @@
       <guid isPermaLink="false">catnews-50413822</guid>
       <pubDate>Sun, 08 Nov 2026 14:49:23 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 179 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 185 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;204 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
+      <link>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</link>
+      <guid isPermaLink="false">catnews-50412760</guid>
+      <pubDate>Sun, 08 Nov 2026 12:41:25 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50412760&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
@@ -36,23 +44,7 @@
       <pubDate>Sun, 08 Nov 2026 10:22:04 GMT</pubDate>
       <category>DeepSeek</category>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 343 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Au Large</title>
-      <link>https://mistral.ai/news/mistral-large/</link>
-      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/mistral-large/</guid>
-      <pubDate>Sun, 08 Nov 2026 08:56:31 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Large Enough</title>
-      <link>https://mistral.ai/news/mistral-large-2407/</link>
-      <guid isPermaLink="false">catnews-mistral:https://mistral.ai/news/mistral-large-2407/</guid>
-      <pubDate>Sun, 08 Nov 2026 08:55:27 GMT</pubDate>
-      <category>Mistral</category>
-      <description>&lt;p&gt;&lt;b&gt;Mistral&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-large-2407/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 403 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;180 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -60,7 +52,7 @@
       <guid isPermaLink="false">catnews-50410107</guid>
       <pubDate>Sun, 08 Nov 2026 03:11:48 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 676 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;424 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 730 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;451 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Don&apos;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
@@ -68,15 +60,7 @@
       <guid isPermaLink="false">catnews-50407882</guid>
       <pubDate>Sat, 07 Nov 2026 20:45:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 578 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;390 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Copilot code review: API management and review overview updates</title>
-      <link>https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates</guid>
-      <pubDate>Sat, 07 Nov 2026 00:27:19 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 599 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;408 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
