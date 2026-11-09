@@ -11,15 +11,47 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 06:37:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:53:32 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
+      <pubDate>Mon, 09 Nov 2026 15:05:57 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nemotron-Personas-Finance-Japan: 日本の人口分布と金融コンテキストを捉える合成ペルソナデータセット</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan-ja</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan-ja</guid>
+      <pubDate>Mon, 09 Nov 2026 15:04:52 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan-ja&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together</title>
+      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
+      <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/amazon/higher-order-pruning-experts&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Desktop forwards your SSH agent to remote machines</title>
+      <link>https://news.ycombinator.com/item?id=50422628</link>
+      <guid isPermaLink="false">catnews-50422628</guid>
+      <pubDate>Mon, 09 Nov 2026 08:17:49 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 144 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;48 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
       <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
       <guid isPermaLink="false">catnews-50415628</guid>
       <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 700 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;387 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 858 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;463 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI raises $11B at a $1.25T valuation</title>
@@ -27,7 +59,7 @@
       <guid isPermaLink="false">catnews-50413822</guid>
       <pubDate>Sun, 08 Nov 2026 14:49:23 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 185 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;204 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;212 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
@@ -35,7 +67,7 @@
       <guid isPermaLink="false">catnews-50412760</guid>
       <pubDate>Sun, 08 Nov 2026 12:41:25 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 40 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50412760&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 42 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50412760&quot;&gt;30 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
@@ -44,7 +76,7 @@
       <pubDate>Sun, 08 Nov 2026 10:22:04 GMT</pubDate>
       <category>DeepSeek</category>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 403 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;180 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 468 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;203 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -52,7 +84,7 @@
       <guid isPermaLink="false">catnews-50410107</guid>
       <pubDate>Sun, 08 Nov 2026 03:11:48 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 730 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;451 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 794 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;481 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Don&apos;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
@@ -60,7 +92,7 @@
       <guid isPermaLink="false">catnews-50407882</guid>
       <pubDate>Sat, 07 Nov 2026 20:45:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 599 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;408 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 620 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;416 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
