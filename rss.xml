@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 00:36:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:46:25 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
-      <title>Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far</title>
+      <title>Claude Code v2.1.322 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.322</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.322</guid>
+      <pubDate>Tue, 10 Nov 2026 02:29:43 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.322&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far</title>
       <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
       <guid isPermaLink="false">catnews-50431144</guid>
       <pubDate>Mon, 09 Nov 2026 20:04:55 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 263 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;186 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 338 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;244 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.321 is out</title>
@@ -43,7 +51,7 @@
       <guid isPermaLink="false">catnews-50429906</guid>
       <pubDate>Mon, 09 Nov 2026 18:56:29 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 883 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;529 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 974 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini routes personal Drive files and emails to human annotators</title>
@@ -51,7 +59,15 @@
       <guid isPermaLink="false">catnews-50429426</guid>
       <pubDate>Mon, 09 Nov 2026 18:24:38 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 348 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thisisme6598/gemini_files/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 554 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;126 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thisisme6598/gemini_files/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <guid isPermaLink="false">catnews-50429068</guid>
+      <pubDate>Mon, 09 Nov 2026 18:01:10 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 488 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;752 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Fable 5.2 in GitHub Copilot</title>
@@ -115,7 +131,7 @@
       <guid isPermaLink="false">catnews-50422628</guid>
       <pubDate>Mon, 09 Nov 2026 08:17:49 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 205 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;71 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 208 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kuken Industries searches 70 years of drawings in minutes</title>
@@ -139,7 +155,7 @@
       <guid isPermaLink="false">catnews-50415628</guid>
       <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 882 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;472 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 888 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;480 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI raises $11B at a $1.25T valuation</title>
@@ -147,7 +163,7 @@
       <guid isPermaLink="false">catnews-50413822</guid>
       <pubDate>Sun, 08 Nov 2026 14:49:23 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;213 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;214 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
@@ -164,15 +180,7 @@
       <pubDate>Sun, 08 Nov 2026 10:22:04 GMT</pubDate>
       <category>DeepSeek</category>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 475 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;204 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Goodbye Claude, hello Pi</title>
-      <link>https://caleb.software/posts/claude-to-pi.html</link>
-      <guid isPermaLink="false">catnews-50410107</guid>
-      <pubDate>Sun, 08 Nov 2026 03:11:48 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 805 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;485 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 477 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;205 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
