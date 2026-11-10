@@ -11,8 +11,80 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 16:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:53:29 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Codex CLI 0.167.1 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.1</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.167.1</guid>
+      <pubDate>Tue, 10 Nov 2026 21:32:01 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog Full Changelog: rust-v0.167.0...rust-v0.167.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini CLI Release v0.68.0 is out</title>
+      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0</link>
+      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.68.0</guid>
+      <pubDate>Tue, 10 Nov 2026 21:17:07 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog for v0.67.0-preview.0 by @gemini-cli-robot in #29990 · Changelog for v0.66.0 by @gemini-cli-robot in #29992&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</guid>
+      <pubDate>Tue, 10 Nov 2026 19:26:51 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Intelligence: New features, on more devices</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI v0.167.1 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.1</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.167.1</guid>
+      <pubDate>Tue, 10 Nov 2026 18:02:26 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Whiteboards, Claude Sheets, and Claude Data</title>
+      <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
+      <guid isPermaLink="false">catnews-50443716</guid>
+      <pubDate>Tue, 10 Nov 2026 17:55:07 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 116 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443716&quot;&gt;87 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/sheets-whiteboards-data&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Life on Claude Nine</title>
+      <link>https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html</link>
+      <guid isPermaLink="false">catnews-50443587</guid>
+      <pubDate>Tue, 10 Nov 2026 17:44:44 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 51 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443587&quot;&gt;16 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>C++ language server now auto-configures MSBuild builds</title>
+      <link>https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds</guid>
+      <pubDate>Tue, 10 Nov 2026 17:04:10 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon is now available</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
+      <guid isPermaLink="false">catnews-50442303</guid>
+      <pubDate>Tue, 10 Nov 2026 16:07:15 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 261 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50442303&quot;&gt;144 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gemini 4 Carbon is now available</title>
       <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
@@ -43,7 +115,7 @@
       <guid isPermaLink="false">catnews-50439616</guid>
       <pubDate>Tue, 10 Nov 2026 12:49:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50439616&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 58 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50439616&quot;&gt;80 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
@@ -68,6 +140,14 @@
       <pubDate>Tue, 10 Nov 2026 11:32:16 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/roadshow-launch&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Businesses in ChatGPT</title>
+      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-businesses-chatgpt</guid>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-businesses-chatgpt&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Closing the AI guidance gap in education</title>
@@ -102,6 +182,14 @@
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.322&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gemini 4 Carbon in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot</guid>
+      <pubDate>Tue, 10 Nov 2026 02:26:51 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Decision Models in Hugging Face</title>
       <link>https://huggingface.co/blog/decision</link>
       <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/decision</guid>
@@ -110,12 +198,20 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/decision&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
+      <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/hub-gcp-marketplace</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/hub-gcp-marketplace&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far</title>
       <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
       <guid isPermaLink="false">catnews-50431144</guid>
       <pubDate>Mon, 09 Nov 2026 20:04:55 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 360 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;261 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 369 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;265 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
@@ -147,7 +243,7 @@
       <guid isPermaLink="false">catnews-50429906</guid>
       <pubDate>Mon, 09 Nov 2026 18:56:29 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 980 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 986 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini routes personal Drive files and emails to human annotators</title>
@@ -155,103 +251,7 @@
       <guid isPermaLink="false">catnews-50429426</guid>
       <pubDate>Mon, 09 Nov 2026 18:24:38 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 688 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thisisme6598/gemini_files/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Fable 5.2 and Mythos 5.2</title>
-      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-      <guid isPermaLink="false">catnews-50429068</guid>
-      <pubDate>Mon, 09 Nov 2026 18:01:10 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 792 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;927 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Fable 5.2 in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot</guid>
-      <pubDate>Mon, 09 Nov 2026 16:46:43 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Fable 5.2 in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</guid>
-      <pubDate>Mon, 09 Nov 2026 16:46:43 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nemotron-Personas-Finance-Japan: 日本の人口分布と金融コンテキストを捉える合成ペルソナデータセット</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan-ja</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan-ja</guid>
-      <pubDate>Mon, 09 Nov 2026 15:04:52 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan-ja&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Control Room: Human control over AI workloads</title>
-      <link>https://openai.com/index/introducing-control-room</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-control-room</guid>
-      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-control-room&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
-      <link>https://openai.com/index/control-room</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/control-room</guid>
-      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/control-room&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together</title>
-      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
-      <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/amazon/higher-order-pruning-experts&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT Desktop forwards your SSH agent to remote machines</title>
-      <link>https://news.ycombinator.com/item?id=50422628</link>
-      <guid isPermaLink="false">catnews-50422628</guid>
-      <pubDate>Mon, 09 Nov 2026 08:17:49 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 212 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kuken Industries searches 70 years of drawings in minutes</title>
-      <link>https://openai.com/index/kuken</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/kuken</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/kuken&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CodeRabbit scales agentic software development and ships 20x more</title>
-      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/coderabbit-codex-daybreak</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/coderabbit-codex-daybreak&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
-      <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-      <guid isPermaLink="false">catnews-50415628</guid>
-      <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 891 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;483 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 707 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thisisme6598/gemini_files/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
