@@ -11,8 +11,64 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 16:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:36:18 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far</title>
+      <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
+      <guid isPermaLink="false">catnews-50431144</guid>
+      <pubDate>Mon, 09 Nov 2026 20:04:55 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 263 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;186 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.321 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.321</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.321</guid>
+      <pubDate>Mon, 09 Nov 2026 19:22:30 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added Claude Fable 5.2 ( claude-fable-5-2 ), now the default Fable model — 1M context, $8/$40 per Mtok with $0.20/Mtok cache reads · Added --settings to claude remote-control , which applies a settings file to every…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.321&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-enterprise-aws-marketplace&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <guid isPermaLink="false">catnews-50429906</guid>
+      <pubDate>Mon, 09 Nov 2026 18:56:29 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 883 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;529 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Gemini routes personal Drive files and emails to human annotators</title>
+      <link>https://github.com/thisisme6598/gemini_files/</link>
+      <guid isPermaLink="false">catnews-50429426</guid>
+      <pubDate>Mon, 09 Nov 2026 18:24:38 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 348 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thisisme6598/gemini_files/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot</guid>
+      <pubDate>Mon, 09 Nov 2026 16:46:43 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</guid>
+      <pubDate>Mon, 09 Nov 2026 16:46:43 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context</title>
       <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
@@ -30,6 +86,22 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan-ja&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Introducing Control Room: Human control over AI workloads</title>
+      <link>https://openai.com/index/introducing-control-room</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-control-room</guid>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-control-room&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+      <link>https://openai.com/index/control-room</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/control-room</guid>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/control-room&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together</title>
       <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
       <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
@@ -43,7 +115,23 @@
       <guid isPermaLink="false">catnews-50422628</guid>
       <pubDate>Mon, 09 Nov 2026 08:17:49 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 144 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;48 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 205 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;71 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kuken Industries searches 70 years of drawings in minutes</title>
+      <link>https://openai.com/index/kuken</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/kuken</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/kuken&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CodeRabbit scales agentic software development and ships 20x more</title>
+      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/coderabbit-codex-daybreak</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/coderabbit-codex-daybreak&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
@@ -51,7 +139,7 @@
       <guid isPermaLink="false">catnews-50415628</guid>
       <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 858 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;463 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 882 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;472 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI raises $11B at a $1.25T valuation</title>
@@ -59,7 +147,7 @@
       <guid isPermaLink="false">catnews-50413822</guid>
       <pubDate>Sun, 08 Nov 2026 14:49:23 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;212 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;213 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
@@ -76,7 +164,7 @@
       <pubDate>Sun, 08 Nov 2026 10:22:04 GMT</pubDate>
       <category>DeepSeek</category>
       <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 468 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;203 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 475 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;204 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -84,15 +172,7 @@
       <guid isPermaLink="false">catnews-50410107</guid>
       <pubDate>Sun, 08 Nov 2026 03:11:48 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 794 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;481 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code&apos;s &quot;Don&apos;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
-      <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
-      <guid isPermaLink="false">catnews-50407882</guid>
-      <pubDate>Sat, 07 Nov 2026 20:45:32 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 620 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;416 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 805 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;485 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caleb.software/posts/claude-to-pi.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
