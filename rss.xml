@@ -11,8 +11,88 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 07:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:17:20 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Gemini 4 Carbon is now available</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:03:47 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-carbon-is-now-available/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.</title>
+      <link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Cloud launches Gemini for healthcare.</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/</guid>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic to Seek $1.3T Valuation in IPO</title>
+      <link>https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669</link>
+      <guid isPermaLink="false">catnews-50439616</guid>
+      <pubDate>Tue, 10 Nov 2026 12:49:32 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50439616&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
+      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-alphaproof-code/</guid>
+      <pubDate>Tue, 10 Nov 2026 12:02:28 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-alphaproof-code/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helping caregivers use AI in everyday life</title>
+      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/helping-caregivers-use-ai-in-everyday-life&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic launches roadshow for proposed initial public offering</title>
+      <link>https://www.anthropic.com/news/roadshow-launch</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/roadshow-launch</guid>
+      <pubDate>Tue, 10 Nov 2026 11:32:16 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/roadshow-launch&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Closing the AI guidance gap in education</title>
+      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/closing-ai-guidance-gap-education</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/closing-ai-guidance-gap-education&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.2.7 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.7</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.7</guid>
+      <pubDate>Tue, 10 Nov 2026 07:52:42 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.7&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.7&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work at the Frontier: AI’s effect on freelance work</title>
+      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/ai-effect-on-freelance-work</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/ai-effect-on-freelance-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.322 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.322</link>
@@ -22,12 +102,28 @@
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.322&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Decision Models in Hugging Face</title>
+      <link>https://huggingface.co/blog/decision</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/decision</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/decision&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far</title>
       <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
       <guid isPermaLink="false">catnews-50431144</guid>
       <pubDate>Mon, 09 Nov 2026 20:04:55 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 338 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;244 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 360 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;261 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
+      <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:51:47 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Our most capable vision-language-action model enhances robot dexterity, reliability, and safety&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code v2.1.321 is out</title>
@@ -51,7 +147,7 @@
       <guid isPermaLink="false">catnews-50429906</guid>
       <pubDate>Mon, 09 Nov 2026 18:56:29 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 974 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 980 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;6 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini routes personal Drive files and emails to human annotators</title>
@@ -59,7 +155,7 @@
       <guid isPermaLink="false">catnews-50429426</guid>
       <pubDate>Mon, 09 Nov 2026 18:24:38 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 554 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;126 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thisisme6598/gemini_files/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 688 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thisisme6598/gemini_files/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Fable 5.2 and Mythos 5.2</title>
@@ -67,7 +163,7 @@
       <guid isPermaLink="false">catnews-50429068</guid>
       <pubDate>Mon, 09 Nov 2026 18:01:10 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 488 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;752 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 792 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;927 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Fable 5.2 in GitHub Copilot</title>
@@ -131,7 +227,7 @@
       <guid isPermaLink="false">catnews-50422628</guid>
       <pubDate>Mon, 09 Nov 2026 08:17:49 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 208 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 212 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422628&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kuken Industries searches 70 years of drawings in minutes</title>
@@ -155,32 +251,7 @@
       <guid isPermaLink="false">catnews-50415628</guid>
       <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 888 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;480 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI raises $11B at a $1.25T valuation</title>
-      <link>https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/</link>
-      <guid isPermaLink="false">catnews-50413822</guid>
-      <pubDate>Sun, 08 Nov 2026 14:49:23 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 189 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50413822&quot;&gt;214 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
-      <link>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</link>
-      <guid isPermaLink="false">catnews-50412760</guid>
-      <pubDate>Sun, 08 Nov 2026 12:41:25 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 42 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50412760&quot;&gt;30 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
-      <link>https://github.com/synchopate/llama-modchip</link>
-      <guid isPermaLink="false">catnews-50411961</guid>
-      <pubDate>Sun, 08 Nov 2026 10:22:04 GMT</pubDate>
-      <category>DeepSeek</category>
-      <category>Llama</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek, Llama&lt;/b&gt; · 477 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50411961&quot;&gt;205 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/synchopate/llama-modchip&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 891 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;483 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
