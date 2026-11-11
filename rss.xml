@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 01:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:02:17 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Gilbert + Tobin rethinks the business of law with AI</title>
@@ -22,12 +22,44 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gilbert-tobin-sam-nickless&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Experience the art and legacy of Dr. Esther Mahlangu</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Plus for veterans and servicemembers</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatgpt-plus-for-veterans</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-plus-for-veterans&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/qvac/botpsy</guid>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/qvac/botpsy&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>GitHub App support for Enterprise Copilot seat management</title>
       <link>https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</link>
       <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</guid>
       <pubDate>Wed, 11 Nov 2026 00:10:31 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tracking Anthropic-discovered vulnerabilities</title>
+      <link>https://www.vulncheck.com/blog/anthropic-glasswing-november-update</link>
+      <guid isPermaLink="false">catnews-50447074</guid>
+      <pubDate>Tue, 10 Nov 2026 22:17:56 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 395 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50447074&quot;&gt;187 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.vulncheck.com/blog/anthropic-glasswing-november-update&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.167.1 is out</title>
@@ -75,7 +107,7 @@
       <guid isPermaLink="false">catnews-50443716</guid>
       <pubDate>Tue, 10 Nov 2026 17:55:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 157 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443716&quot;&gt;130 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/sheets-whiteboards-data&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 212 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443716&quot;&gt;150 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/sheets-whiteboards-data&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Life on Claude Nine</title>
@@ -83,7 +115,7 @@
       <guid isPermaLink="false">catnews-50443587</guid>
       <pubDate>Tue, 10 Nov 2026 17:44:44 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 81 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443587&quot;&gt;54 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 105 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443587&quot;&gt;65 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>C++ language server now auto-configures MSBuild builds</title>
@@ -99,7 +131,7 @@
       <guid isPermaLink="false">catnews-50442303</guid>
       <pubDate>Tue, 10 Nov 2026 16:07:15 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 275 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50442303&quot;&gt;149 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 284 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50442303&quot;&gt;155 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon is now available</title>
@@ -131,7 +163,7 @@
       <guid isPermaLink="false">catnews-50439616</guid>
       <pubDate>Tue, 10 Nov 2026 12:49:32 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 59 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50439616&quot;&gt;82 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 60 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50439616&quot;&gt;84 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
@@ -174,6 +206,14 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/closing-ai-guidance-gap-education&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
+      <link>https://openai.com/index/singapore-airlines-travel-work</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/singapore-airlines-travel-work</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/singapore-airlines-travel-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenCode v2.2.7 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.7</link>
       <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.7</guid>
@@ -212,46 +252,6 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/decision&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
-      <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/hub-gcp-marketplace</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/hub-gcp-marketplace&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far</title>
-      <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
-      <guid isPermaLink="false">catnews-50431144</guid>
-      <pubDate>Mon, 09 Nov 2026 20:04:55 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 372 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50431144&quot;&gt;268 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/claude-fable-5-2&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
-      <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:51:47 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Our most capable vision-language-action model enhances robot dexterity, reliability, and safety&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.321 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.321</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.321</guid>
-      <pubDate>Mon, 09 Nov 2026 19:22:30 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added Claude Fable 5.2 ( claude-fable-5-2 ), now the default Fable model — 1M context, $8/$40 per Mtok with $0.20/Mtok cache reads · Added --settings to claude remote-control , which applies a settings file to every…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.321&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
-      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-enterprise-aws-marketplace&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
