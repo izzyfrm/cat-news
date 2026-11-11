@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 17:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:28:24 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Gilbert + Tobin rethinks the business of law with AI</title>
@@ -20,6 +20,62 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gilbert-tobin-sam-nickless&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI 0.167.2 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.2</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.167.2</guid>
+      <pubDate>Wed, 11 Nov 2026 22:44:46 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon v0.5.2 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.5.2</guid>
+      <pubDate>Wed, 11 Nov 2026 21:34:04 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.5.2 (protocol 8) from packages/process-daemon, published to npm as @opencode/pty@0.5.2.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI v0.167.2 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.2</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.167.2</guid>
+      <pubDate>Wed, 11 Nov 2026 20:03:57 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon-v0.5.2 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.5.2</guid>
+      <pubDate>Wed, 11 Nov 2026 20:03:21 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.5.2 ( #63381 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <guid isPermaLink="false">catnews-50456791</guid>
+      <pubDate>Wed, 11 Nov 2026 18:32:42 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 196 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;66 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode process-daemon-v0.5.1 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.1</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.5.1</guid>
+      <pubDate>Wed, 11 Nov 2026 18:27:09 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.5.1 ( #63366 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
@@ -78,12 +134,20 @@
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/token-pooling&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/jiostar-vijay-seshadri</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/jiostar-vijay-seshadri&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Tracking Anthropic-discovered vulnerabilities</title>
       <link>https://www.vulncheck.com/blog/anthropic-glasswing-november-update</link>
       <guid isPermaLink="false">catnews-50447074</guid>
       <pubDate>Tue, 10 Nov 2026 22:17:56 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 438 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50447074&quot;&gt;210 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.vulncheck.com/blog/anthropic-glasswing-november-update&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 447 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50447074&quot;&gt;218 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.vulncheck.com/blog/anthropic-glasswing-november-update&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.167.1 is out</title>
@@ -131,7 +195,7 @@
       <guid isPermaLink="false">catnews-50443716</guid>
       <pubDate>Tue, 10 Nov 2026 17:55:07 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 273 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443716&quot;&gt;204 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/sheets-whiteboards-data&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 280 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443716&quot;&gt;216 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/sheets-whiteboards-data&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Life on Claude Nine</title>
@@ -139,7 +203,7 @@
       <guid isPermaLink="false">catnews-50443587</guid>
       <pubDate>Tue, 10 Nov 2026 17:44:44 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 122 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443587&quot;&gt;81 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 129 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443587&quot;&gt;85 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>C++ language server now auto-configures MSBuild builds</title>
@@ -155,7 +219,7 @@
       <guid isPermaLink="false">catnews-50442303</guid>
       <pubDate>Tue, 10 Nov 2026 16:07:15 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 288 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50442303&quot;&gt;159 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 291 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50442303&quot;&gt;164 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon is now available</title>
@@ -188,70 +252,6 @@
       <pubDate>Tue, 10 Nov 2026 12:49:32 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 60 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50439616&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
-      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-alphaproof-code/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:02:28 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-alphaproof-code/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Helping caregivers use AI in everyday life</title>
-      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/helping-caregivers-use-ai-in-everyday-life&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic launches roadshow for proposed initial public offering</title>
-      <link>https://www.anthropic.com/news/roadshow-launch</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/roadshow-launch</guid>
-      <pubDate>Tue, 10 Nov 2026 11:32:16 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/roadshow-launch&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Businesses in ChatGPT</title>
-      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-businesses-chatgpt</guid>
-      <pubDate>Tue, 10 Nov 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-businesses-chatgpt&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Closing the AI guidance gap in education</title>
-      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/closing-ai-guidance-gap-education</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/closing-ai-guidance-gap-education&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
-      <link>https://openai.com/index/singapore-airlines-travel-work</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/singapore-airlines-travel-work</guid>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/singapore-airlines-travel-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.2.7 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.2.7</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.2.7</guid>
-      <pubDate>Tue, 10 Nov 2026 07:52:42 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.2.7&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.2.7&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Work at the Frontier: AI’s effect on freelance work</title>
-      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/ai-effect-on-freelance-work</guid>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/ai-effect-on-freelance-work&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
