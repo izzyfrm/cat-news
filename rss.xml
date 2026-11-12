@@ -11,15 +11,63 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 12:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:41:56 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+      <link>https://openai.com/index/amplitude</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/amplitude</guid>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/amplitude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+      <pubDate>Thu, 12 Nov 2026 19:07:35 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen and Orchestrator</title>
+      <link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</link>
+      <guid isPermaLink="false">catnews-50472260</guid>
+      <pubDate>Thu, 12 Nov 2026 18:52:01 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 112 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">catnews-50471431</guid>
+      <pubDate>Thu, 12 Nov 2026 18:01:48 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 331 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;229 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Gemini 4 Hydrogen</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:50 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-gemini-4-hydrogen/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
+      <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic IPO</title>
       <link>https://ipo.anthropic.com/us/</link>
       <guid isPermaLink="false">catnews-50465829</guid>
       <pubDate>Thu, 12 Nov 2026 11:46:41 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 106 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;109 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 714 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;717 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Holiday Extras is rethinking what it can build with Codex</title>
@@ -44,6 +92,14 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/children-first-declaration&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/3d-lora-finetuning</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/3d-lora-finetuning&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.167.2 is out</title>
@@ -83,7 +139,7 @@
       <guid isPermaLink="false">catnews-50456791</guid>
       <pubDate>Wed, 11 Nov 2026 18:32:42 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 462 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;143 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 549 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode process-daemon-v0.5.1 is out</title>
@@ -171,7 +227,7 @@
       <guid isPermaLink="false">catnews-50447074</guid>
       <pubDate>Tue, 10 Nov 2026 22:17:56 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 456 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50447074&quot;&gt;218 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.vulncheck.com/blog/anthropic-glasswing-november-update&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 457 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50447074&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.vulncheck.com/blog/anthropic-glasswing-november-update&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.167.1 is out</title>
@@ -188,70 +244,6 @@
       <pubDate>Tue, 10 Nov 2026 21:17:07 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog for v0.67.0-preview.0 by @gemini-cli-robot in #29990 · Changelog for v0.66.0 by @gemini-cli-robot in #29992&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</guid>
-      <pubDate>Tue, 10 Nov 2026 19:26:51 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Intelligence: New features, on more devices</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
-      <guid isPermaLink="false">catnews-gemini:https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI v0.167.1 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.1</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@v0.167.1</guid>
-      <pubDate>Tue, 10 Nov 2026 18:02:26 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Whiteboards, Claude Sheets, and Claude Data</title>
-      <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
-      <guid isPermaLink="false">catnews-50443716</guid>
-      <pubDate>Tue, 10 Nov 2026 17:55:07 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 286 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443716&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/sheets-whiteboards-data&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Life on Claude Nine</title>
-      <link>https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html</link>
-      <guid isPermaLink="false">catnews-50443587</guid>
-      <pubDate>Tue, 10 Nov 2026 17:44:44 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 136 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50443587&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>C++ language server now auto-configures MSBuild builds</title>
-      <link>https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds</guid>
-      <pubDate>Tue, 10 Nov 2026 17:04:10 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon is now available</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
-      <guid isPermaLink="false">catnews-50442303</guid>
-      <pubDate>Tue, 10 Nov 2026 16:07:15 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 294 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50442303&quot;&gt;164 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon is now available</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
-      <pubDate>Tue, 10 Nov 2026 16:03:47 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-carbon-is-now-available/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
