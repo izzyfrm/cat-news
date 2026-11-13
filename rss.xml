@@ -11,8 +11,72 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 16:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:25:09 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Upcoming deprecation of selected GitHub Copilot models in December</title>
+      <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</guid>
+      <pubDate>Fri, 13 Nov 2026 20:40:05 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.325 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.325</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.325</guid>
+      <pubDate>Fri, 13 Nov 2026 20:40:01 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed a security issue in how zstd-compressed responses are decoded · Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.325&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perplexity Decider v1.3: Training, eval, and use cases</title>
+      <link>https://www.perplexity.ai/hub/blog/perplexity-decider</link>
+      <guid isPermaLink="false">catnews-50488464</guid>
+      <pubDate>Fri, 13 Nov 2026 19:24:47 GMT</pubDate>
+      <category>Perplexity</category>
+      <description>&lt;p&gt;&lt;b&gt;Perplexity&lt;/b&gt; · 68 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50488464&quot;&gt;13 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/perplexity-decider&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Enterprise Server support in the GitHub Copilot app</title>
+      <link>https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</guid>
+      <pubDate>Fri, 13 Nov 2026 18:27:13 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This… The post GitHub Enterprise Server…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot</guid>
+      <pubDate>Fri, 13 Nov 2026 18:23:48 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction… The post…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI disbands its robotics team as its general models start running robots</title>
+      <link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/</link>
+      <guid isPermaLink="false">catnews-50487184</guid>
+      <pubDate>Fri, 13 Nov 2026 17:55:23 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 121 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50487184&quot;&gt;54 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/allenai/xybench</guid>
+      <pubDate>Fri, 13 Nov 2026 17:02:35 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/xybench&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The full DeepSeek App experience, now via API</title>
       <link>https://api-docs.deepseek.com/news/news261113</link>
@@ -43,7 +107,7 @@
       <guid isPermaLink="false">catnews-50481220</guid>
       <pubDate>Fri, 13 Nov 2026 10:20:09 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 183 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481220&quot;&gt;156 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/history&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 193 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481220&quot;&gt;170 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/history&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
@@ -51,7 +115,7 @@
       <guid isPermaLink="false">catnews-50481187</guid>
       <pubDate>Fri, 13 Nov 2026 10:18:13 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 417 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;343 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/incidents/nn11wk485zfn&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 478 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;377 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/incidents/nn11wk485zfn&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.169.0 is out</title>
@@ -131,7 +195,7 @@
       <guid isPermaLink="false">catnews-50472260</guid>
       <pubDate>Thu, 12 Nov 2026 18:52:01 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 470 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;153 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 493 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;160 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Hydrogen</title>
@@ -139,7 +203,7 @@
       <guid isPermaLink="false">catnews-50471431</guid>
       <pubDate>Thu, 12 Nov 2026 18:01:48 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 553 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;343 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 556 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;348 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing Gemini 4 Hydrogen</title>
@@ -171,7 +235,7 @@
       <guid isPermaLink="false">catnews-50465829</guid>
       <pubDate>Thu, 12 Nov 2026 11:46:41 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 984 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;892 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 989 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;901 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Holiday Extras is rethinking what it can build with Codex</title>
@@ -188,70 +252,6 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gilbert-tobin-sam-nickless&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Supporting research on AI and children’s safety</title>
-      <link>https://openai.com/index/children-first-declaration</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/children-first-declaration</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/children-first-declaration&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
-      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/3d-lora-finetuning</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/3d-lora-finetuning&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.167.2 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.2</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.167.2</guid>
-      <pubDate>Wed, 11 Nov 2026 22:44:46 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode process-daemon v0.5.2 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.5.2</guid>
-      <pubDate>Wed, 11 Nov 2026 21:34:04 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.5.2 (protocol 8) from packages/process-daemon, published to npm as @opencode/pty@0.5.2.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI v0.167.2 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.2</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@v0.167.2</guid>
-      <pubDate>Wed, 11 Nov 2026 20:03:57 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode process-daemon-v0.5.2 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.5.2</guid>
-      <pubDate>Wed, 11 Nov 2026 20:03:21 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.5.2 ( #63381 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Decisions API</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <guid isPermaLink="false">catnews-50456791</guid>
-      <pubDate>Wed, 11 Nov 2026 18:32:42 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 565 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;160 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode process-daemon-v0.5.1 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.1</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon-v0.5.1</guid>
-      <pubDate>Wed, 11 Nov 2026 18:27:09 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;chore(process-daemon): release 0.5.1 ( #63366 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
