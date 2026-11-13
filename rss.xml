@@ -11,8 +11,24 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 20:41:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:29:49 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.323 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.323</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.323</guid>
+      <pubDate>Thu, 12 Nov 2026 22:12:13 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added Code Mode, an experimental opt-in in which Claude writes JavaScript to call its tools; see https://code.claude.com/docs/en/code-mode to turn it on, or to turn it off for an organization · Added…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.323&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI v0.168.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.168.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.168.0</guid>
+      <pubDate>Thu, 12 Nov 2026 21:29:07 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.168.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
       <link>https://openai.com/index/amplitude</link>
@@ -20,6 +36,14 @@
       <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/amplitude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+      <link>https://openai.com/business/customer-stories/amplitude</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/amplitude</guid>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/amplitude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
@@ -35,7 +59,7 @@
       <guid isPermaLink="false">catnews-50472260</guid>
       <pubDate>Thu, 12 Nov 2026 18:52:01 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 112 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 296 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Hydrogen</title>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-50471431</guid>
       <pubDate>Thu, 12 Nov 2026 18:01:48 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 331 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;229 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 459 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;296 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing Gemini 4 Hydrogen</title>
@@ -62,12 +86,20 @@
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gondola doubles revenue as its team builds more with Codex</title>
+      <link>https://openai.com/business/customer-stories/gondola</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/gondola</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/gondola&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic IPO</title>
       <link>https://ipo.anthropic.com/us/</link>
       <guid isPermaLink="false">catnews-50465829</guid>
       <pubDate>Thu, 12 Nov 2026 11:46:41 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 714 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;717 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 816 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;803 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Holiday Extras is rethinking what it can build with Codex</title>
@@ -139,7 +171,7 @@
       <guid isPermaLink="false">catnews-50456791</guid>
       <pubDate>Wed, 11 Nov 2026 18:32:42 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 549 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 553 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode process-daemon-v0.5.1 is out</title>
@@ -196,54 +228,6 @@
       <pubDate>Wed, 11 Nov 2026 05:01:16 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/qvac/botpsy&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub App support for Enterprise Copilot seat management</title>
-      <link>https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</guid>
-      <pubDate>Wed, 11 Nov 2026 00:10:31 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
-      <link>https://huggingface.co/blog/token-pooling</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/token-pooling</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/token-pooling&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
-      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/jiostar-vijay-seshadri</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/jiostar-vijay-seshadri&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tracking Anthropic-discovered vulnerabilities</title>
-      <link>https://www.vulncheck.com/blog/anthropic-glasswing-november-update</link>
-      <guid isPermaLink="false">catnews-50447074</guid>
-      <pubDate>Tue, 10 Nov 2026 22:17:56 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 457 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50447074&quot;&gt;217 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.vulncheck.com/blog/anthropic-glasswing-november-update&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.167.1 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.167.1</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.167.1</guid>
-      <pubDate>Tue, 10 Nov 2026 21:32:01 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog Full Changelog: rust-v0.167.0...rust-v0.167.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.167.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini CLI Release v0.68.0 is out</title>
-      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0</link>
-      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.68.0</guid>
-      <pubDate>Tue, 10 Nov 2026 21:17:07 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog for v0.67.0-preview.0 by @gemini-cli-robot in #29990 · Changelog for v0.66.0 by @gemini-cli-robot in #29992&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
