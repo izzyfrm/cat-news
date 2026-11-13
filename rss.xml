@@ -11,8 +11,40 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 01:29:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:42:52 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Codex CLI 0.169.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.169.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.169.0</guid>
+      <pubDate>Fri, 13 Nov 2026 08:37:05 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;The opt-in terminal workspace supports multiple side-chat tabs. Switch between them with the keyboard or mouse, and reopen saved local side chats after restarting Codex. ( #59784 , #60152 , #60181 ) · Search older tasks…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.169.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.3.0 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.3.0</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.3.0</guid>
+      <pubDate>Fri, 13 Nov 2026 07:33:07 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.3.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.3.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI v0.169.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.169.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.169.0</guid>
+      <pubDate>Fri, 13 Nov 2026 04:48:20 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.169.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI 0.168.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.168.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.168.0</guid>
+      <pubDate>Fri, 13 Nov 2026 03:54:29 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Browse model providers under Sessions → Model providers and choose the default for new chats. ( #59541 , #59722 ) · Enable features.tui_workspace to view a side conversation beside the main chat. Drag the divider to…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.168.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.323 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.323</link>
@@ -59,7 +91,7 @@
       <guid isPermaLink="false">catnews-50472260</guid>
       <pubDate>Thu, 12 Nov 2026 18:52:01 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 296 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 405 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;110 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Hydrogen</title>
@@ -67,7 +99,7 @@
       <guid isPermaLink="false">catnews-50471431</guid>
       <pubDate>Thu, 12 Nov 2026 18:01:48 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 459 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;296 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 523 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;330 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing Gemini 4 Hydrogen</title>
@@ -99,7 +131,7 @@
       <guid isPermaLink="false">catnews-50465829</guid>
       <pubDate>Thu, 12 Nov 2026 11:46:41 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 816 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;803 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 916 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;858 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Holiday Extras is rethinking what it can build with Codex</title>
@@ -171,7 +203,7 @@
       <guid isPermaLink="false">catnews-50456791</guid>
       <pubDate>Wed, 11 Nov 2026 18:32:42 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 553 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 561 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;157 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode process-daemon-v0.5.1 is out</title>
@@ -212,22 +244,6 @@
       <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
       <category>Gemini</category>
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT Plus for veterans and servicemembers</title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/chatgpt-plus-for-veterans</guid>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-plus-for-veterans&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://huggingface.co/blog/qvac/botpsy</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/qvac/botpsy</guid>
-      <pubDate>Wed, 11 Nov 2026 05:01:16 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/qvac/botpsy&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
