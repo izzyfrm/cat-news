@@ -11,15 +11,23 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 16:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:38:47 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
+      <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+      <guid isPermaLink="false">catnews-50497589</guid>
+      <pubDate>Sat, 14 Nov 2026 15:04:15 GMT</pubDate>
+      <category>DeepSeek</category>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 89 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50497589&quot;&gt;4 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Claude Delusion</title>
       <link>https://www.netmeister.org/blog/claude-delusion.html</link>
       <guid isPermaLink="false">catnews-50496921</guid>
       <pubDate>Sat, 14 Nov 2026 13:36:17 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 118 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50496921&quot;&gt;123 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.netmeister.org/blog/claude-delusion.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 134 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50496921&quot;&gt;180 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.netmeister.org/blog/claude-delusion.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic upgrades Claude Code Projects to run parallel AI workers</title>
@@ -27,7 +35,7 @@
       <guid isPermaLink="false">catnews-50492141</guid>
       <pubDate>Sat, 14 Nov 2026 00:28:11 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 93 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50492141&quot;&gt;89 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/projects-redesigned&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 97 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50492141&quot;&gt;91 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/projects-redesigned&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Meetings</title>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-50491097</guid>
       <pubDate>Fri, 13 Nov 2026 22:39:15 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 104 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50491097&quot;&gt;82 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-meetings&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 107 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50491097&quot;&gt;86 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-meetings&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Upcoming deprecation of selected GitHub Copilot models in December</title>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">catnews-50488464</guid>
       <pubDate>Fri, 13 Nov 2026 19:24:47 GMT</pubDate>
       <category>Perplexity</category>
-      <description>&lt;p&gt;&lt;b&gt;Perplexity&lt;/b&gt; · 141 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50488464&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/perplexity-decider&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Perplexity&lt;/b&gt; · 143 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50488464&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/perplexity-decider&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Enterprise Server support in the GitHub Copilot app</title>
@@ -91,7 +99,7 @@
       <guid isPermaLink="false">catnews-50487184</guid>
       <pubDate>Fri, 13 Nov 2026 17:55:23 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 174 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50487184&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 174 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50487184&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek Ultrafast</title>
@@ -99,7 +107,7 @@
       <guid isPermaLink="false">catnews-50486914</guid>
       <pubDate>Fri, 13 Nov 2026 17:39:03 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 66 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50486914&quot;&gt;12 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/basetenlabs/deepseek-ultrafast&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 68 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50486914&quot;&gt;14 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/basetenlabs/deepseek-ultrafast&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>XYBench: Helping with the problem behind the question</title>
@@ -147,7 +155,7 @@
       <guid isPermaLink="false">catnews-50481187</guid>
       <pubDate>Fri, 13 Nov 2026 10:18:13 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 489 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;389 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/incidents/nn11wk485zfn&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 492 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;390 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/incidents/nn11wk485zfn&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.169.0 is out</title>
@@ -204,54 +212,6 @@
       <pubDate>Thu, 12 Nov 2026 21:29:07 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.168.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-      <link>https://openai.com/index/amplitude</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/amplitude</guid>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/amplitude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-      <link>https://openai.com/business/customer-stories/amplitude</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/amplitude</guid>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/amplitude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Hydrogen and Orchestrator</title>
-      <link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</link>
-      <guid isPermaLink="false">catnews-50472260</guid>
-      <pubDate>Thu, 12 Nov 2026 18:52:01 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 501 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;161 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Hydrogen</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">catnews-50471431</guid>
-      <pubDate>Thu, 12 Nov 2026 18:01:48 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 565 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;350 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Gemini 4 Hydrogen</title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
-      <pubDate>Thu, 12 Nov 2026 18:00:50 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-gemini-4-hydrogen/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
