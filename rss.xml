@@ -11,8 +11,16 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 22:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:37:34 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Meetings</title>
+      <link>https://claude.com/resources/articles/claude-meetings</link>
+      <guid isPermaLink="false">catnews-50491097</guid>
+      <pubDate>Fri, 13 Nov 2026 22:39:15 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 76 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50491097&quot;&gt;59 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-meetings&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Upcoming deprecation of selected GitHub Copilot models in December</title>
       <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
@@ -35,7 +43,7 @@
       <guid isPermaLink="false">catnews-50488464</guid>
       <pubDate>Fri, 13 Nov 2026 19:24:47 GMT</pubDate>
       <category>Perplexity</category>
-      <description>&lt;p&gt;&lt;b&gt;Perplexity&lt;/b&gt; · 68 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50488464&quot;&gt;13 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/perplexity-decider&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Perplexity&lt;/b&gt; · 101 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50488464&quot;&gt;21 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/perplexity-decider&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Enterprise Server support in the GitHub Copilot app</title>
@@ -67,7 +75,7 @@
       <guid isPermaLink="false">catnews-50487184</guid>
       <pubDate>Fri, 13 Nov 2026 17:55:23 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 121 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50487184&quot;&gt;54 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 145 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50487184&quot;&gt;64 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>XYBench: Helping with the problem behind the question</title>
@@ -107,7 +115,7 @@
       <guid isPermaLink="false">catnews-50481220</guid>
       <pubDate>Fri, 13 Nov 2026 10:20:09 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 193 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481220&quot;&gt;170 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/history&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 197 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481220&quot;&gt;172 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/history&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
@@ -115,7 +123,7 @@
       <guid isPermaLink="false">catnews-50481187</guid>
       <pubDate>Fri, 13 Nov 2026 10:18:13 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 478 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;377 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/incidents/nn11wk485zfn&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 484 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;383 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://status.claude.com/incidents/nn11wk485zfn&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.169.0 is out</title>
@@ -124,6 +132,14 @@
       <pubDate>Fri, 13 Nov 2026 08:37:05 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;The opt-in terminal workspace supports multiple side-chat tabs. Switch between them with the keyboard or mouse, and reopen saved local side chats after restarting Codex. ( #59784 , #60152 , #60181 ) · Search older tasks…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.169.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+      <link>https://openai.com/business/customer-stories/shield</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/shield</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/shield&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v2.3.0 is out</title>
@@ -195,7 +211,7 @@
       <guid isPermaLink="false">catnews-50472260</guid>
       <pubDate>Thu, 12 Nov 2026 18:52:01 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 493 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;160 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 495 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;161 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Hydrogen</title>
@@ -203,7 +219,7 @@
       <guid isPermaLink="false">catnews-50471431</guid>
       <pubDate>Thu, 12 Nov 2026 18:01:48 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 556 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;348 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 559 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;349 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing Gemini 4 Hydrogen</title>
@@ -235,23 +251,7 @@
       <guid isPermaLink="false">catnews-50465829</guid>
       <pubDate>Thu, 12 Nov 2026 11:46:41 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 989 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;901 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Holiday Extras is rethinking what it can build with Codex</title>
-      <link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/holidays-extras-codex</guid>
-      <pubDate>Thu, 12 Nov 2026 09:30:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/holidays-extras-codex&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gilbert + Tobin rethinks the business of law with AI</title>
-      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/gilbert-tobin-sam-nickless</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gilbert-tobin-sam-nickless&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 996 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;905 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
