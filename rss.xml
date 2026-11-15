@@ -11,15 +11,31 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 20:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:59:48 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>A step toward defining the Standard Model on a lattice</title>
+      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/step-toward-defining-the-standard-model</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/step-toward-defining-the-standard-model&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our new blog for science</title>
+      <link>https://openai.com/index/our-new-blog-for-science</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/our-new-blog-for-science</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-new-blog-for-science&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude asked to renumber pages deletes professor&apos;s syllabus, year of notes</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</link>
       <guid isPermaLink="false">catnews-50499114</guid>
       <pubDate>Sat, 14 Nov 2026 17:51:13 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50499114&quot;&gt;74 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50499114&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
@@ -27,7 +43,7 @@
       <guid isPermaLink="false">catnews-50497589</guid>
       <pubDate>Sat, 14 Nov 2026 15:04:15 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 266 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50497589&quot;&gt;26 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 272 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50497589&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Claude Delusion</title>
@@ -35,7 +51,7 @@
       <guid isPermaLink="false">catnews-50496921</guid>
       <pubDate>Sat, 14 Nov 2026 13:36:17 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 149 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50496921&quot;&gt;197 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.netmeister.org/blog/claude-delusion.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 151 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50496921&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.netmeister.org/blog/claude-delusion.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic upgrades Claude Code Projects to run parallel AI workers</title>
@@ -43,31 +59,7 @@
       <guid isPermaLink="false">catnews-50492141</guid>
       <pubDate>Sat, 14 Nov 2026 00:28:11 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 99 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50492141&quot;&gt;95 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/projects-redesigned&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Meetings</title>
-      <link>https://claude.com/resources/articles/claude-meetings</link>
-      <guid isPermaLink="false">catnews-50491097</guid>
-      <pubDate>Fri, 13 Nov 2026 22:39:15 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 111 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50491097&quot;&gt;88 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/claude-meetings&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Upcoming deprecation of selected GitHub Copilot models in December</title>
-      <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</guid>
-      <pubDate>Fri, 13 Nov 2026 20:40:05 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.325 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.325</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.325</guid>
-      <pubDate>Fri, 13 Nov 2026 20:40:01 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Fixed a security issue in how zstd-compressed responses are decoded · Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.325&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 100 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50492141&quot;&gt;95 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/projects-redesigned&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
