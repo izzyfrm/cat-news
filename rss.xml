@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 23:59:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:12:15 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>A step toward defining the Standard Model on a lattice</title>
@@ -43,7 +43,7 @@
       <guid isPermaLink="false">catnews-50497589</guid>
       <pubDate>Sat, 14 Nov 2026 15:04:15 GMT</pubDate>
       <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 272 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50497589&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 272 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50497589&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Claude Delusion</title>
@@ -51,15 +51,7 @@
       <guid isPermaLink="false">catnews-50496921</guid>
       <pubDate>Sat, 14 Nov 2026 13:36:17 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 151 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50496921&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.netmeister.org/blog/claude-delusion.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic upgrades Claude Code Projects to run parallel AI workers</title>
-      <link>https://claude.com/resources/articles/projects-redesigned</link>
-      <guid isPermaLink="false">catnews-50492141</guid>
-      <pubDate>Sat, 14 Nov 2026 00:28:11 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 100 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50492141&quot;&gt;95 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.com/resources/articles/projects-redesigned&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 152 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50496921&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.netmeister.org/blog/claude-delusion.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
