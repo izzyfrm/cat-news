@@ -11,8 +11,48 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 06:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:58:10 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>New Ask Maps features to help with holiday travel and prep</title>
+      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/lvmh-media-division-partnership</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/lvmh-media-division-partnership&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advancing computer-use agents for healthcare teams</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-computer-use-for-healthcare-teams&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>More ways to move care forward with ChatGPT for Healthcare</title>
+      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The King’s Trust and OpenAI launch £1m partnership</title>
+      <link>https://openai.com/index/the-kings-trust-and-openai</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-kings-trust-and-openai</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-kings-trust-and-openai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A step toward defining the Standard Model on a lattice</title>
       <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
@@ -36,22 +76,6 @@
       <pubDate>Sat, 14 Nov 2026 17:51:13 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50499114&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
-      <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
-      <guid isPermaLink="false">catnews-50497589</guid>
-      <pubDate>Sat, 14 Nov 2026 15:04:15 GMT</pubDate>
-      <category>DeepSeek</category>
-      <description>&lt;p&gt;&lt;b&gt;DeepSeek&lt;/b&gt; · 272 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50497589&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Claude Delusion</title>
-      <link>https://www.netmeister.org/blog/claude-delusion.html</link>
-      <guid isPermaLink="false">catnews-50496921</guid>
-      <pubDate>Sat, 14 Nov 2026 13:36:17 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 152 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50496921&quot;&gt;199 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.netmeister.org/blog/claude-delusion.html&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
