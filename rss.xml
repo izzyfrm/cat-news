@@ -11,8 +11,40 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 07:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:33:21 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Advancing Claude for Financial Services</title>
+      <link>https://www.anthropic.com/news/advancing-claude-for-financial-services</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/advancing-claude-for-financial-services</guid>
+      <pubDate>Tue, 17 Nov 2026 17:10:23 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude for Financial Services adds a native Excel plugin, real-time market connectors, and skills for modeling, comp analysis, and earnings reports.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/advancing-claude-for-financial-services&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Put Gemini to work for you</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regulatory Capture by Anthropic Through METR</title>
+      <link>https://nitter.cf/kevinnbass/status/2099621874279817638</link>
+      <guid isPermaLink="false">catnews-50530450</guid>
+      <pubDate>Tue, 17 Nov 2026 12:21:57 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 133 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50530450&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nitter.cf/kevinnbass/status/2099621874279817638&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How the Claude Code team thinks about verification</title>
+      <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
+      <guid isPermaLink="false">catnews-50529612</guid>
+      <pubDate>Tue, 17 Nov 2026 10:20:40 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 160 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode v1.19.6 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.6</link>
@@ -27,7 +59,7 @@
       <guid isPermaLink="false">catnews-50526264</guid>
       <pubDate>Tue, 17 Nov 2026 01:35:16 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 43 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50526264&quot;&gt;14 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50526264&quot;&gt;20 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Strengthening NATO and allied cyber defenses with AI</title>
@@ -36,6 +68,14 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/strengthening-nato-allied-cyber-defences-ai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing OpenAI for Chile</title>
+      <link>https://openai.com/index/introducing-openai-for-chile</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-openai-for-chile</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-openai-for-chile&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode process-daemon v0.6.0 is out</title>
@@ -67,7 +107,47 @@
       <guid isPermaLink="false">catnews-50523459</guid>
       <pubDate>Mon, 16 Nov 2026 21:20:37 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 224 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;117 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 314 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;202 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic commits $10 million to Canadian AI research</title>
+      <link>https://www.anthropic.com/news/canadian-ai-research</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/canadian-ai-research</guid>
+      <pubDate>Mon, 16 Nov 2026 20:50:34 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/canadian-ai-research&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Singapore office and government MOU</title>
+      <link>https://www.anthropic.com/news/singapore-office-opening</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/singapore-office-opening</guid>
+      <pubDate>Mon, 16 Nov 2026 20:50:09 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/singapore-office-opening&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Funding better evaluations of AI’s impact on wellbeing</title>
+      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/wellbeing-research-grants</guid>
+      <pubDate>Mon, 16 Nov 2026 20:46:19 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/wellbeing-research-grants&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Barclays scales Claude to upgrade operations and improve client experience </title>
+      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/barclays-scales-claude</guid>
+      <pubDate>Mon, 16 Nov 2026 20:46:07 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/barclays-scales-claude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
+      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/claude-frontier-academy</guid>
+      <pubDate>Mon, 16 Nov 2026 20:45:52 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/claude-frontier-academy&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Copilot models deprecated on November 16, 2026</title>
@@ -115,7 +195,7 @@
       <guid isPermaLink="false">catnews-50519153</guid>
       <pubDate>Mon, 16 Nov 2026 16:07:20 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50519153&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-first-phase-of-embedded-assessments/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50519153&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-first-phase-of-embedded-assessments/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT Wallet</title>
@@ -172,54 +252,6 @@
       <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-computer-use-for-healthcare-teams&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More ways to move care forward with ChatGPT for Healthcare</title>
-      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The King’s Trust and OpenAI launch £1m partnership</title>
-      <link>https://openai.com/index/the-kings-trust-and-openai</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-kings-trust-and-openai</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-kings-trust-and-openai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>At Holiday Extras, dots get to work before anyone asks</title>
-      <link>https://openai.com/business/customer-stories/holiday-extras-dots</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/holiday-extras-dots</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/holiday-extras-dots&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
-      <link>https://huggingface.co/blog/openrouter</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/openrouter</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/openrouter&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A step toward defining the Standard Model on a lattice</title>
-      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/step-toward-defining-the-standard-model</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/step-toward-defining-the-standard-model&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our new blog for science</title>
-      <link>https://openai.com/index/our-new-blog-for-science</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/our-new-blog-for-science</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-new-blog-for-science&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
