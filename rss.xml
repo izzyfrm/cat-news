@@ -11,8 +11,120 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 17:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:58:22 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Claude Code v2.1.327 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.327</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.327</guid>
+      <pubDate>Tue, 17 Nov 2026 23:17:45 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a confirmation before /install-github-app changes a repository · Added claude mcp add-json - to read the server&apos;s JSON from stdin, so tokens can stay off the command line; not available inside a Claude Code session&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.327&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.3.1 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.3.1</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.3.1</guid>
+      <pubDate>Tue, 17 Nov 2026 22:53:34 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.3.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.3.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI 0.169.1 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.169.1</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.169.1</guid>
+      <pubDate>Tue, 17 Nov 2026 22:22:49 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Chores No verified release highlights available. Changelog Full Changelog: rust-v0.169.0...rust-v0.169.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.169.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
+      <link>https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</guid>
+      <pubDate>Tue, 17 Nov 2026 20:20:29 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6… The post OpenAI’s…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic Paid Rubio&apos;s Ex-Chief of Staff&apos;s Firm $740k.it Lobbied His NSC</title>
+      <link>https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc</link>
+      <guid isPermaLink="false">catnews-50536565</guid>
+      <pubDate>Tue, 17 Nov 2026 19:08:45 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50536565&quot;&gt;10 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
+      <link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
+      <pubDate>Tue, 17 Nov 2026 18:04:48 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot app, Microsoft Ignite releases</title>
+      <link>https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</guid>
+      <pubDate>Tue, 17 Nov 2026 18:03:42 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server instance, and the browser you’re… The post GitHub Copilot app,…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Copilot code review: Adaptive effort, secret detection, and more</title>
+      <link>https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</guid>
+      <pubDate>Tue, 17 Nov 2026 18:02:05 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and… The post Copilot code review: Adaptive…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
+      <pubDate>Tue, 17 Nov 2026 18:01:45 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash, two new models that represent a major… The post MAI Code 2 and MAI Code 2 Flash in…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot in JetBrains, Ignite releases</title>
+      <link>https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</guid>
+      <pubDate>Tue, 17 Nov 2026 18:00:59 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This update brings remote access, on-device voice dictation, and browser use controls to GitHub Copilot for JetBrains. Copilot users in JetBrains IDEs also get context usage shortcuts, historical diffs, simpler… The…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monitor GitHub Copilot activity through Microsoft Agent 365</title>
+      <link>https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</guid>
+      <pubDate>Tue, 17 Nov 2026 18:00:59 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Enterprises can now stream GitHub Copilot agent activity directly into Microsoft Agent 365. This lets you bring audit data from across GitHub Copilot clients into Microsoft’s agent control plane, where… The post Monitor…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot CLI adds Microsoft Entra sign-in as a preview</title>
+      <link>https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</guid>
+      <pubDate>Tue, 17 Nov 2026 18:00:35 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;GitHub Copilot CLI now supports Microsoft Entra authentication in public preview. You can sign in with your Microsoft Entra account to silently authenticate to a linked GitHub Enterprise Managed User… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track Copilot code review outcomes in Repository insights</title>
+      <link>https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</guid>
+      <pubDate>Tue, 17 Nov 2026 18:00:35 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now see how Copilot code review feedback lands in each repository. A new “Repository insights” page, the first item in a repository’s Insights tab, brings Copilot code review… The post Track Copilot code review…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing GPT-6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+      <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-gpt-6-2-astra-sol&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Advancing Claude for Financial Services</title>
       <link>https://www.anthropic.com/news/advancing-claude-for-financial-services</link>
@@ -35,7 +147,7 @@
       <guid isPermaLink="false">catnews-50530450</guid>
       <pubDate>Tue, 17 Nov 2026 12:21:57 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 133 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50530450&quot;&gt;72 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nitter.cf/kevinnbass/status/2099621874279817638&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 137 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50530450&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nitter.cf/kevinnbass/status/2099621874279817638&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How the Claude Code team thinks about verification</title>
@@ -43,7 +155,15 @@
       <guid isPermaLink="false">catnews-50529612</guid>
       <pubDate>Tue, 17 Nov 2026 10:20:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 160 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 251 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;196 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Sales</title>
+      <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-chatgpt-for-sales</guid>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-chatgpt-for-sales&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode v1.19.6 is out</title>
@@ -59,7 +179,7 @@
       <guid isPermaLink="false">catnews-50526264</guid>
       <pubDate>Tue, 17 Nov 2026 01:35:16 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50526264&quot;&gt;20 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50526264&quot;&gt;21 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Strengthening NATO and allied cyber defenses with AI</title>
@@ -76,6 +196,14 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-openai-for-chile&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Astra for Law leads in legal intelligence</title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/astra-law-6-2</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/astra-law-6-2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenCode process-daemon v0.6.0 is out</title>
@@ -107,7 +235,7 @@
       <guid isPermaLink="false">catnews-50523459</guid>
       <pubDate>Mon, 16 Nov 2026 21:20:37 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 314 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;202 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 323 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;210 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic commits $10 million to Canadian AI research</title>
@@ -124,134 +252,6 @@
       <pubDate>Mon, 16 Nov 2026 20:50:09 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/singapore-office-opening&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Funding better evaluations of AI’s impact on wellbeing</title>
-      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/wellbeing-research-grants</guid>
-      <pubDate>Mon, 16 Nov 2026 20:46:19 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/wellbeing-research-grants&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Barclays scales Claude to upgrade operations and improve client experience </title>
-      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/barclays-scales-claude</guid>
-      <pubDate>Mon, 16 Nov 2026 20:46:07 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/barclays-scales-claude&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
-      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/claude-frontier-academy</guid>
-      <pubDate>Mon, 16 Nov 2026 20:45:52 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/claude-frontier-academy&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot models deprecated on November 16, 2026</title>
-      <link>https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</guid>
-      <pubDate>Mon, 16 Nov 2026 20:25:20 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Control where GitHub Copilot customizations come from</title>
-      <link>https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from</guid>
-      <pubDate>Mon, 16 Nov 2026 19:48:33 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>VS Code retires the Local harness in February 2027</title>
-      <link>https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027</guid>
-      <pubDate>Mon, 16 Nov 2026 19:22:56 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will… The post VS Code retires…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Broadening access to AI for scientists</title>
-      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/expanding-chatgpt-for-academic-researchers&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
-      <link>https://openai.com/index/strengthening-online-child-safety</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/strengthening-online-child-safety</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/strengthening-online-child-safety&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First phase of embedded assessments at OpenAI</title>
-      <link>https://openai.com/index/our-first-phase-of-embedded-assessments/</link>
-      <guid isPermaLink="false">catnews-50519153</guid>
-      <pubDate>Mon, 16 Nov 2026 16:07:20 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50519153&quot;&gt;18 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-first-phase-of-embedded-assessments/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT Wallet</title>
-      <link>https://openai.com/index/introducing-chatgpt-wallet/</link>
-      <guid isPermaLink="false">catnews-50518501</guid>
-      <pubDate>Mon, 16 Nov 2026 15:17:56 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50518501&quot;&gt;80 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-chatgpt-wallet/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Ask Maps features to help with holiday travel and prep</title>
-      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
-      <guid isPermaLink="false">catnews-gemini:https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Science at the Frontier: How scientists use ChatGPT</title>
-      <link>https://openai.com/index/science-at-the-frontier</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/science-at-the-frontier</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/science-at-the-frontier&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Revolut raises ambition without lowering the bar</title>
-      <link>https://openai.com/business/customer-stories/revolut</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/revolut</guid>
-      <pubDate>Mon, 16 Nov 2026 09:30:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/revolut&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
-      <link>https://openai.com/index/lvmh-media-division-partnership</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/lvmh-media-division-partnership</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/lvmh-media-division-partnership&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our first phase of embedded assessments</title>
-      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-first-phase-of-embedded-assessments&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advancing computer-use agents for healthcare teams</title>
-      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-computer-use-for-healthcare-teams&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
