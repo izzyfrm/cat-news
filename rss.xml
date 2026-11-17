@@ -11,8 +11,32 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 00:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:57:39 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode v1.19.6 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v1.19.6</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v1.19.6</guid>
+      <pubDate>Tue, 17 Nov 2026 07:21:32 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;OpenCode 1 now offers the upgrade to OpenCode 2.0. OpenCode 2 downloads in the background and installs only when you choose: Restart to upgrade, Upgrade on quit, or Later. Your sessions, projects, and settings are kept.…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v1.19.6&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Mythos slashed software work to onboard AMD GPUs to around three days</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</link>
+      <guid isPermaLink="false">catnews-50526264</guid>
+      <pubDate>Tue, 17 Nov 2026 01:35:16 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 43 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50526264&quot;&gt;14 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Strengthening NATO and allied cyber defenses with AI</title>
+      <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/strengthening-nato-allied-cyber-defences-ai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenCode process-daemon v0.6.0 is out</title>
       <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0</link>
@@ -43,7 +67,7 @@
       <guid isPermaLink="false">catnews-50523459</guid>
       <pubDate>Mon, 16 Nov 2026 21:20:37 GMT</pubDate>
       <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 72 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;36 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 224 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;117 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Copilot models deprecated on November 16, 2026</title>
@@ -52,6 +76,22 @@
       <pubDate>Mon, 16 Nov 2026 20:25:20 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Control where GitHub Copilot customizations come from</title>
+      <link>https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from</guid>
+      <pubDate>Mon, 16 Nov 2026 19:48:33 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VS Code retires the Local harness in February 2027</title>
+      <link>https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027</guid>
+      <pubDate>Mon, 16 Nov 2026 19:22:56 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will… The post VS Code retires…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Broadening access to AI for scientists</title>
@@ -70,12 +110,20 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/strengthening-online-child-safety&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>First phase of embedded assessments at OpenAI</title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments/</link>
+      <guid isPermaLink="false">catnews-50519153</guid>
+      <pubDate>Mon, 16 Nov 2026 16:07:20 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 49 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50519153&quot;&gt;17 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-first-phase-of-embedded-assessments/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ChatGPT Wallet</title>
       <link>https://openai.com/index/introducing-chatgpt-wallet/</link>
       <guid isPermaLink="false">catnews-50518501</guid>
       <pubDate>Mon, 16 Nov 2026 15:17:56 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50518501&quot;&gt;79 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-chatgpt-wallet/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50518501&quot;&gt;80 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-chatgpt-wallet/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Ask Maps features to help with holiday travel and prep</title>
@@ -92,6 +140,14 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/science-at-the-frontier&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Revolut raises ambition without lowering the bar</title>
+      <link>https://openai.com/business/customer-stories/revolut</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/revolut</guid>
+      <pubDate>Mon, 16 Nov 2026 09:30:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/revolut&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
