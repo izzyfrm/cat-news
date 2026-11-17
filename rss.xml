@@ -11,8 +11,72 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 15:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:08:58 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>OpenCode process-daemon v0.6.0 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.6.0</guid>
+      <pubDate>Mon, 16 Nov 2026 23:36:04 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.6.0 (protocol 9) from packages/process-daemon, published to npm as @opencode/pty@0.6.0.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.326 is out</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.326</link>
+      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.326</guid>
+      <pubDate>Mon, 16 Nov 2026 22:11:05 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode · Added a startup warning when an --allowedTools , --disallowedTools or…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.326&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot weekly releases — November 9</title>
+      <link>https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</guid>
+      <pubDate>Mon, 16 Nov 2026 21:34:53 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude… The post GitHub Copilot weekly releases —…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode Browse</title>
+      <link>https://opencode.ai/product/browse</link>
+      <guid isPermaLink="false">catnews-50523459</guid>
+      <pubDate>Mon, 16 Nov 2026 21:20:37 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 72 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;36 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Copilot models deprecated on November 16, 2026</title>
+      <link>https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</link>
+      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</guid>
+      <pubDate>Mon, 16 Nov 2026 20:25:20 GMT</pubDate>
+      <category>Copilot</category>
+      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GitHub…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Broadening access to AI for scientists</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/expanding-chatgpt-for-academic-researchers&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/strengthening-online-child-safety</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/strengthening-online-child-safety&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet/</link>
+      <guid isPermaLink="false">catnews-50518501</guid>
+      <pubDate>Mon, 16 Nov 2026 15:17:56 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 45 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50518501&quot;&gt;79 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-chatgpt-wallet/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Ask Maps features to help with holiday travel and prep</title>
       <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
@@ -22,12 +86,28 @@
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Science at the Frontier: How scientists use ChatGPT</title>
+      <link>https://openai.com/index/science-at-the-frontier</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/science-at-the-frontier</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/science-at-the-frontier&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
       <link>https://openai.com/index/lvmh-media-division-partnership</link>
       <guid isPermaLink="false">catnews-openai:https://openai.com/index/lvmh-media-division-partnership</guid>
       <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/lvmh-media-division-partnership&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our first phase of embedded assessments</title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-first-phase-of-embedded-assessments&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advancing computer-use agents for healthcare teams</title>
@@ -54,6 +134,22 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-kings-trust-and-openai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>At Holiday Extras, dots get to work before anyone asks</title>
+      <link>https://openai.com/business/customer-stories/holiday-extras-dots</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/holiday-extras-dots</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/holiday-extras-dots&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
+      <link>https://huggingface.co/blog/openrouter</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/openrouter</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/openrouter&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A step toward defining the Standard Model on a lattice</title>
       <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
       <guid isPermaLink="false">catnews-openai:https://openai.com/index/step-toward-defining-the-standard-model</guid>
@@ -68,14 +164,6 @@
       <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/our-new-blog-for-science&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude asked to renumber pages deletes professor&apos;s syllabus, year of notes</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</link>
-      <guid isPermaLink="false">catnews-50499114</guid>
-      <pubDate>Sat, 14 Nov 2026 17:51:13 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 50 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50499114&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
