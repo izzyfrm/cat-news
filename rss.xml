@@ -11,8 +11,48 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 23:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:09:30 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Why is Gemini 4 Carbon taking so long?</title>
+      <link>https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</link>
+      <guid isPermaLink="false">catnews-50541790</guid>
+      <pubDate>Wed, 18 Nov 2026 04:14:04 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 42 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50541790&quot;&gt;25 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI 0.170.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.170.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@0.170.0</guid>
+      <pubDate>Wed, 18 Nov 2026 03:40:48 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) · Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.170.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex CLI v0.170.0 is out</title>
+      <link>https://github.com/openai/codex/releases/tag/rust-v0.170.0</link>
+      <guid isPermaLink="false">catnews-openai:openai/codex@v0.170.0</guid>
+      <pubDate>Wed, 18 Nov 2026 02:28:30 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.170.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.3.2 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.3.2</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.3.2</guid>
+      <pubDate>Wed, 18 Nov 2026 00:28:06 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.3.2&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.3.2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenCode v2.3.1 is out</title>
+      <link>https://github.com/anomalyco/opencode/releases/tag/v2.3.1</link>
+      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.3.1</guid>
+      <pubDate>Wed, 18 Nov 2026 00:17:57 GMT</pubDate>
+      <category>OpenCode</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Timed-Out Shell Commands Keep Running : A shell command still running when its timeout expires now moves to the background instead of being killed, so long builds and test runs finish and report back. A foreground…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.3.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code v2.1.327 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.327</link>
@@ -20,14 +60,6 @@
       <pubDate>Tue, 17 Nov 2026 23:17:45 GMT</pubDate>
       <category>Claude</category>
       <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added a confirmation before /install-github-app changes a repository · Added claude mcp add-json - to read the server&apos;s JSON from stdin, so tokens can stay off the command line; not available inside a Claude Code session&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.327&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode v2.3.1 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/v2.3.1</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@v2.3.1</guid>
-      <pubDate>Tue, 17 Nov 2026 22:53:34 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;release: v2.3.1&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.3.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.169.1 is out</title>
@@ -51,7 +83,7 @@
       <guid isPermaLink="false">catnews-50536565</guid>
       <pubDate>Tue, 17 Nov 2026 19:08:45 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50536565&quot;&gt;10 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50536565&quot;&gt;15 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
@@ -126,14 +158,6 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-gpt-6-2-astra-sol&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Advancing Claude for Financial Services</title>
-      <link>https://www.anthropic.com/news/advancing-claude-for-financial-services</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/advancing-claude-for-financial-services</guid>
-      <pubDate>Tue, 17 Nov 2026 17:10:23 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude for Financial Services adds a native Excel plugin, real-time market connectors, and skills for modeling, comp analysis, and earnings reports.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/advancing-claude-for-financial-services&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Put Gemini to work for you</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
       <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
@@ -147,7 +171,7 @@
       <guid isPermaLink="false">catnews-50530450</guid>
       <pubDate>Tue, 17 Nov 2026 12:21:57 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 137 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50530450&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nitter.cf/kevinnbass/status/2099621874279817638&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 140 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50530450&quot;&gt;74 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nitter.cf/kevinnbass/status/2099621874279817638&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How the Claude Code team thinks about verification</title>
@@ -155,7 +179,7 @@
       <guid isPermaLink="false">catnews-50529612</guid>
       <pubDate>Tue, 17 Nov 2026 10:20:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 251 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;196 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 280 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;224 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing ChatGPT for Sales</title>
@@ -179,7 +203,7 @@
       <guid isPermaLink="false">catnews-50526264</guid>
       <pubDate>Tue, 17 Nov 2026 01:35:16 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 52 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50526264&quot;&gt;21 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 55 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50526264&quot;&gt;21 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Strengthening NATO and allied cyber defenses with AI</title>
@@ -228,30 +252,6 @@
       <pubDate>Mon, 16 Nov 2026 21:34:53 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude… The post GitHub Copilot weekly releases —…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode Browse</title>
-      <link>https://opencode.ai/product/browse</link>
-      <guid isPermaLink="false">catnews-50523459</guid>
-      <pubDate>Mon, 16 Nov 2026 21:20:37 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · 323 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50523459&quot;&gt;210 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencode.ai/product/browse&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic commits $10 million to Canadian AI research</title>
-      <link>https://www.anthropic.com/news/canadian-ai-research</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/canadian-ai-research</guid>
-      <pubDate>Mon, 16 Nov 2026 20:50:34 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/canadian-ai-research&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Singapore office and government MOU</title>
-      <link>https://www.anthropic.com/news/singapore-office-opening</link>
-      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/singapore-office-opening</guid>
-      <pubDate>Mon, 16 Nov 2026 20:50:09 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/singapore-office-opening&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
