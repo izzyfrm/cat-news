@@ -11,15 +11,31 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 07:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:28:39 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+      <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:23 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why is Gemini 4 Carbon taking so long?</title>
       <link>https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</link>
       <guid isPermaLink="false">catnews-50541790</guid>
       <pubDate>Wed, 18 Nov 2026 04:14:04 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 42 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50541790&quot;&gt;25 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 226 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50541790&quot;&gt;118 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude was trained on protein sequences at scale</title>
+      <link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
+      <guid isPermaLink="false">catnews-50541619</guid>
+      <pubDate>Wed, 18 Nov 2026 03:47:43 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 132 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50541619&quot;&gt;57 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI 0.170.0 is out</title>
@@ -54,6 +70,22 @@
       <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Timed-Out Shell Commands Keep Running : A shell command still running when its timeout expires now moves to the background instead of being killed, so long builds and test runs finish and report back. A foreground…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/v2.3.1&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+      <link>https://huggingface.co/blog/rumble-2-flash</link>
+      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/rumble-2-flash</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Hugging Face</category>
+      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/rumble-2-flash&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude Code v2.1.327 is out</title>
       <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.327</link>
       <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.327</guid>
@@ -83,7 +115,7 @@
       <guid isPermaLink="false">catnews-50536565</guid>
       <pubDate>Tue, 17 Nov 2026 19:08:45 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 88 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50536565&quot;&gt;15 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 98 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50536565&quot;&gt;16 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
@@ -158,6 +190,14 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-gpt-6-2-astra-sol&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Advancing Claude for Financial Services</title>
+      <link>https://www.anthropic.com/news/advancing-claude-for-financial-services</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/advancing-claude-for-financial-services</guid>
+      <pubDate>Tue, 17 Nov 2026 17:10:23 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Claude for Financial Services adds a native Excel plugin, real-time market connectors, and skills for modeling, comp analysis, and earnings reports.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/advancing-claude-for-financial-services&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Put Gemini to work for you</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
       <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
@@ -179,7 +219,7 @@
       <guid isPermaLink="false">catnews-50529612</guid>
       <pubDate>Tue, 17 Nov 2026 10:20:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 280 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;224 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 289 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;229 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducing ChatGPT for Sales</title>
@@ -212,46 +252,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/strengthening-nato-allied-cyber-defences-ai&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing OpenAI for Chile</title>
-      <link>https://openai.com/index/introducing-openai-for-chile</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/introducing-openai-for-chile</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/introducing-openai-for-chile&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Astra for Law leads in legal intelligence</title>
-      <link>https://openai.com/index/astra-law-6-2</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/astra-law-6-2</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/astra-law-6-2&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenCode process-daemon v0.6.0 is out</title>
-      <link>https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0</link>
-      <guid isPermaLink="false">catnews-opencode:anomalyco/opencode@process-daemon v0.6.0</guid>
-      <pubDate>Mon, 16 Nov 2026 23:36:04 GMT</pubDate>
-      <category>OpenCode</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenCode&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;opencode-pty 0.6.0 (protocol 9) from packages/process-daemon, published to npm as @opencode/pty@0.6.0.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.326 is out</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.326</link>
-      <guid isPermaLink="false">catnews-claude:anthropics/claude-code@v2.1.326</guid>
-      <pubDate>Mon, 16 Nov 2026 22:11:05 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode · Added a startup warning when an --allowedTools , --disallowedTools or…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.326&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Copilot weekly releases — November 9</title>
-      <link>https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</link>
-      <guid isPermaLink="false">catnews-copilot:https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</guid>
-      <pubDate>Mon, 16 Nov 2026 21:34:53 GMT</pubDate>
-      <category>Copilot</category>
-      <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude… The post GitHub Copilot weekly releases —…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
