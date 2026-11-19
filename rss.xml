@@ -11,15 +11,71 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 13:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:43:44 GMT</lastBuildDate>
     <ttl>10</ttl>
+    <item>
+      <title>Gemini CLI Release v0.70.0 is out</title>
+      <link>https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0</link>
+      <guid isPermaLink="false">catnews-gemini:google-gemini/gemini-cli@Release v0.70.0</guid>
+      <pubDate>Thu, 19 Nov 2026 21:08:05 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog for v0.69.0-preview.0 by @gemini-cli-robot in #30222 · Changelog for v0.68.0 by @gemini-cli-robot in #30224&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Tool Retrieval in the Gemini API</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude solves two open problems in the physics of black holes</title>
+      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
+      <guid isPermaLink="false">catnews-50563148</guid>
+      <pubDate>Thu, 19 Nov 2026 17:30:44 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 288 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;117 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-black-hole-physics&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic hits $2T in Nasdaq debut</title>
+      <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
+      <guid isPermaLink="false">catnews-50562754</guid>
+      <pubDate>Thu, 19 Nov 2026 17:02:40 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 656 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50562754&quot;&gt;1148 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
+      <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <category>Gemini</category>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI still has a WebRTC Problem</title>
+      <link>https://moq.dev/blog/webrtc-is-still-the-problem/</link>
+      <guid isPermaLink="false">catnews-50560461</guid>
+      <pubDate>Thu, 19 Nov 2026 14:20:08 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 89 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50560461&quot;&gt;25 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://moq.dev/blog/webrtc-is-still-the-problem/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DeepMind Employees Are Unionising</title>
       <link>https://www.gdmunion.co.uk</link>
       <guid isPermaLink="false">catnews-50557885</guid>
       <pubDate>Thu, 19 Nov 2026 09:28:56 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 89 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50557885&quot;&gt;59 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.gdmunion.co.uk&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 110 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50557885&quot;&gt;76 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.gdmunion.co.uk&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <guid isPermaLink="false">catnews-openai:https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini CLI Release v0.69.0 is out</title>
@@ -43,7 +99,7 @@
       <guid isPermaLink="false">catnews-50554374</guid>
       <pubDate>Thu, 19 Nov 2026 00:29:45 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 237 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50554374&quot;&gt;73 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 249 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50554374&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fable: Written, painted and directed by Claude Fable 5.2</title>
@@ -51,7 +107,7 @@
       <guid isPermaLink="false">catnews-50554269</guid>
       <pubDate>Thu, 19 Nov 2026 00:18:18 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 60 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50554269&quot;&gt;59 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claudia.gallery/fable/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 61 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50554269&quot;&gt;63 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://claudia.gallery/fable/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic prices initial public offering</title>
@@ -59,7 +115,7 @@
       <guid isPermaLink="false">catnews-50553843</guid>
       <pubDate>Wed, 18 Nov 2026 23:30:09 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 294 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50553843&quot;&gt;543 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/anthropic-prices-initial-public-offering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 410 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50553843&quot;&gt;763 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/anthropic-prices-initial-public-offering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic prices initial public offering </title>
@@ -76,6 +132,14 @@
       <pubDate>Wed, 18 Nov 2026 22:04:50 GMT</pubDate>
       <category>Copilot</category>
       <description>&lt;p&gt;&lt;b&gt;Copilot&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. New services you can connect Box: Search and manage content, and… The post Connect…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Expanding the Cyber Verification Program</title>
+      <link>https://www.anthropic.com/news/cyber-verification-program</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/cyber-verification-program</guid>
+      <pubDate>Wed, 18 Nov 2026 21:55:37 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/cyber-verification-program&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Neon in GitHub Copilot</title>
@@ -99,7 +163,7 @@
       <guid isPermaLink="false">catnews-50552424</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:07 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 894 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;704 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1002 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;752 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini&apos;s &quot;Tasks&quot; Personal Assistant Is Now Free</title>
@@ -107,7 +171,7 @@
       <guid isPermaLink="false">catnews-50551601</guid>
       <pubDate>Wed, 18 Nov 2026 20:20:17 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 55 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50551601&quot;&gt;70 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 57 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50551601&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
@@ -139,7 +203,15 @@
       <guid isPermaLink="false">catnews-50549493</guid>
       <pubDate>Wed, 18 Nov 2026 17:45:47 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 214 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50549493&quot;&gt;152 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-chip-design-with-our-models/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 219 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50549493&quot;&gt;166 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-chip-design-with-our-models/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Focus areas for The Anthropic Institute</title>
+      <link>https://www.anthropic.com/news/anthropic-institute-agenda</link>
+      <guid isPermaLink="false">catnews-claude:https://www.anthropic.com/news/anthropic-institute-agenda</guid>
+      <pubDate>Wed, 18 Nov 2026 17:12:33 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;The Anthropic Institute investigates AI&apos;s impact on the world from within a frontier lab. Here are the questions driving its agenda.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/anthropic-institute-agenda&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Gemini app is now available on lower-memory Android devices.</title>
@@ -155,7 +227,7 @@
       <guid isPermaLink="false">catnews-50548485</guid>
       <pubDate>Wed, 18 Nov 2026 16:41:22 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 135 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50548485&quot;&gt;77 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 140 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50548485&quot;&gt;79 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Customize GitHub Copilot for your team</title>
@@ -181,78 +253,6 @@
       <category>Claude</category>
       <category>OpenAI</category>
       <description>&lt;p&gt;&lt;b&gt;Claude, OpenAI&lt;/b&gt; · 46 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50547223&quot;&gt;24 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
-      <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:23 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Silent Consensus</title>
-      <link>https://openai.com/index/the-silent-consensus</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/the-silent-consensus</guid>
-      <pubDate>Wed, 18 Nov 2026 10:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/the-silent-consensus&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Research acceleration: The jagged frontier</title>
-      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/research-acceleration-jagged-frontier</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/research-acceleration-jagged-frontier&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
-      <link>https://openai.com/business/customer-stories/sumitomo-life</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/business/customer-stories/sumitomo-life</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/business/customer-stories/sumitomo-life&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Inside the Codex sandbox</title>
-      <link>https://openai.com/index/inside-the-codex-sandbox</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/inside-the-codex-sandbox</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/inside-the-codex-sandbox&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Managing frontier AI risk: From training to deployment</title>
-      <link>https://openai.com/index/managing-frontier-ai-risk</link>
-      <guid isPermaLink="false">catnews-openai:https://openai.com/index/managing-frontier-ai-risk</guid>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/managing-frontier-ai-risk&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why is Gemini 4 Carbon taking so long?</title>
-      <link>https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</link>
-      <guid isPermaLink="false">catnews-50541790</guid>
-      <pubDate>Wed, 18 Nov 2026 04:14:04 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 271 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50541790&quot;&gt;139 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude was trained on protein sequences at scale</title>
-      <link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
-      <guid isPermaLink="false">catnews-50541619</guid>
-      <pubDate>Wed, 18 Nov 2026 03:47:43 GMT</pubDate>
-      <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 175 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50541619&quot;&gt;75 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.170.0 is out</title>
-      <link>https://github.com/openai/codex/releases/tag/rust-v0.170.0</link>
-      <guid isPermaLink="false">catnews-openai:openai/codex@0.170.0</guid>
-      <pubDate>Wed, 18 Nov 2026 03:40:48 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) · Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 )&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.170.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
