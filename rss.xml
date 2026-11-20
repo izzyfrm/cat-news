@@ -11,7 +11,7 @@
       <title>CatNews</title>
       <link>https://catnews.space</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 02:40:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:33:27 GMT</lastBuildDate>
     <ttl>10</ttl>
     <item>
       <title>Codex CLI 0.171.0 is out</title>
@@ -22,12 +22,20 @@
       <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) · Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex/releases/tag/rust-v0.171.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>ChatGPT for SNES</title>
+      <link>https://www.bxfoundry.com/chatgpt_snes/</link>
+      <guid isPermaLink="false">catnews-50568548</guid>
+      <pubDate>Fri, 20 Nov 2026 00:25:59 GMT</pubDate>
+      <category>OpenAI</category>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 89 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50568548&quot;&gt;25 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bxfoundry.com/chatgpt_snes/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Gemini 4 Neon is the new #1 on the Models Engineering Index</title>
       <link>https://git-aarvin.github.io/mei/</link>
       <guid isPermaLink="false">catnews-50568130</guid>
       <pubDate>Thu, 19 Nov 2026 23:35:35 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 149 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50568130&quot;&gt;92 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://git-aarvin.github.io/mei/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 347 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50568130&quot;&gt;222 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://git-aarvin.github.io/mei/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex CLI v0.171.0 is out</title>
@@ -54,6 +62,14 @@
       <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official release&lt;/p&gt;&lt;p&gt;Changelog for v0.69.0-preview.0 by @gemini-cli-robot in #30222 · Changelog for v0.68.0 by @gemini-cli-robot in #30224&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>No Bailout for the AI Bubble, Anthropic IPO Protesters Say</title>
+      <link>https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/</link>
+      <guid isPermaLink="false">catnews-50564282</guid>
+      <pubDate>Thu, 19 Nov 2026 18:42:13 GMT</pubDate>
+      <category>Claude</category>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 47 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50564282&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Introducing Tool Retrieval in the Gemini API</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
       <guid isPermaLink="false">catnews-gemini:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
@@ -67,7 +83,7 @@
       <guid isPermaLink="false">catnews-50563148</guid>
       <pubDate>Thu, 19 Nov 2026 17:30:44 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 402 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;184 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-black-hole-physics&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 501 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;232 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/claude-black-hole-physics&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic’s Nasdaq debut</title>
@@ -75,7 +91,7 @@
       <guid isPermaLink="false">catnews-50562754</guid>
       <pubDate>Thu, 19 Nov 2026 17:02:40 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 939 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50562754&quot;&gt;1851 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 1084 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50562754&quot;&gt;2147 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
@@ -91,7 +107,7 @@
       <guid isPermaLink="false">catnews-50560461</guid>
       <pubDate>Thu, 19 Nov 2026 14:20:08 GMT</pubDate>
       <category>OpenAI</category>
-      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 92 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50560461&quot;&gt;27 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://moq.dev/blog/webrtc-is-still-the-problem/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; · 97 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50560461&quot;&gt;28 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://moq.dev/blog/webrtc-is-still-the-problem/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepMind Employees Are Unionising</title>
@@ -99,7 +115,7 @@
       <guid isPermaLink="false">catnews-50557885</guid>
       <pubDate>Thu, 19 Nov 2026 09:28:56 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 117 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50557885&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.gdmunion.co.uk&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 121 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50557885&quot;&gt;83 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.gdmunion.co.uk&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -131,7 +147,7 @@
       <guid isPermaLink="false">catnews-50554374</guid>
       <pubDate>Thu, 19 Nov 2026 00:29:45 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 251 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50554374&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 253 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50554374&quot;&gt;78 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fable: Written, painted and directed by Claude Fable 5.2</title>
@@ -179,7 +195,7 @@
       <guid isPermaLink="false">catnews-50553843</guid>
       <pubDate>Wed, 18 Nov 2026 23:30:09 GMT</pubDate>
       <category>Claude</category>
-      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 412 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50553843&quot;&gt;777 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/anthropic-prices-initial-public-offering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Claude&lt;/b&gt; · 416 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50553843&quot;&gt;784 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/anthropic-prices-initial-public-offering&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic prices initial public offering </title>
@@ -219,7 +235,7 @@
       <guid isPermaLink="false">catnews-50552424</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:07 GMT</pubDate>
       <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1020 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;761 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · 1035 points · &lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;768 comments on Hacker News&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/&quot;&gt;Read the story →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini&apos;s &quot;Tasks&quot; Personal Assistant Is Now Free</title>
@@ -236,22 +252,6 @@
       <pubDate>Wed, 18 Nov 2026 19:54:56 GMT</pubDate>
       <category>Hugging Face</category>
       <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why your fine-tuning job takes longer than the FLOPs say</title>
-      <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
-      <guid isPermaLink="false">catnews-huggingface:https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
-      <pubDate>Wed, 18 Nov 2026 18:53:43 GMT</pubDate>
-      <category>Hugging Face</category>
-      <description>&lt;p&gt;&lt;b&gt;Hugging Face&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Genie 4 is now available</title>
-      <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
-      <guid isPermaLink="false">catnews-gemini:https://deepmind.google/blog/genie-4-is-now-available/</guid>
-      <pubDate>Wed, 18 Nov 2026 18:13:42 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;p&gt;&lt;b&gt;Gemini&lt;/b&gt; · official post&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/genie-4-is-now-available/&quot;&gt;Read it →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
